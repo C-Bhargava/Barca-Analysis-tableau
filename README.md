@@ -1,6 +1,6 @@
 This is my final project for the course BUDT705 - Data Visualization for Business in my master's journey.
 
-I aimed to analyse the performances of my favorite football club, FC Barcelona, and specifically try to visualize the possible reasons for a dip in performances and reputation from the start of this decade before a revival in the 2024-25 season. Can they comeback and reclaim the throne of European football?
+I aimed to analyse the performances of my favorite football club, FC Barcelona, and specifically tried to visualize the possible reasons for a dip in performances and reputation from the start of this decade before a revival in the 2024-25 season. Can they comeback and reclaim the throne of European football?
 
 Here is the link to view the Tableau story: https://public.tableau.com/app/profile/chaitanya.bhargava/viz/FCBarcelonaAnalysis/BarcasFall
 
