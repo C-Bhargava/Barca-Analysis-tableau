@@ -6,7 +6,7 @@ Here is the link to view the Tableau story: https://public.tableau.com/app/profi
 
 The dataset was obtained from: https://github.com/xgabora/Club-Football-Match-Data-2000-2025/tree/main/data
 
-I extracted and transformed data specific to Barcelona's performances and rivals and created two subsets form the 'matches' file.
+I extracted and transformed data specific to Barcelona's performances and rivals and created two subsets from the 'matches' file.
 
 #Visca el barca
 
