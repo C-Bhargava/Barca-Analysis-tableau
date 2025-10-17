@@ -1,0 +1,1154 @@
+Date,Division,ClubCanonical,ClubNameRaw,Opponent,IsHome,GoalsFor,GoalsAgainst,Result,HomeShots,AwayShots,ShotsFor,ShotsAgainst,HomeYellow,AwayYellow,YellowsFor,YellowsAgainst,HomeRed,AwayRed,RedsFor,RedsAgainst,HomeFouls,AwayFouls,FoulsFor,FoulsAgainst,MatchID,Season
+9/9/2000,SP1,Barcelona,Barcelona,Malaga,TRUE,2,1,Win,,,,,,,,,,,,,,,,,503,2000-2001
+9/16/2000,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,1,3,Loss,,,,,,,,,,,,,,,,,689,2000-2001
+9/23/2000,SP1,Barcelona,Barcelona,Santander,TRUE,3,1,Win,,,,,,,,,,,,,,,,,810,2000-2001
+10/1/2000,SP1,Barcelona,Barcelona,La Coruna,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,973,2000-2001
+10/14/2000,SP1,Barcelona,Barcelona,Sociedad,FALSE,6,0,Win,,,,,,,,,,,,,,,,,1155,2000-2001
+10/21/2000,SP1,Barcelona,Barcelona,Real Madrid,TRUE,2,0,Win,,,,,,,,,,,,,,,,,1281,2000-2001
+10/28/2000,SP1,Barcelona,Barcelona,Mallorca,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,1489,2000-2001
+11/1/2000,SP1,Barcelona,Barcelona,Numancia,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,1564,2000-2001
+11/4/2000,SP1,Barcelona,Barcelona,Las Palmas,FALSE,1,0,Win,,,,,,,,,,,,,,,,,1650,2000-2001
+11/12/2000,SP1,Barcelona,Barcelona,Villarreal,TRUE,1,2,Loss,,,,,,,,,,,,,,,,,1860,2000-2001
+11/19/2000,SP1,Barcelona,Barcelona,Zaragoza,FALSE,1,3,Loss,,,,,,,,,,,,,,,,,2003,2000-2001
+11/26/2000,SP1,Barcelona,Barcelona,Osasuna,TRUE,2,0,Win,,,,,,,,,,,,,,,,,2107,2000-2001
+12/2/2000,SP1,Barcelona,Barcelona,Celta,FALSE,3,3,Draw,,,,,,,,,,,,,,,,,2237,2000-2001
+12/10/2000,SP1,Barcelona,Barcelona,Espanol,TRUE,4,2,Win,,,,,,,,,,,,,,,,,2406,2000-2001
+12/16/2000,SP1,Barcelona,Barcelona,Vallecano,FALSE,2,2,Draw,,,,,,,,,,,,,,,,,2543,2000-2001
+12/20/2000,SP1,Barcelona,Barcelona,Alaves,TRUE,3,2,Win,,,,,,,,,,,,,,,,,2626,2000-2001
+1/7/2001,SP1,Barcelona,Barcelona,Oviedo,FALSE,3,2,Win,,,,,,,,,,,,,,,,,2846,2000-2001
+1/13/2001,SP1,Barcelona,Barcelona,Valladolid,TRUE,3,1,Win,,,,,,,,,,,,,,,,,2904,2000-2001
+1/20/2001,SP1,Barcelona,Barcelona,Valencia,FALSE,1,0,Win,,,,,,,,,,,,,,,,,2997,2000-2001
+1/27/2001,SP1,Barcelona,Barcelona,Malaga,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,3111,2000-2001
+2/3/2001,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,7,0,Win,,,,,,,,,,,,,,,,,3237,2000-2001
+2/11/2001,SP1,Barcelona,Barcelona,Santander,FALSE,0,4,Loss,,,,,,,,,,,,,,,,,3425,2000-2001
+2/17/2001,SP1,Barcelona,Barcelona,La Coruna,TRUE,2,3,Loss,,,,,,,,,,,,,,,,,3493,2000-2001
+2/25/2001,SP1,Barcelona,Barcelona,Sociedad,TRUE,3,0,Win,,,,,,,,,,,,,,,,,3676,2000-2001
+3/3/2001,SP1,Barcelona,Barcelona,Real Madrid,FALSE,2,2,Draw,,,,,,,,,,,,,,,,,3796,2000-2001
+3/11/2001,SP1,Barcelona,Barcelona,Mallorca,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,3986,2000-2001
+3/18/2001,SP1,Barcelona,Barcelona,Numancia,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,4117,2000-2001
+4/1/2001,SP1,Barcelona,Barcelona,Las Palmas,TRUE,4,1,Win,,,,,,,,,,,,,,,,,4312,2000-2001
+4/8/2001,SP1,Barcelona,Barcelona,Villarreal,FALSE,4,4,Draw,,,,,,,,,,,,,,,,,4484,2000-2001
+4/14/2001,SP1,Barcelona,Barcelona,Zaragoza,TRUE,4,4,Draw,,,,,,,,,,,,,,,,,4600,2000-2001
+4/22/2001,SP1,Barcelona,Barcelona,Osasuna,FALSE,1,3,Loss,,,,,,,,,,,,,,,,,4813,2000-2001
+4/29/2001,SP1,Barcelona,Barcelona,Celta,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,5002,2000-2001
+5/5/2001,SP1,Barcelona,Barcelona,Espanol,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,5081,2000-2001
+5/13/2001,SP1,Barcelona,Barcelona,Vallecano,TRUE,5,1,Win,,,,,,,,,,,,,,,,,5262,2000-2001
+5/19/2001,SP1,Barcelona,Barcelona,Alaves,FALSE,1,0,Win,,,,,,,,,,,,,,,,,5330,2000-2001
+5/27/2001,SP1,Barcelona,Barcelona,Oviedo,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,5446,2000-2001
+6/10/2001,SP1,Barcelona,Barcelona,Valladolid,FALSE,2,2,Draw,,,,,,,,,,,,,,,,,5528,2000-2001
+6/17/2001,SP1,Barcelona,Barcelona,Valencia,TRUE,3,2,Win,,,,,,,,,,,,,,,,,5566,2000-2001
+8/26/2001,SP1,Barcelona,Barcelona,Sevilla,FALSE,2,1,Win,,,,,,,,,,,,,,,,,6096,2001-2002
+9/9/2001,SP1,Barcelona,Barcelona,Vallecano,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,6360,2001-2002
+9/15/2001,SP1,Barcelona,Barcelona,Osasuna,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,6417,2001-2002
+9/22/2001,SP1,Barcelona,Barcelona,Tenerife,TRUE,2,0,Win,,,,,,,,,,,,,,,,,6640,2001-2002
+9/29/2001,SP1,Barcelona,Barcelona,Sociedad,FALSE,2,0,Win,,,,,,,,,,,,,,,,,6844,2001-2002
+10/3/2001,SP1,Barcelona,Barcelona,Mallorca,TRUE,3,0,Win,,,,,,,,,,,,,,,,,7012,2001-2002
+10/6/2001,SP1,Barcelona,Barcelona,La Coruna,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,7054,2001-2002
+10/14/2001,SP1,Barcelona,Barcelona,Valencia,TRUE,2,2,Draw,,,,,,,,,,,,,,,,,7268,2001-2002
+10/20/2001,SP1,Barcelona,Barcelona,Malaga,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,7402,2001-2002
+10/27/2001,SP1,Barcelona,Barcelona,Betis,TRUE,3,0,Win,,,,,,,,,,,,,,,,,7557,2001-2002
+11/4/2001,SP1,Barcelona,Barcelona,Real Madrid,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,7868,2001-2002
+11/11/2001,SP1,Barcelona,Barcelona,Valladolid,TRUE,4,0,Win,,,,,,,,,,,,,,,,,7963,2001-2002
+11/17/2001,SP1,Barcelona,Barcelona,Las Palmas,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,8016,2001-2002
+11/24/2001,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,1,2,Loss,,,,,,,,,,,,,,,,,8176,2001-2002
+12/1/2001,SP1,Barcelona,Barcelona,Alaves,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,8451,2001-2002
+12/9/2001,SP1,Barcelona,Barcelona,Celta,TRUE,2,2,Draw,,,,,,,,,,,,,,,,,8647,2001-2002
+12/16/2001,SP1,Barcelona,Barcelona,Villarreal,FALSE,1,0,Win,,,,,,,,,,,,,,,,,8824,2001-2002
+12/22/2001,SP1,Barcelona,Barcelona,Espanol,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,8934,2001-2002
+1/6/2002,SP1,Barcelona,Barcelona,Zaragoza,TRUE,2,0,Win,,,,,,,,,,,,,,,,,9196,2001-2002
+1/13/2002,SP1,Barcelona,Barcelona,Sevilla,TRUE,3,1,Win,,,,,,,,,,,,,,,,,9331,2001-2002
+1/20/2002,SP1,Barcelona,Barcelona,Vallecano,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,9476,2001-2002
+1/27/2002,SP1,Barcelona,Barcelona,Osasuna,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,9624,2001-2002
+2/2/2002,SP1,Barcelona,Barcelona,Tenerife,FALSE,6,0,Win,,,,,,,,,,,,,,,,,9816,2001-2002
+2/6/2002,SP1,Barcelona,Barcelona,Sociedad,TRUE,2,0,Win,,,,,,,,,,,,,,,,,9935,2001-2002
+2/9/2002,SP1,Barcelona,Barcelona,Mallorca,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,10065,2001-2002
+2/16/2002,SP1,Barcelona,Barcelona,La Coruna,TRUE,3,2,Win,,,,,,,,,,,,,,,,,10176,2001-2002
+2/23/2002,SP1,Barcelona,Barcelona,Valencia,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,10415,2001-2002
+3/3/2002,SP1,Barcelona,Barcelona,Malaga,TRUE,5,1,Win,,,,,,,,,,,,,,,,,10660,2001-2002
+3/9/2002,SP1,Barcelona,Barcelona,Betis,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,10865,2001-2002
+3/16/2002,SP1,Barcelona,Barcelona,Real Madrid,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,11044,2001-2002
+3/24/2002,SP1,Barcelona,Barcelona,Valladolid,FALSE,2,1,Win,,,,,,,,,,,,,,,,,11295,2001-2002
+3/30/2002,SP1,Barcelona,Barcelona,Las Palmas,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,11355,2001-2002
+4/6/2002,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,2,0,Win,,,,,,,,,,,,,,,,,11564,2001-2002
+4/14/2002,SP1,Barcelona,Barcelona,Alaves,TRUE,3,2,Win,,,,,,,,,,,,,,,,,11873,2001-2002
+4/20/2002,SP1,Barcelona,Barcelona,Celta,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,11979,2001-2002
+4/27/2002,SP1,Barcelona,Barcelona,Villarreal,TRUE,4,1,Win,,,,,,,,,,,,,,,,,12061,2001-2002
+5/5/2002,SP1,Barcelona,Barcelona,Espanol,TRUE,2,0,Win,,,,,,,,,,,,,,,,,12237,2001-2002
+5/11/2002,SP1,Barcelona,Barcelona,Zaragoza,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,12256,2001-2002
+9/1/2002,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,2,2,Draw,,,,,,,,,,,,,,,,,12919,2002-2003
+9/14/2002,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,2,0,Win,,,,,,,,,,,,,,,,,13152,2002-2003
+9/21/2002,SP1,Barcelona,Barcelona,Espanol,TRUE,2,0,Win,,,,,,,,,,,,,,,,,13263,2002-2003
+9/28/2002,SP1,Barcelona,Barcelona,Betis,FALSE,0,3,Loss,,,,,,,,,,,,,,,,,13439,2002-2003
+10/6/2002,SP1,Barcelona,Barcelona,Osasuna,TRUE,2,2,Draw,,,,,,,,,,,,,,,,,13727,2002-2003
+10/20/2002,SP1,Barcelona,Barcelona,Valladolid,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,13995,2002-2003
+10/26/2002,SP1,Barcelona,Barcelona,Alaves,TRUE,6,1,Win,,,,,,,,,,,,,,,,,14039,2002-2003
+11/3/2002,SP1,Barcelona,Barcelona,Santander,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,14389,2002-2003
+11/9/2002,SP1,Barcelona,Barcelona,Villarreal,TRUE,1,0,Win,,,,,,,,,,,,,,,,,14437,2002-2003
+11/16/2002,SP1,Barcelona,Barcelona,La Coruna,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,14590,2002-2003
+11/23/2002,SP1,Barcelona,Barcelona,Real Madrid,TRUE,0,0,Draw,,,,,,,,,,,,,,,,,14769,2002-2003
+12/1/2002,SP1,Barcelona,Barcelona,Sociedad,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,14938,2002-2003
+12/7/2002,SP1,Barcelona,Barcelona,Vallecano,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,14996,2002-2003
+12/15/2002,SP1,Barcelona,Barcelona,Sevilla,TRUE,0,3,Loss,,,,,,,,,,,,,,,,,15089,2002-2003
+12/21/2002,SP1,Barcelona,Barcelona,Mallorca,FALSE,4,0,Win,,,,,,,,,,,,,,,,,15162,2002-2003
+1/5/2003,SP1,Barcelona,Barcelona,Recreativo,TRUE,3,0,Win,,,,,,,,,,,,,,,,,15355,2002-2003
+1/12/2003,SP1,Barcelona,Barcelona,Malaga,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,15405,2002-2003
+1/18/2003,SP1,Barcelona,Barcelona,Valencia,TRUE,2,4,Loss,,,,,,,,,,,,,,,,,15483,2002-2003
+1/26/2003,SP1,Barcelona,Barcelona,Celta,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,15570,2002-2003
+2/1/2003,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,0,3,Loss,,,,,,,,,,,,,,,,,15703,2002-2003
+2/9/2003,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,2,2,Draw,,,,,,,,,,,,,,,,,15819,2002-2003
+2/15/2003,SP1,Barcelona,Barcelona,Espanol,FALSE,2,0,Win,,,,,,,,,,,,,,,,,15862,2002-2003
+2/22/2003,SP1,Barcelona,Barcelona,Betis,TRUE,4,0,Win,,,,,,,,,,,,,,,,,15919,2002-2003
+3/2/2003,SP1,Barcelona,Barcelona,Osasuna,FALSE,2,2,Draw,,,,,,,,,,,,,,,,,15980,2002-2003
+3/8/2003,SP1,Barcelona,Barcelona,Valladolid,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,16027,2002-2003
+3/16/2003,SP1,Barcelona,Barcelona,Alaves,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,16092,2002-2003
+3/23/2003,SP1,Barcelona,Barcelona,Santander,TRUE,6,1,Win,,,,,,,,,,,,,,,,,16197,2002-2003
+4/5/2003,SP1,Barcelona,Barcelona,Villarreal,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,16262,2002-2003
+4/12/2003,SP1,Barcelona,Barcelona,La Coruna,TRUE,2,4,Loss,,,,,,,,,,,,,,,,,16306,2002-2003
+4/19/2003,SP1,Barcelona,Barcelona,Real Madrid,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,16372,2002-2003
+4/27/2003,SP1,Barcelona,Barcelona,Sociedad,TRUE,2,1,Win,,,,,,,,,,,,,,,,,16438,2002-2003
+5/4/2003,SP1,Barcelona,Barcelona,Vallecano,TRUE,3,0,Win,,,,,,,,,,,,,,,,,16495,2002-2003
+5/11/2003,SP1,Barcelona,Barcelona,Sevilla,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,16541,2002-2003
+5/18/2003,SP1,Barcelona,Barcelona,Mallorca,TRUE,1,2,Loss,,,,,,,,,,,,,,,,,16577,2002-2003
+5/25/2003,SP1,Barcelona,Barcelona,Recreativo,FALSE,3,1,Win,,,,,,,,,,,,,,,,,16611,2002-2003
+6/1/2003,SP1,Barcelona,Barcelona,Malaga,TRUE,2,1,Win,,,,,,,,,,,,,,,,,16623,2002-2003
+6/15/2003,SP1,Barcelona,Barcelona,Valencia,FALSE,3,1,Win,,,,,,,,,,,,,,,,,16640,2002-2003
+6/22/2003,SP1,Barcelona,Barcelona,Celta,TRUE,2,0,Win,,,,,,,,,,,,,,,,,16647,2002-2003
+8/30/2003,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,1,0,Win,,,,,,,,,,,,,,,,,17046,2003-2004
+9/3/2003,SP1,Barcelona,Barcelona,Sevilla,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,17171,2003-2004
+9/14/2003,SP1,Barcelona,Barcelona,Albacete,FALSE,2,1,Win,,,,,,,,,,,,,,,,,17332,2003-2004
+9/20/2003,SP1,Barcelona,Barcelona,Osasuna,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,17431,2003-2004
+9/28/2003,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,17681,2003-2004
+10/5/2003,SP1,Barcelona,Barcelona,Valencia,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,17884,2003-2004
+10/18/2003,SP1,Barcelona,Barcelona,La Coruna,TRUE,0,2,Loss,,,,,,,,,,,,,,,,,17970,2003-2004
+10/26/2003,SP1,Barcelona,Barcelona,Mallorca,FALSE,3,1,Win,,,,,,,,,,,,,,,,,18227,2003-2004
+10/29/2003,SP1,Barcelona,Barcelona,Murcia,TRUE,3,0,Win,,,,,,,,,,,,,,,,,18255,2003-2004
+11/2/2003,SP1,Barcelona,Barcelona,Sociedad,FALSE,3,3,Draw,,,,,,,,,,,,,,,,,18378,2003-2004
+11/9/2003,SP1,Barcelona,Barcelona,Betis,TRUE,2,1,Win,,,,,,,,,,,,,,,,,18470,2003-2004
+11/22/2003,SP1,Barcelona,Barcelona,Villarreal,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,18584,2003-2004
+11/30/2003,SP1,Barcelona,Barcelona,Valladolid,TRUE,0,0,Draw,,,,,,,,,,,,,,,,,18768,2003-2004
+12/3/2003,SP1,Barcelona,Barcelona,Malaga,FALSE,1,5,Loss,,,,,,,,,,,,,,,,,18788,2003-2004
+12/6/2003,SP1,Barcelona,Barcelona,Real Madrid,TRUE,1,2,Loss,,,,,,,,,,,,,,,,,18810,2003-2004
+12/13/2003,SP1,Barcelona,Barcelona,Espanol,FALSE,3,1,Win,,,,,,,,,,,,,,,,,18929,2003-2004
+12/21/2003,SP1,Barcelona,Barcelona,Celta,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,19127,2003-2004
+1/4/2004,SP1,Barcelona,Barcelona,Santander,FALSE,0,3,Loss,,,,,,,,,,,,,,,,,19296,2003-2004
+1/11/2004,SP1,Barcelona,Barcelona,Zaragoza,TRUE,3,0,Win,,,,,,,,,,,,,,,,,19401,2003-2004
+1/17/2004,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,19437,2003-2004
+1/25/2004,SP1,Barcelona,Barcelona,Sevilla,FALSE,1,0,Win,,,,,,,,,,,,,,,,,19590,2003-2004
+2/1/2004,SP1,Barcelona,Barcelona,Albacete,TRUE,5,0,Win,,,,,,,,,,,,,,,,,19714,2003-2004
+2/8/2004,SP1,Barcelona,Barcelona,Osasuna,FALSE,2,1,Win,,,,,,,,,,,,,,,,,19817,2003-2004
+2/15/2004,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,3,1,Win,,,,,,,,,,,,,,,,,19895,2003-2004
+2/21/2004,SP1,Barcelona,Barcelona,Valencia,FALSE,1,0,Win,,,,,,,,,,,,,,,,,19953,2003-2004
+2/29/2004,SP1,Barcelona,Barcelona,La Coruna,FALSE,3,2,Win,,,,,,,,,,,,,,,,,20084,2003-2004
+3/7/2004,SP1,Barcelona,Barcelona,Mallorca,TRUE,3,2,Win,,,,,,,,,,,,,,,,,20261,2003-2004
+3/14/2004,SP1,Barcelona,Barcelona,Murcia,FALSE,2,0,Win,,,,,,,,,,,,,,,,,20424,2003-2004
+3/21/2004,SP1,Barcelona,Barcelona,Sociedad,TRUE,1,0,Win,,,,,,,,,,,,,,,,,20587,2003-2004
+4/3/2004,SP1,Barcelona,Barcelona,Villarreal,TRUE,0,0,Draw,,,,,,,,,,,,,,,,,20865,2003-2004
+4/10/2004,SP1,Barcelona,Barcelona,Valladolid,FALSE,3,1,Win,,,,,,,,,,,,,,,,,21021,2003-2004
+4/14/2004,SP1,Barcelona,Barcelona,Betis,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,21102,2003-2004
+4/18/2004,SP1,Barcelona,Barcelona,Malaga,TRUE,3,0,Win,,,,,,,,,,,,,,,,,21226,2003-2004
+4/25/2004,SP1,Barcelona,Barcelona,Real Madrid,FALSE,2,1,Win,,,,,,,,,,,,,,,,,21393,2003-2004
+5/2/2004,SP1,Barcelona,Barcelona,Espanol,TRUE,4,1,Win,,,,,,,,,,,,,,,,,21517,2003-2004
+5/8/2004,SP1,Barcelona,Barcelona,Celta,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,21587,2003-2004
+5/16/2004,SP1,Barcelona,Barcelona,Santander,TRUE,1,0,Win,,,,,,,,,,,,,,,,,21712,2003-2004
+5/23/2004,SP1,Barcelona,Barcelona,Zaragoza,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,21738,2003-2004
+8/29/2004,SP1,Barcelona,Barcelona,Santander,FALSE,2,0,Win,,,,,,,,,,,,,,,,,22368,2004-2005
+9/11/2004,SP1,Barcelona,Barcelona,Sevilla,TRUE,2,0,Win,,,,,,,,,,,,,,,,,22568,2004-2005
+9/19/2004,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,22800,2004-2005
+9/23/2004,SP1,Barcelona,Barcelona,Zaragoza,TRUE,4,1,Win,,,,,,,,,,,,,,,,,22855,2004-2005
+9/26/2004,SP1,Barcelona,Barcelona,Mallorca,FALSE,3,1,Win,,,,,,,,,,,,,,,,,22979,2004-2005
+10/3/2004,SP1,Barcelona,Barcelona,Numancia,TRUE,1,0,Win,,,,,,,,,,,,,,,,,23166,2004-2005
+10/16/2004,SP1,Barcelona,Barcelona,Espanol,FALSE,1,0,Win,,,,,,,,,,,,,,,,,23245,2004-2005
+10/24/2004,SP1,Barcelona,Barcelona,Osasuna,TRUE,3,0,Win,,,,,,,,,,,,,,,,,23543,2004-2005
+10/30/2004,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,23628,2004-2005
+11/6/2004,SP1,Barcelona,Barcelona,La Coruna,TRUE,2,1,Win,,,,,,,,,,,,,,,,,23769,2004-2005
+12/4/2004,SP1,Barcelona,Barcelona,Malaga,TRUE,4,0,Win,,,,,,,,,,,,,,,,,24225,2004-2005
+12/11/2004,SP1,Barcelona,Barcelona,Albacete,FALSE,2,1,Win,,,,,,,,,,,,,,,,,24385,2004-2005
+12/18/2004,SP1,Barcelona,Barcelona,Valencia,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,24597,2004-2005
+12/21/2004,SP1,Barcelona,Barcelona,Levante,TRUE,2,1,Win,,,,,,,,,,,,,,,,,24665,2004-2005
+1/9/2005,SP1,Barcelona,Barcelona,Villarreal,FALSE,0,3,Loss,,,,,,,,,,,,,,,,,24962,2004-2005
+1/16/2005,SP1,Barcelona,Barcelona,Sociedad,TRUE,1,0,Win,,,,,,,,,,,,,,,,,25103,2004-2005
+1/22/2005,SP1,Barcelona,Barcelona,Santander,TRUE,3,0,Win,,,,,,,,,,,,,,,,,25216,2004-2005
+1/29/2005,SP1,Barcelona,Barcelona,Sevilla,FALSE,4,0,Win,,,,,,,,,,,,,,,,,25361,2004-2005
+2/26/2005,SP1,Barcelona,Barcelona,Numancia,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,25791,2004-2005
+3/1/2005,SP1,Barcelona,Barcelona,Espanol,TRUE,0,0,Draw,,,,,,,,,,,,,,,,,25905,2004-2005
+3/19/2005,SP1,Barcelona,Barcelona,La Coruna,FALSE,1,0,Win,,,,,,,,,,,,,,,,,26287,2004-2005
+4/24/2005,SP1,Barcelona,Barcelona,Malaga,FALSE,4,0,Win,,,,,,,,,,,,,,,,,26848,2004-2005
+5/1/2005,SP1,Barcelona,Barcelona,Albacete,TRUE,2,0,Win,,,,,,,,,,,,,,,,,26984,2004-2005
+5/8/2005,SP1,Barcelona,Barcelona,Valencia,FALSE,2,0,Win,,,,,,,,,,,,,,,,,27124,2004-2005
+5/14/2005,SP1,Barcelona,Barcelona,Levante,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,27167,2004-2005
+5/22/2005,SP1,Barcelona,Barcelona,Villarreal,TRUE,3,3,Draw,,,,,,,,,,,,,,,,,27282,2004-2005
+5/29/2005,SP1,Barcelona,Barcelona,Sociedad,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,27365,2004-2005
+8/27/2005,SP1,Barcelona,Barcelona,Alaves,FALSE,0,0,Draw,5,17,17,5,0,1,1,0,0,0,0,0,17,19,19,17,27997,2005-2006
+9/11/2005,SP1,Barcelona,Barcelona,Mallorca,TRUE,2,0,Win,23,6,23,6,2,2,2,2,0,2,0,2,13,20,13,20,28313,2005-2006
+9/18/2005,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,1,2,Loss,16,18,18,16,2,2,2,2,1,0,0,1,22,17,17,22,28523,2005-2006
+9/21/2005,SP1,Barcelona,Barcelona,Valencia,TRUE,2,2,Draw,10,5,10,5,3,2,3,2,0,0,0,0,30,25,30,25,28602,2005-2006
+9/24/2005,SP1,Barcelona,Barcelona,Betis,FALSE,4,1,Win,9,23,23,9,4,2,2,4,1,0,0,1,19,17,17,19,28664,2005-2006
+10/1/2005,SP1,Barcelona,Barcelona,Zaragoza,TRUE,2,2,Draw,22,7,22,7,4,3,4,3,0,1,0,1,16,23,16,23,28889,2005-2006
+10/15/2005,SP1,Barcelona,Barcelona,La Coruna,FALSE,3,3,Draw,9,13,13,9,4,4,4,4,0,0,0,0,19,18,18,19,29239,2005-2006
+10/22/2005,SP1,Barcelona,Barcelona,Osasuna,TRUE,3,0,Win,24,6,24,6,1,4,1,4,0,0,0,0,10,21,10,21,29353,2005-2006
+10/26/2005,SP1,Barcelona,Barcelona,Malaga,TRUE,2,0,Win,36,4,36,4,0,5,0,5,0,0,0,0,6,24,6,24,29531,2005-2006
+10/30/2005,SP1,Barcelona,Barcelona,Sociedad,TRUE,5,0,Win,21,2,21,2,1,3,1,3,0,1,0,1,13,9,13,9,29705,2005-2006
+11/6/2005,SP1,Barcelona,Barcelona,Getafe,FALSE,3,1,Win,7,10,10,7,1,0,0,1,0,0,0,0,20,10,10,20,29913,2005-2006
+11/19/2005,SP1,Barcelona,Barcelona,Real Madrid,FALSE,3,0,Win,5,20,20,5,6,2,2,6,0,0,0,0,25,16,16,25,30033,2005-2006
+11/27/2005,SP1,Barcelona,Barcelona,Santander,TRUE,4,1,Win,25,3,25,3,1,2,1,2,0,1,0,1,13,30,13,30,30337,2005-2006
+12/4/2005,SP1,Barcelona,Barcelona,Villarreal,FALSE,2,0,Win,6,11,11,6,2,4,4,2,0,1,1,0,19,24,24,19,30516,2005-2006
+12/11/2005,SP1,Barcelona,Barcelona,Sevilla,TRUE,2,1,Win,14,7,14,7,4,2,4,2,0,0,0,0,24,19,24,19,30710,2005-2006
+12/17/2005,SP1,Barcelona,Barcelona,Cadiz,FALSE,3,1,Win,12,19,19,12,2,1,1,2,0,0,0,0,13,17,17,13,30787,2005-2006
+12/20/2005,SP1,Barcelona,Barcelona,Celta,TRUE,2,0,Win,15,4,15,4,1,3,1,3,0,0,0,0,15,26,15,26,30922,2005-2006
+1/7/2006,SP1,Barcelona,Barcelona,Espanol,FALSE,2,1,Win,9,19,19,9,6,3,3,6,0,0,0,0,29,20,20,29,31227,2005-2006
+1/15/2006,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,2,1,Win,16,8,16,8,2,4,2,4,1,0,1,0,18,24,18,24,31446,2005-2006
+1/22/2006,SP1,Barcelona,Barcelona,Alaves,TRUE,2,0,Win,25,3,25,3,1,2,1,2,0,0,0,0,23,19,23,19,31643,2005-2006
+1/29/2006,SP1,Barcelona,Barcelona,Mallorca,FALSE,3,0,Win,5,15,15,5,4,3,3,4,1,0,0,1,17,13,13,17,31809,2005-2006
+2/5/2006,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,1,3,Loss,15,13,15,13,3,4,3,4,0,0,0,0,19,26,19,26,31991,2005-2006
+2/12/2006,SP1,Barcelona,Barcelona,Valencia,FALSE,0,1,Loss,9,18,18,9,3,4,4,3,0,0,0,0,19,21,21,19,32227,2005-2006
+2/18/2006,SP1,Barcelona,Barcelona,Betis,TRUE,5,1,Win,19,13,19,13,4,2,4,2,0,0,0,0,20,22,20,22,32386,2005-2006
+2/25/2006,SP1,Barcelona,Barcelona,Zaragoza,FALSE,2,0,Win,5,8,8,5,1,0,0,1,1,0,0,1,20,15,15,20,32515,2005-2006
+3/4/2006,SP1,Barcelona,Barcelona,La Coruna,TRUE,3,2,Win,16,7,16,7,3,5,3,5,0,0,0,0,10,27,10,27,32684,2005-2006
+3/12/2006,SP1,Barcelona,Barcelona,Osasuna,FALSE,1,2,Loss,11,8,8,11,6,2,2,6,0,2,2,0,29,19,19,29,33001,2005-2006
+3/18/2006,SP1,Barcelona,Barcelona,Sociedad,FALSE,2,0,Win,9,14,14,9,2,2,2,2,0,0,0,0,21,14,14,21,33062,2005-2006
+3/21/2006,SP1,Barcelona,Barcelona,Getafe,TRUE,3,1,Win,15,9,15,9,1,2,1,2,0,0,0,0,17,18,17,18,33228,2005-2006
+3/25/2006,SP1,Barcelona,Barcelona,Malaga,FALSE,0,0,Draw,13,23,23,13,2,0,0,2,0,0,0,0,32,20,20,32,33344,2005-2006
+4/1/2006,SP1,Barcelona,Barcelona,Real Madrid,TRUE,1,1,Draw,35,3,35,3,2,6,2,6,0,1,0,1,21,18,21,18,33560,2005-2006
+4/9/2006,SP1,Barcelona,Barcelona,Santander,FALSE,2,2,Draw,8,10,10,8,4,1,1,4,0,1,1,0,19,15,15,19,33811,2005-2006
+4/14/2006,SP1,Barcelona,Barcelona,Villarreal,TRUE,1,0,Win,14,10,14,10,1,3,1,3,0,0,0,0,21,18,21,18,33877,2005-2006
+4/29/2006,SP1,Barcelona,Barcelona,Cadiz,TRUE,1,0,Win,14,7,14,7,1,3,1,3,0,0,0,0,15,19,15,19,34273,2005-2006
+5/3/2006,SP1,Barcelona,Barcelona,Celta,FALSE,1,0,Win,13,14,14,13,3,3,3,3,0,0,0,0,17,17,17,17,34444,2005-2006
+5/6/2006,SP1,Barcelona,Barcelona,Espanol,TRUE,2,0,Win,15,19,15,19,0,1,0,1,0,0,0,0,14,24,14,24,34486,2005-2006
+5/13/2006,SP1,Barcelona,Barcelona,Sevilla,FALSE,2,3,Loss,16,16,16,16,4,1,1,4,0,1,1,0,16,20,20,16,34642,2005-2006
+5/20/2006,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,1,3,Loss,15,13,13,15,0,1,1,0,0,0,0,0,16,9,9,16,34701,2005-2006
+8/26/2007,SP1,Barcelona,Barcelona,Santander,FALSE,0,0,Draw,14,13,13,14,1,1,1,1,1,0,0,1,13,11,11,13,41652,2007-2008
+9/2/2007,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,3,1,Win,16,9,16,9,1,2,1,2,1,1,1,1,20,15,20,15,41855,2007-2008
+9/16/2007,SP1,Barcelona,Barcelona,Osasuna,FALSE,0,0,Draw,7,9,9,7,3,2,2,3,0,0,0,0,19,18,18,19,42078,2007-2008
+9/22/2007,SP1,Barcelona,Barcelona,Sevilla,TRUE,2,1,Win,15,6,15,6,3,5,3,5,0,0,0,0,22,19,22,19,42176,2007-2008
+9/26/2007,SP1,Barcelona,Barcelona,Zaragoza,TRUE,4,1,Win,25,5,25,5,2,3,2,3,0,0,0,0,8,17,8,17,42356,2007-2008
+9/29/2007,SP1,Barcelona,Barcelona,Levante,FALSE,4,1,Win,7,15,15,7,5,0,0,5,0,0,0,0,15,14,14,15,42408,2007-2008
+10/7/2007,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,3,0,Win,17,8,17,8,1,4,1,4,0,0,0,0,11,16,11,16,42717,2007-2008
+10/20/2007,SP1,Barcelona,Barcelona,Villarreal,FALSE,1,3,Loss,8,13,13,8,1,3,3,1,0,0,0,0,13,21,21,13,42867,2007-2008
+10/28/2007,SP1,Barcelona,Barcelona,Almeria,TRUE,2,0,Win,14,7,14,7,2,3,2,3,0,0,0,0,16,12,16,12,43189,2007-2008
+11/1/2007,SP1,Barcelona,Barcelona,Valladolid,FALSE,1,1,Draw,13,12,12,13,1,0,0,1,0,0,0,0,22,12,12,22,43237,2007-2008
+11/4/2007,SP1,Barcelona,Barcelona,Betis,TRUE,3,0,Win,19,6,19,6,0,3,0,3,0,0,0,0,6,23,6,23,43411,2007-2008
+11/10/2007,SP1,Barcelona,Barcelona,Getafe,FALSE,0,2,Loss,13,10,10,13,2,4,4,2,0,1,1,0,19,13,13,19,43507,2007-2008
+11/24/2007,SP1,Barcelona,Barcelona,Recreativo,TRUE,3,0,Win,19,4,19,4,2,4,2,4,0,0,0,0,13,13,13,13,43680,2007-2008
+12/1/2007,SP1,Barcelona,Barcelona,Espanol,FALSE,1,1,Draw,12,16,16,12,2,1,1,2,0,0,0,0,17,16,16,17,43940,2007-2008
+12/9/2007,SP1,Barcelona,Barcelona,La Coruna,TRUE,2,1,Win,20,9,20,9,1,3,1,3,0,0,0,0,18,20,18,20,44169,2007-2008
+12/15/2007,SP1,Barcelona,Barcelona,Valencia,FALSE,3,0,Win,11,16,16,11,3,1,1,3,0,0,0,0,18,15,15,18,44248,2007-2008
+12/23/2007,SP1,Barcelona,Barcelona,Real Madrid,TRUE,0,1,Loss,16,11,16,11,2,1,2,1,0,0,0,0,19,23,19,23,44531,2007-2008
+1/5/2008,SP1,Barcelona,Barcelona,Mallorca,FALSE,2,0,Win,10,15,15,10,1,3,3,1,0,0,0,0,16,12,12,16,44775,2007-2008
+1/12/2008,SP1,Barcelona,Barcelona,Murcia,TRUE,4,0,Win,18,9,18,9,3,1,3,1,0,0,0,0,13,9,13,9,44850,2007-2008
+1/20/2008,SP1,Barcelona,Barcelona,Santander,TRUE,1,0,Win,12,9,12,9,1,2,1,2,0,0,0,0,10,19,10,19,45009,2007-2008
+1/27/2008,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,1,1,Draw,17,8,8,17,3,0,0,3,0,0,0,0,21,12,12,21,45165,2007-2008
+2/3/2008,SP1,Barcelona,Barcelona,Osasuna,TRUE,1,0,Win,17,9,17,9,0,3,0,3,0,0,0,0,18,17,18,17,45355,2007-2008
+2/9/2008,SP1,Barcelona,Barcelona,Sevilla,FALSE,1,1,Draw,19,13,13,19,3,4,4,3,1,0,0,1,20,14,14,20,45514,2007-2008
+2/16/2008,SP1,Barcelona,Barcelona,Zaragoza,FALSE,2,1,Win,13,12,12,13,4,2,2,4,0,0,0,0,22,17,17,22,45725,2007-2008
+2/24/2008,SP1,Barcelona,Barcelona,Levante,TRUE,5,1,Win,21,8,21,8,0,0,0,0,0,0,0,0,11,8,11,8,45933,2007-2008
+3/1/2008,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,2,4,Loss,8,17,17,8,4,4,4,4,0,0,0,0,15,16,16,15,46140,2007-2008
+3/9/2008,SP1,Barcelona,Barcelona,Villarreal,TRUE,1,2,Loss,9,8,9,8,5,4,5,4,0,0,0,0,22,18,22,18,46361,2007-2008
+3/16/2008,SP1,Barcelona,Barcelona,Almeria,FALSE,2,2,Draw,18,8,8,18,0,3,3,0,0,1,1,0,15,12,12,15,46627,2007-2008
+3/23/2008,SP1,Barcelona,Barcelona,Valladolid,TRUE,4,1,Win,18,11,18,11,1,1,1,1,0,0,0,0,12,18,12,18,46829,2007-2008
+3/29/2008,SP1,Barcelona,Barcelona,Betis,FALSE,2,3,Loss,13,13,13,13,2,0,0,2,0,0,0,0,18,12,12,18,46921,2007-2008
+4/6/2008,SP1,Barcelona,Barcelona,Getafe,TRUE,0,0,Draw,19,11,19,11,2,1,2,1,0,0,0,0,14,9,14,9,47222,2007-2008
+4/12/2008,SP1,Barcelona,Barcelona,Recreativo,FALSE,2,2,Draw,14,11,11,14,2,2,2,2,0,0,0,0,24,15,15,24,47389,2007-2008
+4/19/2008,SP1,Barcelona,Barcelona,Espanol,TRUE,0,0,Draw,18,6,18,6,6,6,6,6,0,0,0,0,15,16,15,16,47530,2007-2008
+4/26/2008,SP1,Barcelona,Barcelona,La Coruna,FALSE,0,2,Loss,24,10,10,24,1,4,4,1,0,0,0,0,16,17,17,16,47724,2007-2008
+5/4/2008,SP1,Barcelona,Barcelona,Valencia,TRUE,6,0,Win,17,6,17,6,3,3,3,3,0,0,0,0,16,15,16,15,47985,2007-2008
+5/7/2008,SP1,Barcelona,Barcelona,Real Madrid,FALSE,1,4,Loss,19,14,14,19,3,4,4,3,0,1,1,0,14,18,18,14,48038,2007-2008
+5/11/2008,SP1,Barcelona,Barcelona,Mallorca,TRUE,2,3,Loss,12,22,12,22,1,2,1,2,1,0,1,0,17,11,17,11,48137,2007-2008
+5/17/2008,SP1,Barcelona,Barcelona,Murcia,FALSE,5,3,Win,21,16,16,21,2,1,1,2,0,0,0,0,14,12,12,14,48199,2007-2008
+8/31/2008,SP1,Barcelona,Barcelona,Numancia,FALSE,0,1,Loss,5,25,25,5,0,2,2,0,0,0,0,0,16,8,8,16,48808,2008-2009
+9/13/2008,SP1,Barcelona,Barcelona,Santander,TRUE,1,1,Draw,18,2,18,2,1,7,1,7,0,0,0,0,9,20,9,20,49003,2008-2009
+9/21/2008,SP1,Barcelona,Barcelona,Sp Gijon,FALSE,6,1,Win,5,23,23,5,2,0,0,2,1,0,0,1,16,8,8,16,49277,2008-2009
+9/24/2008,SP1,Barcelona,Barcelona,Betis,TRUE,3,2,Win,18,8,18,8,2,3,2,3,0,0,0,0,11,19,11,19,49303,2008-2009
+9/27/2008,SP1,Barcelona,Barcelona,Espanol,FALSE,2,1,Win,5,33,33,5,3,2,2,3,1,0,0,1,26,17,17,26,49406,2008-2009
+10/4/2008,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,6,1,Win,19,7,19,7,1,5,1,5,0,0,0,0,11,18,11,18,49574,2008-2009
+10/19/2008,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,1,0,Win,9,14,14,9,3,3,3,3,0,0,0,0,17,19,19,17,49892,2008-2009
+10/25/2008,SP1,Barcelona,Barcelona,Almeria,TRUE,5,0,Win,13,6,13,6,0,3,0,3,0,1,0,1,13,15,13,15,50033,2008-2009
+11/1/2008,SP1,Barcelona,Barcelona,Malaga,FALSE,4,1,Win,5,14,14,5,2,3,3,2,0,0,0,0,19,24,24,19,50370,2008-2009
+11/8/2008,SP1,Barcelona,Barcelona,Valladolid,TRUE,6,0,Win,22,3,22,3,1,1,1,1,0,0,0,0,9,9,9,9,50484,2008-2009
+11/16/2008,SP1,Barcelona,Barcelona,Recreativo,FALSE,2,0,Win,7,21,21,7,3,2,2,3,0,0,0,0,21,12,12,21,50792,2008-2009
+11/23/2008,SP1,Barcelona,Barcelona,Getafe,TRUE,1,1,Draw,14,7,14,7,3,4,3,4,0,0,0,0,19,20,19,20,50934,2008-2009
+11/29/2008,SP1,Barcelona,Barcelona,Sevilla,FALSE,3,0,Win,10,22,22,10,0,3,3,0,1,0,0,1,16,13,13,16,51070,2008-2009
+12/6/2008,SP1,Barcelona,Barcelona,Valencia,TRUE,4,0,Win,17,5,17,5,0,5,0,5,0,0,0,0,15,20,15,20,51210,2008-2009
+12/13/2008,SP1,Barcelona,Barcelona,Real Madrid,TRUE,2,0,Win,19,6,19,6,3,5,3,5,0,0,0,0,13,19,13,19,51458,2008-2009
+12/21/2008,SP1,Barcelona,Barcelona,Villarreal,FALSE,2,1,Win,8,16,16,8,3,2,2,3,0,1,1,0,17,22,22,17,51666,2008-2009
+1/3/2009,SP1,Barcelona,Barcelona,Mallorca,TRUE,3,1,Win,18,6,18,6,4,4,4,4,0,1,0,1,11,17,11,17,51832,2008-2009
+1/11/2009,SP1,Barcelona,Barcelona,Osasuna,FALSE,3,2,Win,6,17,17,6,2,3,3,2,0,0,0,0,11,11,11,11,51974,2008-2009
+1/17/2009,SP1,Barcelona,Barcelona,La Coruna,TRUE,5,0,Win,21,1,21,1,0,0,0,0,0,1,0,1,8,12,8,12,52084,2008-2009
+1/24/2009,SP1,Barcelona,Barcelona,Numancia,TRUE,4,1,Win,24,4,24,4,2,3,2,3,0,1,0,1,14,13,14,13,52176,2008-2009
+2/1/2009,SP1,Barcelona,Barcelona,Santander,FALSE,2,1,Win,7,8,8,7,1,2,2,1,0,2,2,0,21,12,12,21,52508,2008-2009
+2/8/2009,SP1,Barcelona,Barcelona,Sp Gijon,TRUE,3,1,Win,18,5,18,5,2,3,2,3,0,0,0,0,13,19,13,19,52651,2008-2009
+2/14/2009,SP1,Barcelona,Barcelona,Betis,FALSE,2,2,Draw,7,23,23,7,3,2,2,3,0,0,0,0,20,14,14,20,52761,2008-2009
+2/21/2009,SP1,Barcelona,Barcelona,Espanol,TRUE,1,2,Loss,20,4,20,4,6,6,6,6,1,0,1,0,14,24,14,24,52950,2008-2009
+3/1/2009,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,3,4,Loss,22,14,14,22,3,2,2,3,0,0,0,0,15,17,17,15,53296,2008-2009
+3/7/2009,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,2,0,Win,28,5,28,5,3,4,3,4,0,0,0,0,16,24,16,24,53395,2008-2009
+3/15/2009,SP1,Barcelona,Barcelona,Almeria,FALSE,2,0,Win,5,17,17,5,4,0,0,4,0,0,0,0,11,10,10,11,53756,2008-2009
+3/22/2009,SP1,Barcelona,Barcelona,Malaga,TRUE,6,0,Win,27,10,27,10,2,3,2,3,0,0,0,0,9,15,9,15,53949,2008-2009
+4/4/2009,SP1,Barcelona,Barcelona,Valladolid,FALSE,1,0,Win,7,13,13,7,1,0,0,1,0,0,0,0,21,9,9,21,54109,2008-2009
+4/11/2009,SP1,Barcelona,Barcelona,Recreativo,TRUE,2,0,Win,16,7,16,7,0,1,0,1,0,0,0,0,12,14,12,14,54323,2008-2009
+4/18/2009,SP1,Barcelona,Barcelona,Getafe,FALSE,1,0,Win,3,17,17,3,4,2,2,4,0,0,0,0,19,9,9,19,54592,2008-2009
+4/22/2009,SP1,Barcelona,Barcelona,Sevilla,TRUE,4,0,Win,28,6,28,6,2,2,2,2,0,0,0,0,11,17,11,17,54692,2008-2009
+4/25/2009,SP1,Barcelona,Barcelona,Valencia,FALSE,2,2,Draw,10,14,14,10,5,2,2,5,0,0,0,0,21,9,9,21,54798,2008-2009
+5/2/2009,SP1,Barcelona,Barcelona,Real Madrid,FALSE,6,2,Win,5,17,17,5,4,2,2,4,0,0,0,0,22,9,9,22,54986,2008-2009
+5/10/2009,SP1,Barcelona,Barcelona,Villarreal,TRUE,3,3,Draw,15,6,15,6,1,3,1,3,1,0,1,0,15,20,15,20,55187,2008-2009
+5/17/2009,SP1,Barcelona,Barcelona,Mallorca,FALSE,1,2,Loss,16,17,17,16,1,2,2,1,0,0,0,0,16,20,20,16,55348,2008-2009
+5/23/2009,SP1,Barcelona,Barcelona,Osasuna,TRUE,0,1,Loss,9,10,9,10,3,3,3,3,1,0,1,0,6,18,6,18,55407,2008-2009
+5/30/2009,SP1,Barcelona,Barcelona,La Coruna,FALSE,1,1,Draw,15,18,18,15,1,1,1,1,0,0,0,0,6,16,16,6,55515,2008-2009
+8/31/2009,SP1,Barcelona,Barcelona,Sp Gijon,TRUE,3,0,Win,20,9,20,9,0,2,0,2,0,0,0,0,10,12,10,12,56206,2009-2010
+9/12/2009,SP1,Barcelona,Barcelona,Getafe,FALSE,2,0,Win,19,14,14,19,3,0,0,3,0,0,0,0,15,19,19,15,56350,2009-2010
+9/19/2009,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,5,2,Win,8,14,8,14,1,3,1,3,0,0,0,0,8,17,8,17,56491,2009-2010
+9/22/2009,SP1,Barcelona,Barcelona,Santander,FALSE,4,1,Win,4,20,20,4,4,1,1,4,0,0,0,0,10,10,10,10,56637,2009-2010
+9/26/2009,SP1,Barcelona,Barcelona,Malaga,FALSE,2,0,Win,3,11,11,3,3,3,3,3,1,0,0,1,16,17,17,16,56796,2009-2010
+10/3/2009,SP1,Barcelona,Barcelona,Almeria,TRUE,1,0,Win,17,0,17,0,3,3,3,3,0,0,0,0,18,14,18,14,56972,2009-2010
+10/17/2009,SP1,Barcelona,Barcelona,Valencia,FALSE,0,0,Draw,13,12,12,13,4,2,2,4,0,0,0,0,15,11,11,15,57172,2009-2010
+10/25/2009,SP1,Barcelona,Barcelona,Zaragoza,TRUE,6,1,Win,17,7,17,7,0,2,0,2,0,0,0,0,9,14,9,14,57441,2009-2010
+10/31/2009,SP1,Barcelona,Barcelona,Osasuna,FALSE,1,1,Draw,9,16,16,9,1,3,3,1,0,0,0,0,15,10,10,15,57609,2009-2010
+11/7/2009,SP1,Barcelona,Barcelona,Mallorca,TRUE,4,2,Win,18,10,18,10,1,2,1,2,0,0,0,0,18,22,18,22,57715,2009-2010
+11/21/2009,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,1,1,Draw,8,13,13,8,1,1,1,1,0,0,0,0,17,15,15,17,57911,2009-2010
+11/29/2009,SP1,Barcelona,Barcelona,Real Madrid,TRUE,1,0,Win,9,16,9,16,0,4,0,4,1,1,1,1,17,25,17,25,58174,2009-2010
+12/2/2009,SP1,Barcelona,Barcelona,Xerez,FALSE,2,0,Win,7,14,14,7,1,0,0,1,0,0,0,0,13,16,16,13,58247,2009-2010
+12/5/2009,SP1,Barcelona,Barcelona,La Coruna,FALSE,3,1,Win,4,19,19,4,1,2,2,1,0,0,0,0,9,13,13,9,58343,2009-2010
+12/12/2009,SP1,Barcelona,Barcelona,Espanol,TRUE,1,0,Win,15,7,15,7,3,3,3,3,0,0,0,0,15,20,15,20,58547,2009-2010
+1/2/2010,SP1,Barcelona,Barcelona,Villarreal,TRUE,1,1,Draw,12,8,12,8,2,4,2,4,0,0,0,0,22,15,22,15,58898,2009-2010
+1/10/2010,SP1,Barcelona,Barcelona,Tenerife,FALSE,5,0,Win,13,15,15,13,3,2,2,3,0,0,0,0,20,11,11,20,59000,2009-2010
+1/16/2010,SP1,Barcelona,Barcelona,Sevilla,TRUE,4,0,Win,27,4,27,4,2,4,2,4,0,0,0,0,11,13,11,13,59108,2009-2010
+1/23/2010,SP1,Barcelona,Barcelona,Valladolid,FALSE,3,0,Win,11,14,14,11,2,2,2,2,0,0,0,0,13,17,17,13,59274,2009-2010
+1/30/2010,SP1,Barcelona,Barcelona,Sp Gijon,FALSE,1,0,Win,5,22,22,5,6,3,3,6,0,0,0,0,21,9,9,21,59431,2009-2010
+2/6/2010,SP1,Barcelona,Barcelona,Getafe,TRUE,2,1,Win,18,13,18,13,4,3,4,3,2,0,2,0,14,14,14,14,59668,2009-2010
+2/14/2010,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,1,2,Loss,13,13,13,13,2,5,5,2,0,0,0,0,19,13,13,19,59882,2009-2010
+2/20/2010,SP1,Barcelona,Barcelona,Santander,TRUE,4,0,Win,16,5,16,5,3,4,3,4,0,0,0,0,14,13,14,13,60057,2009-2010
+2/27/2010,SP1,Barcelona,Barcelona,Malaga,TRUE,2,1,Win,20,5,20,5,1,1,1,1,0,0,0,0,10,16,10,16,60237,2009-2010
+3/6/2010,SP1,Barcelona,Barcelona,Almeria,FALSE,2,2,Draw,7,22,22,7,0,0,0,0,0,1,1,0,17,12,12,17,60364,2009-2010
+3/14/2010,SP1,Barcelona,Barcelona,Valencia,TRUE,3,0,Win,19,7,19,7,1,4,1,4,0,1,0,1,10,19,10,19,60686,2009-2010
+3/21/2010,SP1,Barcelona,Barcelona,Zaragoza,FALSE,4,2,Win,10,18,18,10,3,3,3,3,0,0,0,0,22,18,18,22,60906,2009-2010
+3/24/2010,SP1,Barcelona,Barcelona,Osasuna,TRUE,2,0,Win,16,3,16,3,4,2,4,2,0,0,0,0,12,22,12,22,60963,2009-2010
+3/27/2010,SP1,Barcelona,Barcelona,Mallorca,FALSE,1,0,Win,10,7,7,10,4,3,3,4,0,0,0,0,29,21,21,29,61094,2009-2010
+4/3/2010,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,4,1,Win,17,14,17,14,1,1,1,1,0,0,0,0,5,8,5,8,61226,2009-2010
+4/10/2010,SP1,Barcelona,Barcelona,Real Madrid,FALSE,2,0,Win,16,8,8,16,4,4,4,4,0,0,0,0,30,15,15,30,61468,2009-2010
+4/14/2010,SP1,Barcelona,Barcelona,La Coruna,TRUE,3,0,Win,21,5,21,5,0,3,0,3,0,0,0,0,11,12,11,12,61599,2009-2010
+4/17/2010,SP1,Barcelona,Barcelona,Espanol,FALSE,0,0,Draw,9,4,4,9,3,2,2,3,0,1,1,0,21,17,17,21,61708,2009-2010
+4/24/2010,SP1,Barcelona,Barcelona,Xerez,TRUE,3,1,Win,14,8,14,8,1,9,1,9,0,2,0,2,17,17,17,17,61824,2009-2010
+5/1/2010,SP1,Barcelona,Barcelona,Villarreal,FALSE,4,1,Win,8,15,15,8,3,3,3,3,0,0,0,0,23,11,11,23,61992,2009-2010
+5/4/2010,SP1,Barcelona,Barcelona,Tenerife,TRUE,4,1,Win,21,4,21,4,0,3,0,3,0,0,0,0,5,21,5,21,62139,2009-2010
+5/8/2010,SP1,Barcelona,Barcelona,Sevilla,FALSE,3,2,Win,7,18,18,7,4,6,6,4,1,0,0,1,23,15,15,23,62190,2009-2010
+5/16/2010,SP1,Barcelona,Barcelona,Valladolid,TRUE,4,0,Win,14,10,14,10,1,3,1,3,0,0,0,0,17,20,17,20,62342,2009-2010
+8/28/2010,SP2,Barcelona,Barcelona B,Celta,FALSE,2,1,Win,,,,,,,,,,,,,,,,,62925,2010-2011
+8/29/2010,SP1,Barcelona,Barcelona,Santander,FALSE,3,0,Win,11,9,9,11,4,1,1,4,0,0,0,0,21,14,14,21,62949,2010-2011
+9/5/2010,SP2,Barcelona,Barcelona B,Xerez,TRUE,2,1,Win,,,,,,,,,,,,,,,,,63040,2010-2011
+9/11/2010,SP2,Barcelona,Barcelona B,Cartagena,FALSE,1,5,Loss,,,,,,,,,,,,,,,,,63142,2010-2011
+9/11/2010,SP1,Barcelona,Barcelona,Hercules,TRUE,0,2,Loss,17,9,17,9,2,2,2,2,0,0,0,0,7,8,7,8,63178,2010-2011
+9/18/2010,SP2,Barcelona,Barcelona B,Elche,TRUE,2,0,Win,,,,,,,,,,,,,,,,,63267,2010-2011
+9/19/2010,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,2,1,Win,7,16,16,7,4,5,5,4,1,0,0,1,21,15,15,21,63399,2010-2011
+9/22/2010,SP1,Barcelona,Barcelona,Sp Gijon,TRUE,1,0,Win,16,3,16,3,2,5,2,5,0,0,0,0,14,15,14,15,63460,2010-2011
+9/25/2010,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,3,1,Win,11,25,25,11,1,1,1,1,1,1,1,1,8,8,8,8,63602,2010-2011
+9/26/2010,SP2,Barcelona,Barcelona B,Numancia,TRUE,1,0,Win,,,,,,,,,,,,,,,,,63617,2010-2011
+10/3/2010,SP2,Barcelona,Barcelona B,Cordoba,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,63875,2010-2011
+10/3/2010,SP1,Barcelona,Barcelona,Mallorca,TRUE,1,1,Draw,26,11,26,11,0,6,0,6,0,0,0,0,7,15,7,15,63883,2010-2011
+10/10/2010,SP2,Barcelona,Barcelona B,Tenerife,TRUE,3,1,Win,,,,,,,,,,,,,,,,,63929,2010-2011
+10/16/2010,SP1,Barcelona,Barcelona,Valencia,TRUE,2,1,Win,12,8,12,8,2,4,2,4,0,0,0,0,9,9,9,9,64057,2010-2011
+10/16/2010,SP2,Barcelona,Barcelona B,Gimnastic,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,64072,2010-2011
+10/23/2010,SP2,Barcelona,Barcelona B,Huesca,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,64179,2010-2011
+10/23/2010,SP1,Barcelona,Barcelona,Zaragoza,FALSE,2,0,Win,5,20,20,5,4,1,1,4,1,0,0,1,21,12,12,21,64217,2010-2011
+10/30/2010,SP1,Barcelona,Barcelona,Sevilla,TRUE,5,0,Win,18,3,18,3,1,2,1,2,0,1,0,1,13,11,13,11,64479,2010-2011
+10/31/2010,SP2,Barcelona,Barcelona B,Alcorcon,FALSE,3,1,Win,,,,,,,,,,,,,,,,,64506,2010-2011
+11/6/2010,SP2,Barcelona,Barcelona B,Villarreal B,TRUE,4,1,Win,,,,,,,,,,,,,,,,,64598,2010-2011
+11/7/2010,SP1,Barcelona,Barcelona,Getafe,FALSE,3,1,Win,12,14,14,12,3,1,1,3,1,1,1,1,10,9,9,10,64693,2010-2011
+11/13/2010,SP2,Barcelona,Barcelona B,Granada,FALSE,1,4,Loss,,,,,,,,,,,,,,,,,64868,2010-2011
+11/13/2010,SP1,Barcelona,Barcelona,Villarreal,TRUE,3,1,Win,15,9,15,9,2,3,2,3,0,0,0,0,22,19,22,19,64888,2010-2011
+11/19/2010,SP2,Barcelona,Barcelona B,Recreativo,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,64957,2010-2011
+11/20/2010,SP1,Barcelona,Barcelona,Almeria,FALSE,8,0,Win,9,18,18,9,2,1,1,2,0,0,0,0,10,7,7,10,65028,2010-2011
+11/29/2010,SP1,Barcelona,Barcelona,Real Madrid,TRUE,5,0,Win,15,5,15,5,5,7,5,7,0,1,0,1,12,16,12,16,65282,2010-2011
+12/4/2010,SP1,Barcelona,Barcelona,Osasuna,FALSE,3,0,Win,4,16,16,4,3,0,0,3,0,0,0,0,23,7,7,23,65343,2010-2011
+12/4/2010,SP2,Barcelona,Barcelona B,Valladolid,TRUE,0,0,Draw,,,,,,,,,,,,,,,,,65345,2010-2011
+12/8/2010,SP2,Barcelona,Barcelona B,Betis,FALSE,2,2,Draw,,,,,,,,,,,,,,,,,65425,2010-2011
+12/12/2010,SP2,Barcelona,Barcelona B,Albacete,FALSE,2,2,Draw,,,,,,,,,,,,,,,,,65557,2010-2011
+12/12/2010,SP1,Barcelona,Barcelona,Sociedad,TRUE,5,0,Win,21,2,21,2,1,0,1,0,0,0,0,0,9,9,9,9,65565,2010-2011
+12/18/2010,SP1,Barcelona,Barcelona,Espanol,FALSE,5,1,Win,7,19,19,7,5,3,3,5,0,0,0,0,20,15,15,20,65676,2010-2011
+12/19/2010,SP2,Barcelona,Barcelona B,Ponferradina,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,65690,2010-2011
+1/2/2011,SP2,Barcelona,Barcelona B,Las Palmas,FALSE,2,2,Draw,,,,,,,,,,,,,,,,,65868,2010-2011
+1/2/2011,SP1,Barcelona,Barcelona,Levante,TRUE,2,1,Win,22,4,22,4,4,2,4,2,0,0,0,0,16,13,16,13,65875,2010-2011
+1/8/2011,SP1,Barcelona,Barcelona,La Coruna,FALSE,4,0,Win,7,8,8,7,1,0,0,1,0,0,0,0,8,7,7,8,65962,2010-2011
+1/8/2011,SP2,Barcelona,Barcelona B,Girona,TRUE,1,2,Loss,,,,,,,,,,,,,,,,,65966,2010-2011
+1/16/2011,SP2,Barcelona,Barcelona B,Salamanca,FALSE,3,2,Win,,,,,,,,,,,,,,,,,66168,2010-2011
+1/16/2011,SP1,Barcelona,Barcelona,Malaga,TRUE,4,1,Win,13,4,13,4,1,1,1,1,0,0,0,0,12,12,12,12,66184,2010-2011
+1/22/2011,SP1,Barcelona,Barcelona,Santander,TRUE,3,0,Win,14,7,14,7,0,0,0,0,0,0,0,0,6,15,6,15,66302,2010-2011
+1/22/2011,SP2,Barcelona,Barcelona B,Vallecano,TRUE,1,2,Loss,,,,,,,,,,,,,,,,,66310,2010-2011
+1/29/2011,SP1,Barcelona,Barcelona,Hercules,FALSE,3,0,Win,4,22,22,4,2,1,1,2,1,0,0,1,12,8,8,12,66462,2010-2011
+1/29/2011,SP2,Barcelona,Barcelona B,Celta,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,66474,2010-2011
+2/4/2011,SP2,Barcelona,Barcelona B,Xerez,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,66620,2010-2011
+2/5/2011,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,3,0,Win,15,10,15,10,2,3,2,3,0,0,0,0,11,15,11,15,66735,2010-2011
+2/12/2011,SP2,Barcelona,Barcelona B,Cartagena,TRUE,3,0,Win,,,,,,,,,,,,,,,,,66803,2010-2011
+2/12/2011,SP1,Barcelona,Barcelona,Sp Gijon,FALSE,1,1,Draw,7,15,15,7,4,6,6,4,0,0,0,0,17,8,8,17,66827,2010-2011
+2/19/2011,SP2,Barcelona,Barcelona B,Elche,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,67075,2010-2011
+2/20/2011,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,2,1,Win,20,5,20,5,3,3,3,3,0,0,0,0,9,18,9,18,67174,2010-2011
+2/26/2011,SP2,Barcelona,Barcelona B,Numancia,FALSE,6,4,Win,,,,,,,,,,,,,,,,,67266,2010-2011
+2/26/2011,SP1,Barcelona,Barcelona,Mallorca,FALSE,3,0,Win,8,7,7,8,1,0,0,1,0,0,0,0,12,9,9,12,67297,2010-2011
+3/1/2011,SP2,Barcelona,Barcelona B,Cordoba,TRUE,4,1,Win,,,,,,,,,,,,,,,,,67456,2010-2011
+3/2/2011,SP1,Barcelona,Barcelona,Valencia,FALSE,1,0,Win,7,20,20,7,4,1,1,4,0,0,0,0,18,7,7,18,67469,2010-2011
+3/5/2011,SP1,Barcelona,Barcelona,Zaragoza,TRUE,1,0,Win,23,3,23,3,1,1,1,1,0,0,0,0,9,12,9,12,67603,2010-2011
+3/7/2011,SP2,Barcelona,Barcelona B,Tenerife,FALSE,4,1,Win,,,,,,,,,,,,,,,,,67664,2010-2011
+3/12/2011,SP2,Barcelona,Barcelona B,Gimnastic,TRUE,4,0,Win,,,,,,,,,,,,,,,,,67733,2010-2011
+3/13/2011,SP1,Barcelona,Barcelona,Sevilla,FALSE,1,1,Draw,11,12,12,11,5,2,2,5,0,0,0,0,20,11,11,20,67848,2010-2011
+3/19/2011,SP1,Barcelona,Barcelona,Getafe,TRUE,2,1,Win,14,8,14,8,3,2,3,2,0,0,0,0,12,10,12,10,67929,2010-2011
+3/19/2011,SP2,Barcelona,Barcelona B,Huesca,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,67934,2010-2011
+3/26/2011,SP2,Barcelona,Barcelona B,Alcorcon,TRUE,2,0,Win,,,,,,,,,,,,,,,,,68141,2010-2011
+4/2/2011,SP1,Barcelona,Barcelona,Villarreal,FALSE,1,0,Win,7,10,10,7,2,4,4,2,0,0,0,0,10,14,14,10,68223,2010-2011
+4/2/2011,SP2,Barcelona,Barcelona B,Villarreal B,FALSE,3,2,Win,,,,,,,,,,,,,,,,,68232,2010-2011
+4/8/2011,SP2,Barcelona,Barcelona B,Granada,TRUE,4,0,Win,,,,,,,,,,,,,,,,,68394,2010-2011
+4/9/2011,SP1,Barcelona,Barcelona,Almeria,TRUE,3,1,Win,14,2,14,2,3,3,3,3,0,0,0,0,7,5,7,5,68433,2010-2011
+4/15/2011,SP2,Barcelona,Barcelona B,Recreativo,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,68611,2010-2011
+4/16/2011,SP1,Barcelona,Barcelona,Real Madrid,FALSE,1,1,Draw,13,11,11,13,2,5,5,2,1,0,0,1,22,14,14,22,68644,2010-2011
+4/23/2011,SP1,Barcelona,Barcelona,Osasuna,TRUE,2,0,Win,11,14,11,14,2,2,2,2,0,0,0,0,11,17,11,17,68895,2010-2011
+4/24/2011,SP2,Barcelona,Barcelona B,Betis,TRUE,0,3,Loss,,,,,,,,,,,,,,,,,68906,2010-2011
+4/29/2011,SP2,Barcelona,Barcelona B,Valladolid,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,68983,2010-2011
+4/30/2011,SP1,Barcelona,Barcelona,Sociedad,FALSE,1,2,Loss,8,13,13,8,2,1,1,2,0,0,0,0,19,12,12,19,69082,2010-2011
+5/7/2011,SP2,Barcelona,Barcelona B,Albacete,TRUE,2,1,Win,,,,,,,,,,,,,,,,,69191,2010-2011
+5/8/2011,SP1,Barcelona,Barcelona,Espanol,TRUE,2,0,Win,14,6,14,6,1,3,1,3,0,0,0,0,13,14,13,14,69296,2010-2011
+5/11/2011,SP2,Barcelona,Barcelona B,Ponferradina,FALSE,2,2,Draw,,,,,,,,,,,,,,,,,69343,2010-2011
+5/11/2011,SP1,Barcelona,Barcelona,Levante,FALSE,1,1,Draw,9,10,10,9,1,1,1,1,0,0,0,0,10,4,4,10,69358,2010-2011
+5/15/2011,SP1,Barcelona,Barcelona,La Coruna,TRUE,0,0,Draw,8,8,8,8,0,2,0,2,0,0,0,0,11,13,11,13,69453,2010-2011
+5/15/2011,SP2,Barcelona,Barcelona B,Las Palmas,TRUE,3,5,Loss,,,,,,,,,,,,,,,,,69461,2010-2011
+5/21/2011,SP2,Barcelona,Barcelona B,Girona,FALSE,2,0,Win,,,,,,,,,,,,,,,,,69513,2010-2011
+5/21/2011,SP1,Barcelona,Barcelona,Malaga,FALSE,3,1,Win,13,18,18,13,3,2,2,3,0,0,0,0,10,8,8,10,69542,2010-2011
+5/29/2011,SP2,Barcelona,Barcelona B,Salamanca,TRUE,5,1,Win,,,,,,,,,,,,,,,,,69585,2010-2011
+6/4/2011,SP2,Barcelona,Barcelona B,Vallecano,FALSE,3,2,Win,,,,,,,,,,,,,,,,,69625,2010-2011
+8/27/2011,SP2,Barcelona,Barcelona B,Villarreal B,TRUE,0,2,Loss,,,,,,,,,,,,,,,,,70227,2011-2012
+8/29/2011,SP1,Barcelona,Barcelona,Villarreal,TRUE,5,0,Win,18,5,18,5,3,3,3,3,0,0,0,0,15,14,15,14,70283,2011-2012
+9/4/2011,SP2,Barcelona,Barcelona B,Cartagena,FALSE,4,0,Win,,,,,,,,,,,,,,,,,70337,2011-2012
+9/10/2011,SP1,Barcelona,Barcelona,Sociedad,FALSE,2,2,Draw,10,13,13,10,2,1,1,2,0,0,0,0,10,17,17,10,70407,2011-2012
+9/11/2011,SP2,Barcelona,Barcelona B,La Coruna,TRUE,2,3,Loss,,,,,,,,,,,,,,,,,70517,2011-2012
+9/16/2011,SP2,Barcelona,Barcelona B,Hercules,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,70579,2011-2012
+9/17/2011,SP1,Barcelona,Barcelona,Osasuna,TRUE,8,0,Win,18,7,18,7,1,5,1,5,0,0,0,0,8,15,8,15,70604,2011-2012
+9/21/2011,SP1,Barcelona,Barcelona,Valencia,FALSE,2,2,Draw,9,10,10,9,4,1,1,4,1,0,0,1,14,5,5,14,70789,2011-2012
+9/24/2011,SP2,Barcelona,Barcelona B,Recreativo,TRUE,2,2,Draw,,,,,,,,,,,,,,,,,70909,2011-2012
+9/24/2011,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,5,0,Win,18,6,18,6,1,1,1,1,0,0,0,0,17,18,17,18,70936,2011-2012
+10/1/2011,SP2,Barcelona,Barcelona B,Sabadell,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,71042,2011-2012
+10/2/2011,SP1,Barcelona,Barcelona,Sp Gijon,FALSE,1,0,Win,4,14,14,4,2,2,2,2,0,0,0,0,19,7,7,19,71192,2011-2012
+10/8/2011,SP2,Barcelona,Barcelona B,Alcorcon,FALSE,2,2,Draw,,,,,,,,,,,,,,,,,71250,2011-2012
+10/15/2011,SP1,Barcelona,Barcelona,Santander,TRUE,3,0,Win,19,3,19,3,0,2,0,2,0,0,0,0,5,17,5,17,71338,2011-2012
+10/16/2011,SP2,Barcelona,Barcelona B,Guadalajara,TRUE,1,2,Loss,,,,,,,,,,,,,,,,,71447,2011-2012
+10/22/2011,SP2,Barcelona,Barcelona B,Alcoyano,FALSE,4,1,Win,,,,,,,,,,,,,,,,,71513,2011-2012
+10/22/2011,SP1,Barcelona,Barcelona,Sevilla,TRUE,0,0,Draw,21,6,21,6,2,8,2,8,0,2,0,2,9,8,9,8,71541,2011-2012
+10/25/2011,SP1,Barcelona,Barcelona,Granada,FALSE,1,0,Win,2,17,17,2,3,4,4,3,2,0,0,2,14,9,9,14,71700,2011-2012
+10/26/2011,SP2,Barcelona,Barcelona B,Huesca,FALSE,1,0,Win,,,,,,,,,,,,,,,,,71710,2011-2012
+10/29/2011,SP2,Barcelona,Barcelona B,Gimnastic,TRUE,1,0,Win,,,,,,,,,,,,,,,,,71831,2011-2012
+10/29/2011,SP1,Barcelona,Barcelona,Mallorca,TRUE,5,0,Win,18,2,18,2,1,2,1,2,0,0,0,0,11,16,11,16,71857,2011-2012
+11/4/2011,SP2,Barcelona,Barcelona B,Cordoba,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,71934,2011-2012
+11/6/2011,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,2,2,Draw,4,16,16,4,3,1,1,3,1,0,0,1,26,12,12,26,72098,2011-2012
+11/12/2011,SP2,Barcelona,Barcelona B,Girona,TRUE,2,2,Draw,,,,,,,,,,,,,,,,,72131,2011-2012
+11/19/2011,SP1,Barcelona,Barcelona,Zaragoza,TRUE,4,0,Win,27,4,27,4,2,3,2,3,0,0,0,0,20,17,20,17,72241,2011-2012
+11/19/2011,SP2,Barcelona,Barcelona B,Murcia,FALSE,2,0,Win,,,,,,,,,,,,,,,,,72249,2011-2012
+11/26/2011,SP2,Barcelona,Barcelona B,Celta,TRUE,2,1,Win,,,,,,,,,,,,,,,,,72352,2011-2012
+11/26/2011,SP1,Barcelona,Barcelona,Getafe,FALSE,0,1,Loss,7,21,21,7,4,2,2,4,0,0,0,0,16,6,6,16,72373,2011-2012
+11/29/2011,SP1,Barcelona,Barcelona,Vallecano,TRUE,4,0,Win,12,10,12,10,2,3,2,3,0,0,0,0,9,16,9,16,72514,2011-2012
+12/3/2011,SP1,Barcelona,Barcelona,Levante,TRUE,5,0,Win,18,6,18,6,2,3,2,3,0,0,0,0,12,10,12,10,72556,2011-2012
+12/3/2011,SP2,Barcelona,Barcelona B,Elche,FALSE,0,3,Loss,,,,,,,,,,,,,,,,,72564,2011-2012
+12/9/2011,SP2,Barcelona,Barcelona B,Almeria,TRUE,3,3,Draw,,,,,,,,,,,,,,,,,72699,2011-2012
+12/10/2011,SP1,Barcelona,Barcelona,Real Madrid,FALSE,3,1,Win,17,12,12,17,4,3,3,4,0,0,0,0,22,13,13,22,72796,2011-2012
+12/17/2011,SP2,Barcelona,Barcelona B,Valladolid,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,72981,2011-2012
+1/7/2012,SP2,Barcelona,Barcelona B,Numancia,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,73337,2011-2012
+1/8/2012,SP1,Barcelona,Barcelona,Espanol,FALSE,1,1,Draw,14,10,10,14,6,1,1,6,0,0,0,0,16,7,7,16,73393,2011-2012
+1/14/2012,SP2,Barcelona,Barcelona B,Las Palmas,FALSE,1,3,Loss,,,,,,,,,,,,,,,,,73593,2011-2012
+1/15/2012,SP1,Barcelona,Barcelona,Betis,TRUE,4,2,Win,16,10,16,10,3,4,3,4,0,1,0,1,13,15,13,15,73625,2011-2012
+1/22/2012,SP1,Barcelona,Barcelona,Malaga,FALSE,4,1,Win,9,16,16,9,1,0,0,1,0,0,0,0,12,13,13,12,73794,2011-2012
+1/22/2012,SP2,Barcelona,Barcelona B,Xerez,TRUE,2,0,Win,,,,,,,,,,,,,,,,,73798,2011-2012
+1/28/2012,SP1,Barcelona,Barcelona,Villarreal,FALSE,0,0,Draw,5,8,8,5,3,0,0,3,0,0,0,0,18,12,12,18,73924,2011-2012
+1/28/2012,SP2,Barcelona,Barcelona B,Huesca,TRUE,4,2,Win,,,,,,,,,,,,,,,,,73943,2011-2012
+2/3/2012,SP2,Barcelona,Barcelona B,Villarreal B,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,74045,2011-2012
+2/4/2012,SP1,Barcelona,Barcelona,Sociedad,TRUE,2,1,Win,18,8,18,8,0,2,0,2,0,0,0,0,10,15,10,15,74077,2011-2012
+2/11/2012,SP2,Barcelona,Barcelona B,Cartagena,TRUE,4,0,Win,,,,,,,,,,,,,,,,,74265,2011-2012
+2/11/2012,SP1,Barcelona,Barcelona,Osasuna,FALSE,2,3,Loss,7,20,20,7,2,6,6,2,0,0,0,0,23,7,7,23,74287,2011-2012
+2/18/2012,SP2,Barcelona,Barcelona B,La Coruna,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,74577,2011-2012
+2/19/2012,SP1,Barcelona,Barcelona,Valencia,TRUE,5,1,Win,32,3,32,3,0,3,0,3,0,0,0,0,6,15,6,15,74605,2011-2012
+2/24/2012,SP2,Barcelona,Barcelona B,Hercules,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,74706,2011-2012
+2/26/2012,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,2,1,Win,10,7,7,10,7,5,5,7,0,0,0,0,22,12,12,22,74853,2011-2012
+3/3/2012,SP1,Barcelona,Barcelona,Sp Gijon,TRUE,3,1,Win,15,4,15,4,4,7,4,7,1,0,1,0,11,23,11,23,74931,2011-2012
+3/4/2012,SP2,Barcelona,Barcelona B,Recreativo,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,75040,2011-2012
+3/10/2012,SP2,Barcelona,Barcelona B,Sabadell,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,75210,2011-2012
+3/11/2012,SP1,Barcelona,Barcelona,Santander,FALSE,2,0,Win,1,23,23,1,6,0,0,6,0,0,0,0,21,14,14,21,75317,2011-2012
+3/17/2012,SP1,Barcelona,Barcelona,Sevilla,FALSE,2,0,Win,12,17,17,12,3,3,3,3,0,0,0,0,15,12,12,15,75432,2011-2012
+3/18/2012,SP2,Barcelona,Barcelona B,Alcorcon,TRUE,3,2,Win,,,,,,,,,,,,,,,,,75545,2011-2012
+3/20/2012,SP1,Barcelona,Barcelona,Granada,TRUE,5,3,Win,18,6,18,6,2,7,2,7,1,0,1,0,10,13,10,13,75640,2011-2012
+3/24/2012,SP1,Barcelona,Barcelona,Mallorca,FALSE,2,0,Win,10,18,18,10,2,1,1,2,0,1,1,0,17,6,6,17,75699,2011-2012
+3/25/2012,SP2,Barcelona,Barcelona B,Alcoyano,TRUE,2,1,Win,,,,,,,,,,,,,,,,,75827,2011-2012
+3/31/2012,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,2,0,Win,20,4,20,4,1,3,1,3,0,0,0,0,11,14,11,14,75935,2011-2012
+3/31/2012,SP2,Barcelona,Barcelona B,Gimnastic,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,75947,2011-2012
+4/7/2012,SP1,Barcelona,Barcelona,Zaragoza,FALSE,4,1,Win,14,14,14,14,4,5,5,4,1,0,0,1,22,13,13,22,76230,2011-2012
+4/8/2012,SP2,Barcelona,Barcelona B,Cordoba,TRUE,2,0,Win,,,,,,,,,,,,,,,,,76259,2011-2012
+4/10/2012,SP1,Barcelona,Barcelona,Getafe,TRUE,4,0,Win,14,2,14,2,1,1,1,1,0,0,0,0,9,10,9,10,76368,2011-2012
+4/14/2012,SP1,Barcelona,Barcelona,Levante,FALSE,2,1,Win,5,16,16,5,5,2,2,5,0,0,0,0,16,7,7,16,76514,2011-2012
+4/14/2012,SP2,Barcelona,Barcelona B,Girona,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,76519,2011-2012
+4/21/2012,SP1,Barcelona,Barcelona,Real Madrid,TRUE,1,2,Loss,14,14,14,14,2,4,2,4,0,0,0,0,11,20,11,20,76734,2011-2012
+4/22/2012,SP2,Barcelona,Barcelona B,Murcia,TRUE,1,0,Win,,,,,,,,,,,,,,,,,76867,2011-2012
+4/28/2012,SP2,Barcelona,Barcelona B,Celta,FALSE,1,4,Loss,,,,,,,,,,,,,,,,,76958,2011-2012
+4/29/2012,SP1,Barcelona,Barcelona,Vallecano,FALSE,7,0,Win,10,19,19,10,3,1,1,3,0,0,0,0,20,7,7,20,77088,2011-2012
+5/2/2012,SP1,Barcelona,Barcelona,Malaga,TRUE,4,1,Win,11,11,11,11,2,2,2,2,0,0,0,0,17,14,17,14,77195,2011-2012
+5/5/2012,SP2,Barcelona,Barcelona B,Elche,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,77223,2011-2012
+5/5/2012,SP1,Barcelona,Barcelona,Espanol,TRUE,4,0,Win,14,10,14,10,4,5,4,5,0,0,0,0,13,24,13,24,77242,2011-2012
+5/12/2012,SP2,Barcelona,Barcelona B,Almeria,FALSE,2,1,Win,,,,,,,,,,,,,,,,,77458,2011-2012
+5/12/2012,SP1,Barcelona,Barcelona,Betis,FALSE,2,2,Draw,5,11,11,5,2,0,0,2,0,1,1,0,15,11,11,15,77473,2011-2012
+5/16/2012,SP2,Barcelona,Barcelona B,Valladolid,TRUE,1,2,Loss,,,,,,,,,,,,,,,,,77547,2011-2012
+5/20/2012,SP2,Barcelona,Barcelona B,Numancia,FALSE,0,3,Loss,,,,,,,,,,,,,,,,,77627,2011-2012
+5/23/2012,SP2,Barcelona,Barcelona B,Guadalajara,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,77689,2011-2012
+5/26/2012,SP2,Barcelona,Barcelona B,Las Palmas,TRUE,2,0,Win,,,,,,,,,,,,,,,,,77721,2011-2012
+6/3/2012,SP2,Barcelona,Barcelona B,Xerez,FALSE,6,0,Win,,,,,,,,,,,,,,,,,77790,2011-2012
+8/17/2012,SP2,Barcelona,Barcelona B,Almeria,TRUE,4,5,Loss,,,,,,,,,,,,,,,,,78644,2012-2013
+8/19/2012,SP1,Barcelona,Barcelona,Sociedad,TRUE,5,1,Win,18,5,18,5,2,3,2,3,0,0,0,0,9,12,9,12,78819,2012-2013
+8/25/2012,SP2,Barcelona,Barcelona B,Real Madrid B,FALSE,2,3,Loss,,,,,,,,,,,,,,,,,79011,2012-2013
+8/26/2012,SP1,Barcelona,Barcelona,Osasuna,FALSE,2,1,Win,17,15,15,17,6,3,3,6,1,0,0,1,17,11,11,17,79169,2012-2013
+9/2/2012,SP1,Barcelona,Barcelona,Valencia,TRUE,1,0,Win,11,4,11,4,1,2,1,2,0,0,0,0,8,10,8,10,79449,2012-2013
+9/2/2012,SP2,Barcelona,Barcelona B,Sabadell,TRUE,2,0,Win,,,,,,,,,,,,,,,,,79454,2012-2013
+9/8/2012,SP2,Barcelona,Barcelona B,Guadalajara,FALSE,1,0,Win,,,,,,,,,,,,,,,,,79522,2012-2013
+9/15/2012,SP1,Barcelona,Barcelona,Getafe,FALSE,4,1,Win,6,15,15,6,2,2,2,2,0,0,0,0,14,10,10,14,79668,2012-2013
+9/15/2012,SP2,Barcelona,Barcelona B,Ponferradina,TRUE,2,1,Win,,,,,,,,,,,,,,,,,79674,2012-2013
+9/22/2012,SP1,Barcelona,Barcelona,Granada,TRUE,2,0,Win,20,6,20,6,0,3,0,3,0,0,0,0,10,15,10,15,80020,2012-2013
+9/22/2012,SP2,Barcelona,Barcelona B,Hercules,FALSE,3,0,Win,,,,,,,,,,,,,,,,,80039,2012-2013
+9/29/2012,SP1,Barcelona,Barcelona,Sevilla,FALSE,3,2,Win,8,15,15,8,2,2,2,2,1,0,0,1,15,3,3,15,80415,2012-2013
+9/29/2012,SP2,Barcelona,Barcelona B,Las Palmas,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,80419,2012-2013
+10/6/2012,SP2,Barcelona,Barcelona B,Cordoba,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,80746,2012-2013
+10/7/2012,SP1,Barcelona,Barcelona,Real Madrid,TRUE,2,2,Draw,10,10,10,10,2,4,2,4,0,0,0,0,17,16,17,16,80857,2012-2013
+10/13/2012,SP2,Barcelona,Barcelona B,Sp Gijon,TRUE,3,0,Win,,,,,,,,,,,,,,,,,80978,2012-2013
+10/20/2012,SP1,Barcelona,Barcelona,La Coruna,FALSE,5,4,Win,13,10,10,13,4,3,3,4,0,1,1,0,13,15,15,13,81125,2012-2013
+10/26/2012,SP2,Barcelona,Barcelona B,Recreativo,TRUE,2,3,Loss,,,,,,,,,,,,,,,,,81422,2012-2013
+10/27/2012,SP1,Barcelona,Barcelona,Vallecano,FALSE,5,0,Win,18,15,15,18,5,1,1,5,0,0,0,0,18,14,14,18,81486,2012-2013
+10/31/2012,SP2,Barcelona,Barcelona B,Huesca,FALSE,4,1,Win,,,,,,,,,,,,,,,,,81750,2012-2013
+11/3/2012,SP2,Barcelona,Barcelona B,Mirandes,FALSE,0,3,Loss,,,,,,,,,,,,,,,,,81811,2012-2013
+11/3/2012,SP1,Barcelona,Barcelona,Celta,TRUE,3,1,Win,13,11,13,11,1,2,1,2,0,0,0,0,9,11,9,11,81840,2012-2013
+11/10/2012,SP2,Barcelona,Barcelona B,Numancia,TRUE,3,3,Draw,,,,,,,,,,,,,,,,,82128,2012-2013
+11/11/2012,SP1,Barcelona,Barcelona,Mallorca,FALSE,4,2,Win,5,12,12,5,1,1,1,1,0,0,0,0,18,6,6,18,82177,2012-2013
+11/17/2012,SP1,Barcelona,Barcelona,Zaragoza,TRUE,3,1,Win,8,13,8,13,0,1,0,1,0,0,0,0,6,15,6,15,82307,2012-2013
+11/17/2012,SP2,Barcelona,Barcelona B,Murcia,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,82313,2012-2013
+11/25/2012,SP2,Barcelona,Barcelona B,Santander,TRUE,4,1,Win,,,,,,,,,,,,,,,,,82745,2012-2013
+11/25/2012,SP1,Barcelona,Barcelona,Levante,FALSE,4,0,Win,11,13,13,11,0,1,1,0,0,0,0,0,7,6,6,7,82764,2012-2013
+12/1/2012,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,5,1,Win,19,6,19,6,1,3,1,3,0,0,0,0,7,10,7,10,82908,2012-2013
+12/1/2012,SP2,Barcelona,Barcelona B,Lugo,FALSE,2,1,Win,,,,,,,,,,,,,,,,,82913,2012-2013
+12/8/2012,SP2,Barcelona,Barcelona B,Elche,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,83106,2012-2013
+12/9/2012,SP1,Barcelona,Barcelona,Betis,FALSE,2,1,Win,9,13,13,9,3,2,2,3,0,0,0,0,17,11,11,17,83251,2012-2013
+12/15/2012,SP2,Barcelona,Barcelona B,Alcorcon,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,83423,2012-2013
+12/16/2012,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,4,1,Win,11,8,11,8,1,1,1,1,0,0,0,0,15,16,15,16,83483,2012-2013
+12/22/2012,SP1,Barcelona,Barcelona,Valladolid,FALSE,3,1,Win,5,11,11,5,4,1,1,4,0,0,0,0,15,4,4,15,83600,2012-2013
+12/22/2012,SP2,Barcelona,Barcelona B,Girona,TRUE,4,4,Draw,,,,,,,,,,,,,,,,,83607,2012-2013
+1/5/2013,SP2,Barcelona,Barcelona B,Villarreal,FALSE,3,1,Win,,,,,,,,,,,,,,,,,83940,2012-2013
+1/6/2013,SP1,Barcelona,Barcelona,Espanol,TRUE,4,0,Win,19,5,19,5,0,4,0,4,0,0,0,0,3,17,3,17,83988,2012-2013
+1/12/2013,SP2,Barcelona,Barcelona B,Xerez,TRUE,4,2,Win,,,,,,,,,,,,,,,,,84123,2012-2013
+1/13/2013,SP1,Barcelona,Barcelona,Malaga,FALSE,3,1,Win,7,12,12,7,1,2,2,1,0,0,0,0,17,14,14,17,84244,2012-2013
+1/19/2013,SP1,Barcelona,Barcelona,Sociedad,FALSE,2,3,Loss,14,8,8,14,3,2,2,3,0,1,1,0,14,15,15,14,84321,2012-2013
+1/20/2013,SP2,Barcelona,Barcelona B,Almeria,FALSE,2,2,Draw,,,,,,,,,,,,,,,,,84390,2012-2013
+1/27/2013,SP1,Barcelona,Barcelona,Osasuna,TRUE,5,1,Win,19,3,19,3,1,1,1,1,0,1,0,1,11,9,11,9,84551,2012-2013
+1/27/2013,SP2,Barcelona,Barcelona B,Real Madrid B,TRUE,3,1,Win,,,,,,,,,,,,,,,,,84574,2012-2013
+2/2/2013,SP2,Barcelona,Barcelona B,Sabadell,FALSE,2,3,Loss,,,,,,,,,,,,,,,,,84658,2012-2013
+2/3/2013,SP1,Barcelona,Barcelona,Valencia,FALSE,1,1,Draw,17,10,10,17,3,1,1,3,0,0,0,0,20,13,13,20,84772,2012-2013
+2/9/2013,SP2,Barcelona,Barcelona B,Guadalajara,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,84940,2012-2013
+2/10/2013,SP1,Barcelona,Barcelona,Getafe,TRUE,6,1,Win,17,6,17,6,1,2,1,2,0,0,0,0,13,9,13,9,85074,2012-2013
+2/16/2013,SP1,Barcelona,Barcelona,Granada,FALSE,2,1,Win,6,17,17,6,2,1,1,2,0,0,0,0,15,14,14,15,85275,2012-2013
+2/16/2013,SP2,Barcelona,Barcelona B,Ponferradina,FALSE,2,3,Loss,,,,,,,,,,,,,,,,,85279,2012-2013
+2/23/2013,SP1,Barcelona,Barcelona,Sevilla,TRUE,2,1,Win,17,7,17,7,0,2,0,2,0,0,0,0,10,12,10,12,85472,2012-2013
+2/23/2013,SP2,Barcelona,Barcelona B,Hercules,TRUE,1,0,Win,,,,,,,,,,,,,,,,,85477,2012-2013
+3/2/2013,SP2,Barcelona,Barcelona B,Las Palmas,FALSE,3,3,Draw,,,,,,,,,,,,,,,,,85821,2012-2013
+3/2/2013,SP1,Barcelona,Barcelona,Real Madrid,FALSE,1,2,Loss,14,5,5,14,4,6,6,4,0,1,1,0,21,19,19,21,85840,2012-2013
+3/9/2013,SP2,Barcelona,Barcelona B,Cordoba,TRUE,4,3,Win,,,,,,,,,,,,,,,,,86083,2012-2013
+3/9/2013,SP1,Barcelona,Barcelona,La Coruna,TRUE,2,0,Win,12,4,12,4,2,1,2,1,0,0,0,0,14,10,14,10,86104,2012-2013
+3/16/2013,SP2,Barcelona,Barcelona B,Sp Gijon,FALSE,2,5,Loss,,,,,,,,,,,,,,,,,86384,2012-2013
+3/17/2013,SP1,Barcelona,Barcelona,Vallecano,TRUE,3,1,Win,19,17,19,17,1,4,1,4,0,0,0,0,9,18,9,18,86561,2012-2013
+3/23/2013,SP2,Barcelona,Barcelona B,Huesca,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,86689,2012-2013
+3/30/2013,SP1,Barcelona,Barcelona,Celta,FALSE,2,2,Draw,8,8,8,8,4,3,3,4,0,0,0,0,15,12,12,15,86814,2012-2013
+3/31/2013,SP2,Barcelona,Barcelona B,Recreativo,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,86960,2012-2013
+4/6/2013,SP1,Barcelona,Barcelona,Mallorca,TRUE,5,0,Win,22,13,22,13,1,1,1,1,0,0,0,0,12,14,12,14,87147,2012-2013
+4/6/2013,SP2,Barcelona,Barcelona B,Mirandes,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,87162,2012-2013
+4/13/2013,SP2,Barcelona,Barcelona B,Numancia,FALSE,1,0,Win,,,,,,,,,,,,,,,,,87454,2012-2013
+4/14/2013,SP1,Barcelona,Barcelona,Zaragoza,FALSE,3,0,Win,12,11,11,12,3,2,2,3,0,0,0,0,16,15,15,16,87589,2012-2013
+4/20/2013,SP1,Barcelona,Barcelona,Levante,TRUE,1,0,Win,18,4,18,4,1,2,1,2,0,0,0,0,13,6,13,6,87786,2012-2013
+4/21/2013,SP2,Barcelona,Barcelona B,Murcia,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,87951,2012-2013
+4/26/2013,SP2,Barcelona,Barcelona B,Santander,FALSE,2,1,Win,,,,,,,,,,,,,,,,,88050,2012-2013
+4/27/2013,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,2,2,Draw,7,15,15,7,3,2,2,3,0,0,0,0,17,11,11,17,88114,2012-2013
+5/4/2013,SP2,Barcelona,Barcelona B,Lugo,TRUE,2,2,Draw,,,,,,,,,,,,,,,,,88355,2012-2013
+5/5/2013,SP1,Barcelona,Barcelona,Betis,TRUE,4,2,Win,19,5,19,5,1,1,1,1,0,0,0,0,12,10,12,10,88439,2012-2013
+5/10/2013,SP2,Barcelona,Barcelona B,Elche,FALSE,1,1,Draw,,,,,,,,,,,,,,,,,88577,2012-2013
+5/12/2013,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,2,1,Win,12,11,11,12,1,2,2,1,0,0,0,0,18,11,11,18,88692,2012-2013
+5/18/2013,SP2,Barcelona,Barcelona B,Alcorcon,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,88807,2012-2013
+5/19/2013,SP1,Barcelona,Barcelona,Valladolid,TRUE,2,1,Win,16,5,16,5,0,0,0,0,0,0,0,0,4,6,4,6,88880,2012-2013
+5/26/2013,SP1,Barcelona,Barcelona,Espanol,FALSE,2,0,Win,6,10,10,6,3,2,2,3,1,0,0,1,13,10,10,13,89047,2012-2013
+5/26/2013,SP2,Barcelona,Barcelona B,Girona,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,89055,2012-2013
+6/1/2013,SP1,Barcelona,Barcelona,Malaga,TRUE,4,1,Win,10,11,10,11,0,0,0,0,0,0,0,0,5,5,5,5,89182,2012-2013
+6/2/2013,SP2,Barcelona,Barcelona B,Villarreal,TRUE,0,3,Loss,,,,,,,,,,,,,,,,,89200,2012-2013
+6/8/2013,SP2,Barcelona,Barcelona B,Xerez,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,89306,2012-2013
+8/17/2013,SP2,Barcelona,Barcelona B,Mirandes,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,90293,2013-2014
+8/18/2013,SP1,Barcelona,Barcelona,Levante,TRUE,7,0,Win,22,4,22,4,1,3,1,3,0,0,0,0,15,16,15,16,90442,2013-2014
+8/24/2013,SP2,Barcelona,Barcelona B,Lugo,TRUE,2,1,Win,,,,,,,,,,,,,,,,,90579,2013-2014
+8/25/2013,SP1,Barcelona,Barcelona,Malaga,FALSE,1,0,Win,9,15,15,9,3,2,2,3,0,0,0,0,14,12,12,14,90769,2013-2014
+8/31/2013,SP2,Barcelona,Barcelona B,Zaragoza,TRUE,1,0,Win,,,,,,,,,,,,,,,,,90913,2013-2014
+9/1/2013,SP1,Barcelona,Barcelona,Valencia,FALSE,3,2,Win,16,20,20,16,2,3,3,2,0,0,0,0,20,11,11,20,91111,2013-2014
+9/8/2013,SP2,Barcelona,Barcelona B,Tenerife,FALSE,2,2,Draw,,,,,,,,,,,,,,,,,91251,2013-2014
+9/14/2013,SP1,Barcelona,Barcelona,Sevilla,TRUE,3,2,Win,19,7,19,7,2,5,2,5,0,0,0,0,12,17,12,17,91378,2013-2014
+9/15/2013,SP2,Barcelona,Barcelona B,Real Madrid B,TRUE,2,0,Win,,,,,,,,,,,,,,,,,91513,2013-2014
+9/20/2013,SP2,Barcelona,Barcelona B,Recreativo,FALSE,0,3,Loss,,,,,,,,,,,,,,,,,91659,2013-2014
+9/21/2013,SP1,Barcelona,Barcelona,Vallecano,FALSE,4,0,Win,14,14,14,14,2,1,1,2,0,0,0,0,21,16,16,21,91740,2013-2014
+9/24/2013,SP1,Barcelona,Barcelona,Sociedad,TRUE,4,1,Win,23,9,23,9,0,1,0,1,0,0,0,0,6,12,6,12,91989,2013-2014
+9/28/2013,SP1,Barcelona,Barcelona,Almeria,FALSE,2,0,Win,5,15,15,5,1,2,2,1,0,0,0,0,20,15,15,20,92137,2013-2014
+9/29/2013,SP2,Barcelona,Barcelona B,Mallorca,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,92280,2013-2014
+10/5/2013,SP1,Barcelona,Barcelona,Valladolid,TRUE,4,1,Win,21,7,21,7,0,3,0,3,0,0,0,0,7,15,7,15,92557,2013-2014
+10/6/2013,SP2,Barcelona,Barcelona B,Ponferradina,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,92626,2013-2014
+10/13/2013,SP2,Barcelona,Barcelona B,La Coruna,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,92825,2013-2014
+10/19/2013,SP2,Barcelona,Barcelona B,Alaves,FALSE,3,2,Win,,,,,,,,,,,,,,,,,92905,2013-2014
+10/19/2013,SP1,Barcelona,Barcelona,Osasuna,FALSE,0,0,Draw,4,12,12,4,3,2,2,3,0,0,0,0,13,8,8,13,92937,2013-2014
+10/26/2013,SP1,Barcelona,Barcelona,Real Madrid,TRUE,2,1,Win,12,10,12,10,2,5,2,5,0,0,0,0,19,16,19,16,93271,2013-2014
+10/27/2013,SP2,Barcelona,Barcelona B,Eibar,TRUE,0,2,Loss,,,,,,,,,,,,,,,,,93407,2013-2014
+10/29/2013,SP1,Barcelona,Barcelona,Celta,FALSE,3,0,Win,12,20,20,12,3,1,1,3,0,0,0,0,17,12,12,17,93512,2013-2014
+11/1/2013,SP1,Barcelona,Barcelona,Espanol,TRUE,1,0,Win,19,8,19,8,1,3,1,3,0,0,0,0,7,19,7,19,93580,2013-2014
+11/2/2013,SP2,Barcelona,Barcelona B,Numancia,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,93656,2013-2014
+11/9/2013,SP2,Barcelona,Barcelona B,Jaen,TRUE,0,3,Loss,,,,,,,,,,,,,,,,,93892,2013-2014
+11/10/2013,SP1,Barcelona,Barcelona,Betis,FALSE,4,1,Win,16,11,11,16,3,2,2,3,0,0,0,0,18,12,12,18,93965,2013-2014
+11/16/2013,SP2,Barcelona,Barcelona B,Girona,FALSE,2,1,Win,,,,,,,,,,,,,,,,,94034,2013-2014
+11/23/2013,SP1,Barcelona,Barcelona,Granada,TRUE,4,0,Win,13,10,13,10,2,2,2,2,0,1,0,1,19,19,19,19,94182,2013-2014
+11/23/2013,SP2,Barcelona,Barcelona B,Las Palmas,TRUE,1,2,Loss,,,,,,,,,,,,,,,,,94184,2013-2014
+11/30/2013,SP2,Barcelona,Barcelona B,Cordoba,FALSE,2,1,Win,,,,,,,,,,,,,,,,,94464,2013-2014
+12/1/2013,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,0,1,Loss,15,11,11,15,3,4,4,3,0,0,0,0,16,10,10,16,94581,2013-2014
+12/7/2013,SP2,Barcelona,Barcelona B,Sabadell,TRUE,2,0,Win,,,,,,,,,,,,,,,,,94776,2013-2014
+12/14/2013,SP1,Barcelona,Barcelona,Villarreal,TRUE,2,1,Win,13,3,13,3,1,1,1,1,0,0,0,0,7,12,7,12,94957,2013-2014
+12/15/2013,SP2,Barcelona,Barcelona B,Murcia,FALSE,1,3,Loss,,,,,,,,,,,,,,,,,95093,2013-2014
+12/21/2013,SP2,Barcelona,Barcelona B,Sp Gijon,TRUE,2,2,Draw,,,,,,,,,,,,,,,,,95267,2013-2014
+12/22/2013,SP1,Barcelona,Barcelona,Getafe,FALSE,5,2,Win,12,15,15,12,4,3,3,4,0,0,0,0,26,7,7,26,95317,2013-2014
+1/5/2014,SP2,Barcelona,Barcelona B,Alcorcon,FALSE,2,2,Draw,,,,,,,,,,,,,,,,,95670,2013-2014
+1/5/2014,SP1,Barcelona,Barcelona,Elche,TRUE,4,0,Win,13,3,13,3,2,2,2,2,0,0,0,0,12,17,12,17,95679,2013-2014
+1/11/2014,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,0,0,Draw,6,9,9,6,2,3,3,2,0,0,0,0,17,9,9,17,95788,2013-2014
+1/12/2014,SP2,Barcelona,Barcelona B,Hercules,TRUE,5,0,Win,,,,,,,,,,,,,,,,,95904,2013-2014
+1/19/2014,SP2,Barcelona,Barcelona B,Mirandes,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,96059,2013-2014
+1/19/2014,SP1,Barcelona,Barcelona,Levante,FALSE,1,1,Draw,7,17,17,7,3,1,1,3,0,0,0,0,13,11,11,13,96077,2013-2014
+1/25/2014,SP2,Barcelona,Barcelona B,Lugo,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,96160,2013-2014
+1/26/2014,SP1,Barcelona,Barcelona,Malaga,TRUE,3,0,Win,23,4,23,4,1,3,1,3,0,0,0,0,13,16,13,16,96229,2013-2014
+2/1/2014,SP1,Barcelona,Barcelona,Valencia,TRUE,2,3,Loss,20,8,20,8,2,3,2,3,1,0,1,0,18,8,18,8,96351,2013-2014
+2/2/2014,SP2,Barcelona,Barcelona B,Zaragoza,FALSE,2,0,Win,,,,,,,,,,,,,,,,,96482,2013-2014
+2/9/2014,SP1,Barcelona,Barcelona,Sevilla,FALSE,4,1,Win,15,9,9,15,3,3,3,3,0,0,0,0,22,9,9,22,96765,2013-2014
+2/9/2014,SP2,Barcelona,Barcelona B,Tenerife,TRUE,2,0,Win,,,,,,,,,,,,,,,,,96771,2013-2014
+2/15/2014,SP2,Barcelona,Barcelona B,Real Madrid B,FALSE,1,3,Loss,,,,,,,,,,,,,,,,,96921,2013-2014
+2/15/2014,SP1,Barcelona,Barcelona,Vallecano,TRUE,6,0,Win,21,9,21,9,0,0,0,0,0,0,0,0,6,10,6,10,96947,2013-2014
+2/22/2014,SP2,Barcelona,Barcelona B,Recreativo,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,97156,2013-2014
+2/22/2014,SP1,Barcelona,Barcelona,Sociedad,FALSE,1,3,Loss,15,12,12,15,2,3,3,2,0,0,0,0,13,15,15,13,97191,2013-2014
+3/1/2014,SP2,Barcelona,Barcelona B,Mallorca,FALSE,2,1,Win,,,,,,,,,,,,,,,,,97459,2013-2014
+3/2/2014,SP1,Barcelona,Barcelona,Almeria,TRUE,4,1,Win,29,6,29,6,1,4,1,4,0,0,0,0,8,12,8,12,97577,2013-2014
+3/8/2014,SP1,Barcelona,Barcelona,Valladolid,FALSE,0,1,Loss,7,13,13,7,5,1,1,5,0,0,0,0,15,14,14,15,97737,2013-2014
+3/9/2014,SP2,Barcelona,Barcelona B,Ponferradina,TRUE,1,0,Win,,,,,,,,,,,,,,,,,97862,2013-2014
+3/15/2014,SP2,Barcelona,Barcelona B,La Coruna,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,98020,2013-2014
+3/16/2014,SP1,Barcelona,Barcelona,Osasuna,TRUE,7,0,Win,20,6,20,6,1,2,1,2,0,0,0,0,9,10,9,10,98204,2013-2014
+3/22/2014,SP2,Barcelona,Barcelona B,Alaves,TRUE,2,1,Win,,,,,,,,,,,,,,,,,98331,2013-2014
+3/23/2014,SP1,Barcelona,Barcelona,Real Madrid,FALSE,4,3,Win,13,18,18,13,5,2,2,5,1,0,0,1,24,12,12,24,98500,2013-2014
+3/26/2014,SP1,Barcelona,Barcelona,Celta,TRUE,3,0,Win,14,8,14,8,2,2,2,2,0,0,0,0,11,8,11,8,98652,2013-2014
+3/29/2014,SP1,Barcelona,Barcelona,Espanol,FALSE,1,0,Win,8,20,20,8,4,2,2,4,1,0,0,1,24,8,8,24,98752,2013-2014
+3/29/2014,SP2,Barcelona,Barcelona B,Eibar,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,98763,2013-2014
+4/5/2014,SP1,Barcelona,Barcelona,Betis,TRUE,3,1,Win,12,12,12,12,0,2,0,2,0,0,0,0,9,16,9,16,99081,2013-2014
+4/6/2014,SP2,Barcelona,Barcelona B,Numancia,TRUE,3,0,Win,,,,,,,,,,,,,,,,,99235,2013-2014
+4/12/2014,SP1,Barcelona,Barcelona,Granada,FALSE,0,1,Loss,5,29,29,5,0,3,3,0,0,0,0,0,10,5,5,10,99411,2013-2014
+4/13/2014,SP2,Barcelona,Barcelona B,Jaen,FALSE,3,0,Win,,,,,,,,,,,,,,,,,99538,2013-2014
+4/19/2014,SP2,Barcelona,Barcelona B,Girona,TRUE,2,1,Win,,,,,,,,,,,,,,,,,99727,2013-2014
+4/20/2014,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,2,1,Win,17,11,17,11,2,3,2,3,0,0,0,0,16,17,16,17,99850,2013-2014
+4/26/2014,SP2,Barcelona,Barcelona B,Las Palmas,FALSE,2,0,Win,,,,,,,,,,,,,,,,,100043,2013-2014
+4/27/2014,SP1,Barcelona,Barcelona,Villarreal,FALSE,3,2,Win,5,20,20,5,3,3,3,3,0,0,0,0,11,6,6,11,100186,2013-2014
+5/3/2014,SP2,Barcelona,Barcelona B,Cordoba,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,100342,2013-2014
+5/3/2014,SP1,Barcelona,Barcelona,Getafe,TRUE,2,2,Draw,21,8,21,8,3,3,3,3,0,0,0,0,13,6,13,6,100373,2013-2014
+5/10/2014,SP2,Barcelona,Barcelona B,Sabadell,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,100619,2013-2014
+5/11/2014,SP1,Barcelona,Barcelona,Elche,FALSE,0,0,Draw,6,20,20,6,3,3,3,3,0,0,0,0,16,16,16,16,100728,2013-2014
+5/17/2014,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,1,1,Draw,11,12,11,12,5,4,5,4,0,0,0,0,11,14,11,14,100838,2013-2014
+5/17/2014,SP2,Barcelona,Barcelona B,Murcia,TRUE,4,0,Win,,,,,,,,,,,,,,,,,100845,2013-2014
+5/24/2014,SP2,Barcelona,Barcelona B,Sp Gijon,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,101024,2013-2014
+5/31/2014,SP2,Barcelona,Barcelona B,Alcorcon,TRUE,4,3,Win,,,,,,,,,,,,,,,,,101138,2013-2014
+6/7/2014,SP2,Barcelona,Barcelona B,Hercules,FALSE,2,1,Win,,,,,,,,,,,,,,,,,101229,2013-2014
+8/23/2014,SP2,Barcelona,Barcelona B,Osasuna,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,102370,2014-2015
+8/24/2014,SP1,Barcelona,Barcelona,Elche,TRUE,3,0,Win,12,3,12,3,0,1,0,1,1,0,1,0,11,13,11,13,102525,2014-2015
+8/30/2014,SP2,Barcelona,Barcelona B,Sabadell,TRUE,3,1,Win,,,,,,,,,,,,,,,,,102692,2014-2015
+8/31/2014,SP1,Barcelona,Barcelona,Villarreal,FALSE,1,0,Win,9,20,20,9,0,2,2,0,0,0,0,0,12,9,9,12,102866,2014-2015
+9/7/2014,SP2,Barcelona,Barcelona B,Zaragoza,TRUE,4,1,Win,,,,,,,,,,,,,,,,,103074,2014-2015
+9/13/2014,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,2,0,Win,15,3,15,3,1,1,1,1,0,0,0,0,12,11,12,11,103300,2014-2015
+9/13/2014,SP2,Barcelona,Barcelona B,Alaves,FALSE,3,2,Win,,,,,,,,,,,,,,,,,103311,2014-2015
+9/20/2014,SP2,Barcelona,Barcelona B,Llagostera,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,103593,2014-2015
+9/21/2014,SP1,Barcelona,Barcelona,Levante,FALSE,5,0,Win,9,17,17,9,1,2,2,1,1,0,0,1,13,11,11,13,103766,2014-2015
+9/24/2014,SP1,Barcelona,Barcelona,Malaga,FALSE,0,0,Draw,6,10,10,6,2,2,2,2,0,0,0,0,15,13,13,15,103945,2014-2015
+9/27/2014,SP1,Barcelona,Barcelona,Granada,TRUE,6,0,Win,19,9,19,9,1,3,1,3,0,0,0,0,11,11,11,11,104036,2014-2015
+9/28/2014,SP2,Barcelona,Barcelona B,Mallorca,FALSE,3,3,Draw,,,,,,,,,,,,,,,,,104211,2014-2015
+10/4/2014,SP1,Barcelona,Barcelona,Vallecano,FALSE,2,0,Win,14,18,18,14,2,2,2,2,2,0,0,2,19,7,7,19,104394,2014-2015
+10/4/2014,SP2,Barcelona,Barcelona B,Lugo,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,104407,2014-2015
+10/11/2014,SP2,Barcelona,Barcelona B,Santander,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,104662,2014-2015
+10/18/2014,SP1,Barcelona,Barcelona,Eibar,TRUE,3,0,Win,27,4,27,4,2,2,2,2,0,0,0,0,9,13,9,13,104789,2014-2015
+10/19/2014,SP2,Barcelona,Barcelona B,Alcorcon,TRUE,4,1,Win,,,,,,,,,,,,,,,,,104939,2014-2015
+10/25/2014,SP1,Barcelona,Barcelona,Real Madrid,FALSE,1,3,Loss,18,16,16,18,2,4,4,2,0,0,0,0,11,10,10,11,105176,2014-2015
+10/26/2014,SP2,Barcelona,Barcelona B,Tenerife,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,105329,2014-2015
+11/1/2014,SP1,Barcelona,Barcelona,Celta,TRUE,0,1,Loss,19,10,19,10,1,2,1,2,0,0,0,0,10,29,10,29,105500,2014-2015
+11/1/2014,SP2,Barcelona,Barcelona B,Sp Gijon,TRUE,0,0,Draw,,,,,,,,,,,,,,,,,105516,2014-2015
+11/8/2014,SP2,Barcelona,Barcelona B,Betis,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,105780,2014-2015
+11/8/2014,SP1,Barcelona,Barcelona,Almeria,FALSE,2,1,Win,6,18,18,6,2,0,0,2,0,0,0,0,16,9,9,16,105798,2014-2015
+11/15/2014,SP2,Barcelona,Barcelona B,Numancia,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,105972,2014-2015
+11/22/2014,SP2,Barcelona,Barcelona B,Ponferradina,FALSE,4,4,Draw,,,,,,,,,,,,,,,,,106089,2014-2015
+11/22/2014,SP1,Barcelona,Barcelona,Sevilla,TRUE,5,1,Win,16,2,16,2,1,2,1,2,0,0,0,0,8,21,8,21,106116,2014-2015
+11/30/2014,SP2,Barcelona,Barcelona B,Albacete,TRUE,1,2,Loss,,,,,,,,,,,,,,,,,106521,2014-2015
+11/30/2014,SP1,Barcelona,Barcelona,Valencia,FALSE,1,0,Win,12,7,7,12,3,3,3,3,0,0,0,0,9,7,7,9,106537,2014-2015
+12/7/2014,SP1,Barcelona,Barcelona,Espanol,TRUE,5,1,Win,15,3,15,3,0,4,0,4,0,0,0,0,6,11,6,11,106852,2014-2015
+12/7/2014,SP2,Barcelona,Barcelona B,Girona,FALSE,1,0,Win,,,,,,,,,,,,,,,,,106857,2014-2015
+12/13/2014,SP1,Barcelona,Barcelona,Getafe,FALSE,0,0,Draw,4,23,23,4,2,0,0,2,0,0,0,0,24,8,8,24,106980,2014-2015
+12/13/2014,SP2,Barcelona,Barcelona B,Mirandes,TRUE,1,3,Loss,,,,,,,,,,,,,,,,,106990,2014-2015
+12/20/2014,SP1,Barcelona,Barcelona,Cordoba,TRUE,5,0,Win,16,7,16,7,1,0,1,0,0,0,0,0,14,5,14,5,107290,2014-2015
+12/21/2014,SP2,Barcelona,Barcelona B,Valladolid,FALSE,0,7,Loss,,,,,,,,,,,,,,,,,107342,2014-2015
+1/3/2015,SP2,Barcelona,Barcelona B,Las Palmas,TRUE,0,2,Loss,,,,,,,,,,,,,,,,,107584,2014-2015
+1/4/2015,SP1,Barcelona,Barcelona,Sociedad,FALSE,0,1,Loss,6,17,17,6,5,4,4,5,0,0,0,0,21,14,14,21,107643,2014-2015
+1/10/2015,SP2,Barcelona,Barcelona B,Leganes,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,107755,2014-2015
+1/11/2015,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,3,1,Win,17,5,17,5,3,6,3,6,0,0,0,0,16,18,16,18,107839,2014-2015
+1/18/2015,SP1,Barcelona,Barcelona,La Coruna,FALSE,4,0,Win,7,14,14,7,2,2,2,2,0,0,0,0,14,7,7,14,108061,2014-2015
+1/18/2015,SP2,Barcelona,Barcelona B,Recreativo,TRUE,3,1,Win,,,,,,,,,,,,,,,,,108076,2014-2015
+1/24/2015,SP1,Barcelona,Barcelona,Elche,FALSE,6,0,Win,6,12,12,6,5,2,2,5,1,0,0,1,18,12,12,18,108168,2014-2015
+1/25/2015,SP2,Barcelona,Barcelona B,Osasuna,TRUE,0,1,Loss,,,,,,,,,,,,,,,,,108236,2014-2015
+1/31/2015,SP2,Barcelona,Barcelona B,Sabadell,FALSE,4,1,Win,,,,,,,,,,,,,,,,,108409,2014-2015
+2/1/2015,SP1,Barcelona,Barcelona,Villarreal,TRUE,3,2,Win,19,9,19,9,1,2,1,2,0,0,0,0,10,20,10,20,108446,2014-2015
+2/7/2015,SP2,Barcelona,Barcelona B,Zaragoza,FALSE,0,4,Loss,,,,,,,,,,,,,,,,,108576,2014-2015
+2/8/2015,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,5,2,Win,15,19,19,15,3,1,1,3,1,0,0,1,15,10,10,15,108723,2014-2015
+2/14/2015,SP2,Barcelona,Barcelona B,Alaves,TRUE,0,0,Draw,,,,,,,,,,,,,,,,,108921,2014-2015
+2/15/2015,SP1,Barcelona,Barcelona,Levante,TRUE,5,0,Win,18,5,18,5,1,2,1,2,0,0,0,0,6,13,6,13,109051,2014-2015
+2/21/2015,SP1,Barcelona,Barcelona,Malaga,TRUE,0,1,Loss,11,11,11,11,4,3,4,3,0,0,0,0,9,11,9,11,109186,2014-2015
+2/22/2015,SP2,Barcelona,Barcelona B,Llagostera,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,109308,2014-2015
+2/28/2015,SP1,Barcelona,Barcelona,Granada,FALSE,3,1,Win,10,16,16,10,2,3,3,2,0,0,0,0,18,9,9,18,109441,2014-2015
+2/28/2015,SP2,Barcelona,Barcelona B,Mallorca,TRUE,2,4,Loss,,,,,,,,,,,,,,,,,109444,2014-2015
+3/7/2015,SP2,Barcelona,Barcelona B,Lugo,FALSE,2,3,Loss,,,,,,,,,,,,,,,,,109798,2014-2015
+3/8/2015,SP1,Barcelona,Barcelona,Vallecano,TRUE,6,1,Win,19,7,19,7,3,2,3,2,1,1,1,1,13,11,13,11,109935,2014-2015
+3/14/2015,SP1,Barcelona,Barcelona,Eibar,FALSE,2,0,Win,13,12,12,13,1,0,0,1,0,0,0,0,14,3,3,14,110114,2014-2015
+3/15/2015,SP2,Barcelona,Barcelona B,Santander,TRUE,1,1,Draw,,,,,,,,,,,,,,,,,110272,2014-2015
+3/21/2015,SP2,Barcelona,Barcelona B,Alcorcon,FALSE,1,3,Loss,,,,,,,,,,,,,,,,,110450,2014-2015
+3/22/2015,SP1,Barcelona,Barcelona,Real Madrid,TRUE,2,1,Win,17,13,17,13,5,6,5,6,0,0,0,0,9,14,9,14,110603,2014-2015
+3/29/2015,SP2,Barcelona,Barcelona B,Tenerife,TRUE,2,2,Draw,,,,,,,,,,,,,,,,,110786,2014-2015
+4/5/2015,SP1,Barcelona,Barcelona,Celta,FALSE,1,0,Win,7,12,12,7,2,2,2,2,1,0,0,1,26,12,12,26,111014,2014-2015
+4/5/2015,SP2,Barcelona,Barcelona B,Sp Gijon,FALSE,0,0,Draw,,,,,,,,,,,,,,,,,111023,2014-2015
+4/8/2015,SP1,Barcelona,Barcelona,Almeria,TRUE,4,0,Win,19,6,19,6,1,1,1,1,0,0,0,0,9,14,9,14,111148,2014-2015
+4/11/2015,SP1,Barcelona,Barcelona,Sevilla,FALSE,2,2,Draw,11,17,17,11,5,2,2,5,0,0,0,0,23,9,9,23,111266,2014-2015
+4/12/2015,SP2,Barcelona,Barcelona B,Betis,TRUE,1,2,Loss,,,,,,,,,,,,,,,,,111365,2014-2015
+4/18/2015,SP1,Barcelona,Barcelona,Valencia,TRUE,2,0,Win,11,11,11,11,4,4,4,4,0,0,0,0,18,17,18,17,111543,2014-2015
+4/19/2015,SP2,Barcelona,Barcelona B,Numancia,FALSE,0,1,Loss,,,,,,,,,,,,,,,,,111685,2014-2015
+4/25/2015,SP2,Barcelona,Barcelona B,Ponferradina,TRUE,2,1,Win,,,,,,,,,,,,,,,,,111842,2014-2015
+4/25/2015,SP1,Barcelona,Barcelona,Espanol,FALSE,2,0,Win,7,12,12,7,5,1,1,5,1,1,1,1,21,12,12,21,111877,2014-2015
+4/28/2015,SP1,Barcelona,Barcelona,Getafe,TRUE,6,0,Win,21,7,21,7,0,0,0,0,0,0,0,0,11,5,11,5,112112,2014-2015
+5/2/2015,SP1,Barcelona,Barcelona,Cordoba,FALSE,8,0,Win,5,27,27,5,2,0,0,2,0,0,0,0,11,3,3,11,112303,2014-2015
+5/3/2015,SP2,Barcelona,Barcelona B,Albacete,FALSE,1,2,Loss,,,,,,,,,,,,,,,,,112332,2014-2015
+5/9/2015,SP2,Barcelona,Barcelona B,Girona,TRUE,2,4,Loss,,,,,,,,,,,,,,,,,112495,2014-2015
+5/9/2015,SP1,Barcelona,Barcelona,Sociedad,TRUE,2,0,Win,15,5,15,5,1,5,1,5,0,0,0,0,9,13,9,13,112526,2014-2015
+5/16/2015,SP2,Barcelona,Barcelona B,Mirandes,FALSE,3,2,Win,,,,,,,,,,,,,,,,,112679,2014-2015
+5/17/2015,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,1,0,Win,10,15,15,10,5,3,3,5,0,0,0,0,23,7,7,23,112769,2014-2015
+5/19/2015,SP2,Barcelona,Barcelona B,Valladolid,TRUE,1,3,Loss,,,,,,,,,,,,,,,,,112873,2014-2015
+5/23/2015,SP2,Barcelona,Barcelona B,Las Palmas,FALSE,3,4,Loss,,,,,,,,,,,,,,,,,112960,2014-2015
+5/23/2015,SP1,Barcelona,Barcelona,La Coruna,TRUE,2,2,Draw,18,10,18,10,1,3,1,3,0,0,0,0,6,9,6,9,112990,2014-2015
+5/31/2015,SP2,Barcelona,Barcelona B,Leganes,TRUE,2,5,Loss,,,,,,,,,,,,,,,,,113243,2014-2015
+6/7/2015,SP2,Barcelona,Barcelona B,Recreativo,FALSE,0,2,Loss,,,,,,,,,,,,,,,,,113355,2014-2015
+8/23/2015,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,1,0,Win,8,10,10,8,3,3,3,3,0,0,0,0,16,11,11,16,114892,2015-2016
+8/29/2015,SP1,Barcelona,Barcelona,Malaga,TRUE,1,0,Win,22,4,22,4,0,3,0,3,0,0,0,0,4,21,4,21,115074,2015-2016
+9/12/2015,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,2,1,Win,11,13,13,11,3,1,1,3,0,0,0,0,17,5,5,17,115585,2015-2016
+9/20/2015,SP1,Barcelona,Barcelona,Levante,TRUE,4,1,Win,21,11,21,11,0,1,0,1,0,0,0,0,8,16,8,16,116060,2015-2016
+9/23/2015,SP1,Barcelona,Barcelona,Celta,FALSE,1,4,Loss,18,18,18,18,2,2,2,2,0,0,0,0,19,4,4,19,116239,2015-2016
+9/26/2015,SP1,Barcelona,Barcelona,Las Palmas,TRUE,2,1,Win,18,10,18,10,2,4,2,4,0,0,0,0,12,23,12,23,116314,2015-2016
+10/3/2015,SP1,Barcelona,Barcelona,Sevilla,FALSE,1,2,Loss,12,28,28,12,5,3,3,5,0,0,0,0,16,16,16,16,116776,2015-2016
+10/17/2015,SP1,Barcelona,Barcelona,Vallecano,TRUE,5,2,Win,14,22,14,22,1,2,1,2,0,0,0,0,8,15,8,15,117103,2015-2016
+10/25/2015,SP1,Barcelona,Barcelona,Eibar,TRUE,3,1,Win,14,7,14,7,3,5,3,5,1,0,1,0,14,18,14,18,117587,2015-2016
+10/31/2015,SP1,Barcelona,Barcelona,Getafe,FALSE,2,0,Win,6,14,14,6,3,0,0,3,0,0,0,0,10,3,3,10,117799,2015-2016
+11/8/2015,SP1,Barcelona,Barcelona,Villarreal,TRUE,3,0,Win,20,5,20,5,5,3,5,3,0,0,0,0,12,19,12,19,118233,2015-2016
+11/21/2015,SP1,Barcelona,Barcelona,Real Madrid,FALSE,4,0,Win,13,18,18,13,3,2,2,3,1,0,0,1,13,10,10,13,118424,2015-2016
+11/28/2015,SP1,Barcelona,Barcelona,Sociedad,TRUE,4,0,Win,11,10,11,10,0,5,0,5,0,0,0,0,11,14,11,14,118708,2015-2016
+12/5/2015,SP1,Barcelona,Barcelona,Valencia,FALSE,1,1,Draw,10,16,16,10,3,1,1,3,0,0,0,0,13,15,15,13,119050,2015-2016
+12/12/2015,SP1,Barcelona,Barcelona,La Coruna,TRUE,2,2,Draw,17,13,17,13,0,2,0,2,0,0,0,0,4,11,4,11,119334,2015-2016
+12/30/2015,SP1,Barcelona,Barcelona,Betis,TRUE,4,0,Win,16,11,16,11,1,3,1,3,0,0,0,0,16,20,16,20,119879,2015-2016
+1/2/2016,SP1,Barcelona,Barcelona,Espanol,FALSE,0,0,Draw,4,10,10,4,5,3,3,5,0,0,0,0,22,10,10,22,119958,2015-2016
+1/9/2016,SP1,Barcelona,Barcelona,Granada,TRUE,4,0,Win,17,8,17,8,1,4,1,4,0,0,0,0,14,19,14,19,120117,2015-2016
+1/17/2016,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,6,0,Win,20,9,20,9,2,2,2,2,0,1,0,1,6,7,6,7,120378,2015-2016
+1/23/2016,SP1,Barcelona,Barcelona,Malaga,FALSE,2,1,Win,15,12,12,15,3,3,3,3,0,0,0,0,16,9,9,16,120535,2015-2016
+1/30/2016,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,2,1,Win,10,7,10,7,0,3,0,3,0,2,0,2,7,18,7,18,120746,2015-2016
+2/7/2016,SP1,Barcelona,Barcelona,Levante,FALSE,2,0,Win,11,11,11,11,4,3,3,4,0,0,0,0,15,10,10,15,121083,2015-2016
+2/14/2016,SP1,Barcelona,Barcelona,Celta,TRUE,6,1,Win,19,10,19,10,0,4,0,4,0,0,0,0,10,16,10,16,121389,2015-2016
+2/17/2016,SP1,Barcelona,Barcelona,Sp Gijon,FALSE,3,1,Win,6,17,17,6,2,1,1,2,0,0,0,0,11,7,7,11,121476,2015-2016
+2/20/2016,SP1,Barcelona,Barcelona,Las Palmas,FALSE,2,1,Win,16,13,13,16,1,2,2,1,0,0,0,0,10,13,13,10,121535,2015-2016
+2/28/2016,SP1,Barcelona,Barcelona,Sevilla,TRUE,2,1,Win,17,11,17,11,3,2,3,2,0,0,0,0,13,10,13,10,121949,2015-2016
+3/3/2016,SP1,Barcelona,Barcelona,Vallecano,FALSE,5,1,Win,8,20,20,8,0,2,2,0,2,0,0,2,17,9,9,17,122099,2015-2016
+3/6/2016,SP1,Barcelona,Barcelona,Eibar,FALSE,4,0,Win,7,9,9,7,3,2,2,3,0,0,0,0,18,10,10,18,122286,2015-2016
+3/12/2016,SP1,Barcelona,Barcelona,Getafe,TRUE,6,0,Win,16,6,16,6,0,3,0,3,0,0,0,0,7,13,7,13,122470,2015-2016
+3/20/2016,SP1,Barcelona,Barcelona,Villarreal,FALSE,2,2,Draw,15,15,15,15,8,4,4,8,0,0,0,0,17,9,9,17,122941,2015-2016
+4/2/2016,SP1,Barcelona,Barcelona,Real Madrid,TRUE,1,2,Loss,14,14,14,14,3,2,3,2,0,1,0,1,17,15,17,15,123229,2015-2016
+4/9/2016,SP1,Barcelona,Barcelona,Sociedad,FALSE,0,1,Loss,5,13,13,5,1,3,3,1,0,0,0,0,14,13,13,14,123434,2015-2016
+4/17/2016,SP1,Barcelona,Barcelona,Valencia,TRUE,1,2,Loss,22,7,22,7,3,3,3,3,0,0,0,0,12,15,12,15,123836,2015-2016
+4/20/2016,SP1,Barcelona,Barcelona,La Coruna,FALSE,8,0,Win,16,19,19,16,1,0,0,1,0,0,0,0,11,8,8,11,124013,2015-2016
+4/23/2016,SP1,Barcelona,Barcelona,Sp Gijon,TRUE,6,0,Win,24,5,24,5,0,2,0,2,0,1,0,1,11,11,11,11,124082,2015-2016
+4/30/2016,SP1,Barcelona,Barcelona,Betis,FALSE,2,0,Win,2,11,11,2,3,3,3,3,1,0,0,1,9,11,11,9,124431,2015-2016
+5/8/2016,SP1,Barcelona,Barcelona,Espanol,TRUE,5,0,Win,13,4,13,4,2,7,2,7,0,0,0,0,13,25,13,25,124749,2015-2016
+5/14/2016,SP1,Barcelona,Barcelona,Granada,FALSE,3,0,Win,8,12,12,8,5,2,2,5,0,0,0,0,12,10,10,12,124939,2015-2016
+8/20/2016,SP1,Barcelona,Barcelona,Betis,TRUE,6,2,Win,30,6,30,6,1,3,1,3,0,0,0,0,17,13,17,13,126671,2016-2017
+8/28/2016,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,1,0,Win,9,12,12,9,5,4,4,5,0,0,0,0,20,13,13,20,127124,2016-2017
+9/10/2016,SP1,Barcelona,Barcelona,Alaves,TRUE,1,2,Loss,16,5,16,5,1,1,1,1,0,0,0,0,12,12,12,12,127474,2016-2017
+9/17/2016,SP1,Barcelona,Barcelona,Leganes,FALSE,5,1,Win,15,10,10,15,4,2,2,4,0,0,0,0,28,7,7,28,127746,2016-2017
+9/21/2016,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,1,1,Draw,19,9,19,9,2,4,2,4,0,0,0,0,14,17,14,17,128067,2016-2017
+9/24/2016,SP1,Barcelona,Barcelona,Sp Gijon,FALSE,5,0,Win,10,13,13,10,1,0,0,1,1,0,0,1,15,10,10,15,128177,2016-2017
+10/2/2016,SP1,Barcelona,Barcelona,Celta,FALSE,3,4,Loss,14,13,13,14,1,3,3,1,0,0,0,0,16,11,11,16,128690,2016-2017
+10/15/2016,SP1,Barcelona,Barcelona,La Coruna,TRUE,4,0,Win,25,7,25,7,1,2,1,2,0,1,0,1,5,15,5,15,129002,2016-2017
+10/22/2016,SP1,Barcelona,Barcelona,Valencia,FALSE,3,2,Win,7,15,15,7,5,4,4,5,0,0,0,0,15,13,13,15,129335,2016-2017
+10/29/2016,SP1,Barcelona,Barcelona,Granada,TRUE,1,0,Win,15,1,15,1,1,4,1,4,0,0,0,0,7,17,7,17,129744,2016-2017
+11/6/2016,SP1,Barcelona,Barcelona,Sevilla,FALSE,2,1,Win,15,14,14,15,4,6,6,4,0,0,0,0,18,12,12,18,130214,2016-2017
+11/19/2016,SP1,Barcelona,Barcelona,Malaga,TRUE,0,0,Draw,28,4,28,4,0,2,0,2,0,2,0,2,13,12,13,12,130467,2016-2017
+11/27/2016,SP1,Barcelona,Barcelona,Sociedad,FALSE,1,1,Draw,17,10,10,17,2,4,4,2,0,0,0,0,16,11,11,16,130900,2016-2017
+12/3/2016,SP1,Barcelona,Barcelona,Real Madrid,TRUE,1,1,Draw,11,14,11,14,4,2,4,2,0,0,0,0,19,16,19,16,131052,2016-2017
+12/10/2016,SP1,Barcelona,Barcelona,Osasuna,FALSE,3,0,Win,4,17,17,4,3,0,0,3,0,0,0,0,18,6,6,18,131345,2016-2017
+12/18/2016,SP1,Barcelona,Barcelona,Espanol,TRUE,4,1,Win,14,4,14,4,0,3,0,3,0,0,0,0,11,16,11,16,131717,2016-2017
+1/8/2017,SP1,Barcelona,Barcelona,Villarreal,FALSE,1,1,Draw,6,20,20,6,1,2,2,1,1,0,0,1,16,13,13,16,132205,2016-2017
+1/14/2017,SP1,Barcelona,Barcelona,Las Palmas,TRUE,5,0,Win,22,7,22,7,3,4,3,4,0,0,0,0,15,11,15,11,132382,2016-2017
+1/22/2017,SP1,Barcelona,Barcelona,Eibar,FALSE,4,0,Win,14,14,14,14,3,1,1,3,0,0,0,0,12,4,4,12,132599,2016-2017
+1/29/2017,SP1,Barcelona,Barcelona,Betis,FALSE,1,1,Draw,17,10,10,17,2,3,3,2,0,0,0,0,17,12,12,17,132815,2016-2017
+2/4/2017,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,3,0,Win,16,10,16,10,1,3,1,3,0,0,0,0,11,18,11,18,132909,2016-2017
+2/11/2017,SP1,Barcelona,Barcelona,Alaves,FALSE,6,0,Win,9,21,21,9,1,3,3,1,0,0,0,0,16,9,9,16,133214,2016-2017
+2/19/2017,SP1,Barcelona,Barcelona,Leganes,TRUE,2,1,Win,13,11,13,11,1,3,1,3,0,0,0,0,8,18,8,18,133620,2016-2017
+2/26/2017,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,2,1,Win,12,15,15,12,4,2,2,4,0,0,0,0,28,14,14,28,133876,2016-2017
+3/1/2017,SP1,Barcelona,Barcelona,Sp Gijon,TRUE,6,1,Win,25,5,25,5,1,3,1,3,0,0,0,0,14,12,14,12,134005,2016-2017
+3/4/2017,SP1,Barcelona,Barcelona,Celta,TRUE,5,0,Win,19,7,19,7,1,3,1,3,0,0,0,0,10,16,10,16,134050,2016-2017
+3/12/2017,SP1,Barcelona,Barcelona,La Coruna,FALSE,1,2,Loss,14,16,16,14,2,0,0,2,0,0,0,0,7,8,8,7,134440,2016-2017
+3/19/2017,SP1,Barcelona,Barcelona,Valencia,TRUE,4,2,Win,28,6,28,6,3,4,3,4,0,1,0,1,4,12,4,12,134770,2016-2017
+4/2/2017,SP1,Barcelona,Barcelona,Granada,FALSE,4,1,Win,7,26,26,7,1,3,3,1,1,0,0,1,15,10,10,15,135174,2016-2017
+4/5/2017,SP1,Barcelona,Barcelona,Sevilla,TRUE,3,0,Win,15,7,15,7,4,2,4,2,0,1,0,1,16,13,16,13,135275,2016-2017
+4/8/2017,SP1,Barcelona,Barcelona,Malaga,FALSE,0,2,Loss,8,11,11,8,4,3,3,4,0,1,1,0,26,20,20,26,135429,2016-2017
+4/15/2017,SP1,Barcelona,Barcelona,Sociedad,TRUE,3,2,Win,16,14,16,14,3,2,3,2,0,0,0,0,15,17,15,17,135711,2016-2017
+4/23/2017,SP1,Barcelona,Barcelona,Real Madrid,FALSE,3,2,Win,22,16,16,22,2,2,2,2,1,0,0,1,13,8,8,13,136209,2016-2017
+4/26/2017,SP1,Barcelona,Barcelona,Osasuna,TRUE,7,1,Win,19,3,19,3,0,0,0,0,0,0,0,0,3,7,3,7,136312,2016-2017
+4/29/2017,SP1,Barcelona,Barcelona,Espanol,FALSE,3,0,Win,6,15,15,6,3,0,0,3,0,0,0,0,19,18,18,19,136379,2016-2017
+5/6/2017,SP1,Barcelona,Barcelona,Villarreal,TRUE,4,1,Win,20,8,20,8,2,4,2,4,0,0,0,0,10,13,10,13,136722,2016-2017
+5/14/2017,SP1,Barcelona,Barcelona,Las Palmas,FALSE,4,1,Win,11,11,11,11,0,1,1,0,0,0,0,0,13,15,15,13,137092,2016-2017
+5/21/2017,SP1,Barcelona,Barcelona,Eibar,TRUE,4,2,Win,18,6,18,6,1,2,1,2,0,1,0,1,3,16,3,16,137384,2016-2017
+8/19/2017,SP2,Barcelona,Barcelona B,Valladolid,FALSE,2,1,Win,19,9,9,19,4,1,1,4,0,0,0,0,21,16,16,21,138957,2017-2018
+8/20/2017,SP1,Barcelona,Barcelona,Betis,TRUE,2,0,Win,15,3,15,3,2,1,2,1,0,0,0,0,16,15,16,15,139123,2017-2018
+8/26/2017,SP1,Barcelona,Barcelona,Alaves,FALSE,2,0,Win,11,23,23,11,2,3,3,2,0,0,0,0,12,10,10,12,139292,2017-2018
+8/28/2017,SP2,Barcelona,Barcelona B,Tenerife,TRUE,0,3,Loss,7,17,7,17,2,1,2,1,0,0,0,0,11,16,11,16,139534,2017-2018
+9/1/2017,SP2,Barcelona,Barcelona B,Granada,FALSE,2,2,Draw,11,13,13,11,2,1,1,2,0,0,0,0,21,11,11,21,139559,2017-2018
+9/9/2017,SP1,Barcelona,Barcelona,Espanol,TRUE,5,0,Win,20,9,20,9,1,5,1,5,0,0,0,0,11,18,11,18,139747,2017-2018
+9/9/2017,SP2,Barcelona,Barcelona B,Cordoba,TRUE,4,0,Win,12,15,12,15,2,2,2,2,0,0,0,0,16,15,16,15,139761,2017-2018
+9/16/2017,SP1,Barcelona,Barcelona,Getafe,FALSE,2,1,Win,13,7,7,13,2,4,4,2,0,0,0,0,15,14,14,15,140089,2017-2018
+9/17/2017,SP2,Barcelona,Barcelona B,Alcorcon,FALSE,1,1,Draw,18,12,12,18,2,1,1,2,0,0,0,0,13,12,12,13,140242,2017-2018
+9/19/2017,SP1,Barcelona,Barcelona,Eibar,TRUE,6,1,Win,11,13,11,13,0,2,0,2,0,0,0,0,4,9,4,9,140339,2017-2018
+9/23/2017,SP1,Barcelona,Barcelona,Girona,FALSE,3,0,Win,13,9,9,13,3,0,0,3,0,0,0,0,21,5,5,21,140455,2017-2018
+9/25/2017,SP2,Barcelona,Barcelona B,Lugo,TRUE,1,2,Loss,8,16,8,16,1,3,1,3,0,0,0,0,18,20,18,20,140717,2017-2018
+10/1/2017,SP1,Barcelona,Barcelona,Las Palmas,TRUE,3,0,Win,22,10,22,10,5,1,5,1,0,0,0,0,10,11,10,11,141005,2017-2018
+10/8/2017,SP2,Barcelona,Barcelona B,Oviedo,TRUE,1,1,Draw,9,15,9,15,1,2,1,2,0,0,0,0,5,11,5,11,141148,2017-2018
+10/11/2017,SP2,Barcelona,Barcelona B,Numancia,FALSE,0,1,Loss,19,9,9,19,5,4,4,5,0,0,0,0,15,12,12,15,141237,2017-2018
+10/14/2017,SP2,Barcelona,Barcelona B,Lorca,TRUE,1,0,Win,15,16,15,16,2,2,2,2,0,0,0,0,14,12,14,12,141299,2017-2018
+10/14/2017,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,1,1,Draw,5,15,15,5,3,2,2,3,0,0,0,0,12,10,10,12,141316,2017-2018
+10/20/2017,SP2,Barcelona,Barcelona B,Osasuna,FALSE,2,2,Draw,15,9,9,15,5,2,2,5,1,0,0,1,13,6,6,13,141617,2017-2018
+10/21/2017,SP1,Barcelona,Barcelona,Malaga,TRUE,2,0,Win,12,13,12,13,1,4,1,4,0,0,0,0,10,11,10,11,141690,2017-2018
+10/28/2017,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,2,0,Win,17,17,17,17,1,4,4,1,0,0,0,0,15,12,12,15,142038,2017-2018
+10/29/2017,SP2,Barcelona,Barcelona B,Sevilla B,TRUE,1,1,Draw,16,7,16,7,3,4,3,4,0,0,0,0,14,20,14,20,142191,2017-2018
+11/1/2017,SP2,Barcelona,Barcelona B,Gimnastic,FALSE,0,0,Draw,18,9,9,18,2,2,2,2,0,0,0,0,16,8,8,16,142313,2017-2018
+11/4/2017,SP1,Barcelona,Barcelona,Sevilla,TRUE,2,1,Win,18,8,18,8,1,0,1,0,0,0,0,0,10,12,10,12,142388,2017-2018
+11/5/2017,SP2,Barcelona,Barcelona B,Leonesa,FALSE,1,1,Draw,21,14,14,21,3,3,3,3,0,0,0,0,12,15,15,12,142496,2017-2018
+11/11/2017,SP2,Barcelona,Barcelona B,Huesca,TRUE,0,2,Loss,10,15,10,15,2,3,2,3,0,0,0,0,9,20,9,20,142567,2017-2018
+11/18/2017,SP1,Barcelona,Barcelona,Leganes,FALSE,3,0,Win,18,11,11,18,1,2,2,1,0,0,0,0,25,10,10,25,142692,2017-2018
+11/19/2017,SP2,Barcelona,Barcelona B,Vallecano,FALSE,0,1,Loss,19,11,11,19,1,1,1,1,0,0,0,0,6,10,10,6,142846,2017-2018
+11/26/2017,SP1,Barcelona,Barcelona,Valencia,FALSE,1,1,Draw,8,12,12,8,4,0,0,4,0,0,0,0,12,11,11,12,143150,2017-2018
+11/26/2017,SP2,Barcelona,Barcelona B,Almeria,TRUE,1,1,Draw,12,9,12,9,4,3,4,3,0,1,0,1,15,16,15,16,143160,2017-2018
+12/2/2017,SP2,Barcelona,Barcelona B,Reus Deportiu,FALSE,1,2,Loss,11,18,18,11,1,2,2,1,0,0,0,0,17,13,13,17,143382,2017-2018
+12/2/2017,SP1,Barcelona,Barcelona,Celta,TRUE,2,2,Draw,21,10,21,10,3,6,3,6,0,0,0,0,11,12,11,12,143392,2017-2018
+12/8/2017,SP2,Barcelona,Barcelona B,Sp Gijon,TRUE,2,1,Win,12,7,12,7,1,2,1,2,0,0,0,0,12,19,12,19,143540,2017-2018
+12/10/2017,SP1,Barcelona,Barcelona,Villarreal,FALSE,2,0,Win,9,16,16,9,2,1,1,2,1,0,0,1,18,13,13,18,143709,2017-2018
+12/15/2017,SP2,Barcelona,Barcelona B,Cadiz,FALSE,1,3,Loss,13,7,7,13,2,4,4,2,0,0,0,0,16,18,18,16,143826,2017-2018
+12/17/2017,SP1,Barcelona,Barcelona,La Coruna,TRUE,4,0,Win,23,10,23,10,0,1,0,1,0,0,0,0,12,10,12,10,143980,2017-2018
+12/19/2017,SP2,Barcelona,Barcelona B,Albacete,TRUE,0,1,Loss,7,10,7,10,2,5,2,5,0,0,0,0,8,14,8,14,144032,2017-2018
+12/23/2017,SP1,Barcelona,Barcelona,Real Madrid,FALSE,3,0,Win,14,18,18,14,2,2,2,2,1,0,0,1,14,10,10,14,144176,2017-2018
+1/6/2018,SP2,Barcelona,Barcelona B,Zaragoza,FALSE,1,1,Draw,15,10,10,15,3,1,1,3,0,0,0,0,17,6,6,17,144486,2017-2018
+1/7/2018,SP1,Barcelona,Barcelona,Levante,TRUE,3,0,Win,16,9,16,9,0,4,0,4,0,0,0,0,10,22,10,22,144546,2017-2018
+1/13/2018,SP2,Barcelona,Barcelona B,Valladolid,TRUE,0,1,Loss,12,6,12,6,3,2,3,2,0,0,0,0,12,14,12,14,144697,2017-2018
+1/14/2018,SP1,Barcelona,Barcelona,Sociedad,FALSE,4,2,Win,15,11,11,15,2,2,2,2,0,0,0,0,15,13,13,15,144806,2017-2018
+1/21/2018,SP2,Barcelona,Barcelona B,Tenerife,FALSE,3,1,Win,16,6,6,16,3,3,3,3,0,0,0,0,16,16,16,16,144971,2017-2018
+1/21/2018,SP1,Barcelona,Barcelona,Betis,FALSE,5,0,Win,7,14,14,7,2,2,2,2,0,0,0,0,12,9,9,12,144993,2017-2018
+1/27/2018,SP2,Barcelona,Barcelona B,Granada,TRUE,3,0,Win,8,11,8,11,2,1,2,1,0,0,0,0,10,16,10,16,145080,2017-2018
+1/28/2018,SP1,Barcelona,Barcelona,Alaves,TRUE,2,1,Win,18,7,18,7,0,2,0,2,0,0,0,0,6,18,6,18,145215,2017-2018
+2/4/2018,SP2,Barcelona,Barcelona B,Cordoba,FALSE,2,1,Win,7,16,16,7,5,3,3,5,0,0,0,0,19,12,12,19,145448,2017-2018
+2/4/2018,SP1,Barcelona,Barcelona,Espanol,FALSE,1,1,Draw,7,12,12,7,5,3,3,5,0,0,0,0,15,12,12,15,145466,2017-2018
+2/10/2018,SP2,Barcelona,Barcelona B,Alcorcon,TRUE,0,1,Loss,11,12,11,12,2,4,2,4,0,0,0,0,13,20,13,20,145646,2017-2018
+2/11/2018,SP1,Barcelona,Barcelona,Getafe,TRUE,0,0,Draw,12,10,12,10,2,3,2,3,0,0,0,0,7,13,7,13,145779,2017-2018
+2/17/2018,SP1,Barcelona,Barcelona,Eibar,FALSE,2,0,Win,13,10,10,13,3,1,1,3,1,0,0,1,13,6,6,13,145922,2017-2018
+2/18/2018,SP2,Barcelona,Barcelona B,Lugo,FALSE,2,1,Win,11,12,12,11,3,4,4,3,0,0,0,0,16,8,8,16,146050,2017-2018
+2/24/2018,SP2,Barcelona,Barcelona B,Gimnastic,TRUE,1,1,Draw,12,7,12,7,0,3,0,3,0,0,0,0,16,15,16,15,146212,2017-2018
+2/24/2018,SP1,Barcelona,Barcelona,Girona,TRUE,6,1,Win,21,10,21,10,1,1,1,1,0,0,0,0,11,11,11,11,146244,2017-2018
+3/1/2018,SP1,Barcelona,Barcelona,Las Palmas,FALSE,1,1,Draw,12,10,10,12,6,3,3,6,0,0,0,0,18,13,13,18,146478,2017-2018
+3/2/2018,SP2,Barcelona,Barcelona B,Oviedo,FALSE,0,0,Draw,14,7,7,14,4,1,1,4,0,0,0,0,15,14,14,15,146484,2017-2018
+3/4/2018,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,1,0,Win,16,6,16,6,2,2,2,2,0,0,0,0,16,20,16,20,146637,2017-2018
+3/10/2018,SP1,Barcelona,Barcelona,Malaga,FALSE,2,0,Win,6,20,20,6,1,1,1,1,1,0,0,1,15,9,9,15,146775,2017-2018
+3/11/2018,SP2,Barcelona,Barcelona B,Numancia,TRUE,2,2,Draw,11,12,11,12,3,0,3,0,0,0,0,0,10,18,10,18,146876,2017-2018
+3/17/2018,SP2,Barcelona,Barcelona B,Lorca,FALSE,1,1,Draw,18,13,13,18,2,1,1,2,0,0,0,0,18,10,10,18,147039,2017-2018
+3/18/2018,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,2,0,Win,18,10,18,10,2,2,2,2,0,0,0,0,7,14,7,14,147183,2017-2018
+3/25/2018,SP2,Barcelona,Barcelona B,Osasuna,TRUE,0,2,Loss,15,7,15,7,4,4,4,4,0,0,0,0,14,16,14,16,147351,2017-2018
+3/31/2018,SP1,Barcelona,Barcelona,Sevilla,FALSE,2,2,Draw,21,20,20,21,2,0,0,2,0,0,0,0,11,7,7,11,147481,2017-2018
+4/1/2018,SP2,Barcelona,Barcelona B,Sevilla B,FALSE,1,3,Loss,9,16,16,9,2,3,3,2,0,0,0,0,22,15,15,22,147576,2017-2018
+4/7/2018,SP1,Barcelona,Barcelona,Leganes,TRUE,3,1,Win,12,11,12,11,2,4,2,4,0,0,0,0,14,12,14,12,147759,2017-2018
+4/7/2018,SP2,Barcelona,Barcelona B,Leonesa,TRUE,0,1,Loss,18,8,18,8,2,8,2,8,0,1,0,1,19,16,19,16,147764,2017-2018
+4/14/2018,SP1,Barcelona,Barcelona,Valencia,TRUE,2,1,Win,12,17,12,17,2,2,2,2,0,0,0,0,9,11,9,11,148104,2017-2018
+4/16/2018,SP2,Barcelona,Barcelona B,Huesca,FALSE,1,2,Loss,17,11,11,17,3,4,4,3,0,0,0,0,14,11,11,14,148338,2017-2018
+4/17/2018,SP1,Barcelona,Barcelona,Celta,FALSE,2,2,Draw,18,14,14,18,3,0,0,3,0,1,1,0,9,7,7,9,148356,2017-2018
+4/22/2018,SP2,Barcelona,Barcelona B,Vallecano,TRUE,2,3,Loss,13,8,13,8,3,3,3,3,0,0,0,0,8,14,8,14,148660,2017-2018
+4/28/2018,SP2,Barcelona,Barcelona B,Almeria,FALSE,0,1,Loss,8,17,17,8,3,4,4,3,0,0,0,0,13,14,14,13,148834,2017-2018
+4/29/2018,SP1,Barcelona,Barcelona,La Coruna,FALSE,4,2,Win,17,21,21,17,1,1,1,1,0,0,0,0,9,9,9,9,149023,2017-2018
+5/5/2018,SP2,Barcelona,Barcelona B,Reus Deportiu,TRUE,0,1,Loss,20,9,20,9,1,2,1,2,0,0,0,0,11,10,11,10,149192,2017-2018
+5/6/2018,SP1,Barcelona,Barcelona,Real Madrid,TRUE,2,2,Draw,11,17,11,17,3,5,3,5,1,0,1,0,8,20,8,20,149330,2017-2018
+5/9/2018,SP1,Barcelona,Barcelona,Villarreal,TRUE,5,1,Win,12,20,12,20,0,3,0,3,0,0,0,0,6,15,6,15,149439,2017-2018
+5/12/2018,SP2,Barcelona,Barcelona B,Sp Gijon,FALSE,3,2,Win,15,11,11,15,1,6,6,1,0,1,1,0,20,12,12,20,149499,2017-2018
+5/13/2018,SP1,Barcelona,Barcelona,Levante,FALSE,4,5,Loss,12,18,18,12,6,6,6,6,0,0,0,0,18,12,12,18,149559,2017-2018
+5/20/2018,SP2,Barcelona,Barcelona B,Cadiz,TRUE,3,1,Win,13,10,13,10,2,3,2,3,0,0,0,0,21,14,21,14,149781,2017-2018
+5/20/2018,SP1,Barcelona,Barcelona,Sociedad,TRUE,1,0,Win,12,13,12,13,3,2,3,2,0,0,0,0,13,13,13,13,149787,2017-2018
+5/27/2018,SP2,Barcelona,Barcelona B,Albacete,FALSE,0,0,Draw,10,13,13,10,3,1,1,3,0,0,0,0,18,12,12,18,149903,2017-2018
+6/2/2018,SP2,Barcelona,Barcelona B,Zaragoza,TRUE,0,2,Loss,18,6,18,6,1,2,1,2,0,0,0,0,14,11,14,11,149971,2017-2018
+8/18/2018,SP1,Barcelona,Barcelona,Alaves,TRUE,3,0,Win,25,3,25,3,0,2,0,2,0,0,0,0,6,13,6,13,151087,2018-2019
+8/25/2018,SP1,Barcelona,Barcelona,Valladolid,FALSE,1,0,Win,7,10,10,7,1,1,1,1,0,0,0,0,13,11,11,13,151403,2018-2019
+9/2/2018,SP1,Barcelona,Barcelona,Huesca,TRUE,8,2,Win,31,7,31,7,1,2,1,2,0,0,0,0,6,12,6,12,151875,2018-2019
+9/15/2018,SP1,Barcelona,Barcelona,Sociedad,FALSE,2,1,Win,8,12,12,8,1,1,1,1,0,0,0,0,18,8,8,18,152148,2018-2019
+9/23/2018,SP1,Barcelona,Barcelona,Girona,TRUE,2,2,Draw,22,7,22,7,3,5,3,5,1,0,1,0,9,16,9,16,152630,2018-2019
+9/26/2018,SP1,Barcelona,Barcelona,Leganes,FALSE,1,2,Loss,10,9,9,10,4,2,2,4,0,0,0,0,15,11,11,15,152785,2018-2019
+9/29/2018,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,1,1,Draw,20,8,20,8,3,3,3,3,0,0,0,0,9,18,9,18,152874,2018-2019
+10/7/2018,SP1,Barcelona,Barcelona,Valencia,FALSE,1,1,Draw,10,10,10,10,2,2,2,2,0,0,0,0,11,6,6,11,153414,2018-2019
+10/20/2018,SP1,Barcelona,Barcelona,Sevilla,TRUE,4,2,Win,23,19,23,19,0,1,0,1,0,0,0,0,10,16,10,16,153609,2018-2019
+10/28/2018,SP1,Barcelona,Barcelona,Real Madrid,TRUE,5,1,Win,13,15,13,15,2,2,2,2,0,0,0,0,17,14,17,14,154132,2018-2019
+11/3/2018,SP1,Barcelona,Barcelona,Vallecano,FALSE,3,2,Win,11,9,9,11,4,2,2,4,0,0,0,0,23,11,11,23,154363,2018-2019
+11/11/2018,SP1,Barcelona,Barcelona,Betis,TRUE,3,4,Loss,20,15,20,15,4,2,4,2,1,0,1,0,13,11,13,11,154737,2018-2019
+11/24/2018,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,1,1,Draw,3,8,8,3,5,3,3,5,0,0,0,0,19,12,12,19,154972,2018-2019
+12/2/2018,SP1,Barcelona,Barcelona,Villarreal,TRUE,2,0,Win,16,12,16,12,2,4,2,4,0,0,0,0,9,17,9,17,155405,2018-2019
+12/8/2018,SP1,Barcelona,Barcelona,Espanol,FALSE,4,0,Win,15,17,17,15,1,0,0,1,0,0,0,0,16,10,10,16,155555,2018-2019
+12/16/2018,SP1,Barcelona,Barcelona,Levante,FALSE,5,0,Win,20,16,16,20,2,3,3,2,1,0,0,1,12,9,9,12,155949,2018-2019
+12/22/2018,SP1,Barcelona,Barcelona,Celta,TRUE,2,0,Win,9,11,9,11,0,1,0,1,0,0,0,0,14,15,14,15,156076,2018-2019
+1/6/2019,SP1,Barcelona,Barcelona,Getafe,FALSE,2,1,Win,10,12,12,10,4,3,3,4,0,0,0,0,23,12,12,23,156546,2018-2019
+1/13/2019,SP1,Barcelona,Barcelona,Eibar,TRUE,3,0,Win,7,15,7,15,2,1,2,1,0,0,0,0,10,12,10,12,156831,2018-2019
+1/20/2019,SP1,Barcelona,Barcelona,Leganes,TRUE,3,1,Win,15,5,15,5,3,3,3,3,0,0,0,0,12,18,12,18,157018,2018-2019
+1/27/2019,SP1,Barcelona,Barcelona,Girona,FALSE,2,0,Win,13,15,15,13,5,3,3,5,1,0,0,1,18,12,12,18,157178,2018-2019
+2/2/2019,SP1,Barcelona,Barcelona,Valencia,TRUE,2,2,Draw,20,14,20,14,3,0,3,0,0,0,0,0,8,5,8,5,157371,2018-2019
+2/10/2019,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,0,0,Draw,13,10,10,13,4,2,2,4,1,0,0,1,23,10,10,23,157745,2018-2019
+2/16/2019,SP1,Barcelona,Barcelona,Valladolid,TRUE,1,0,Win,20,10,20,10,1,3,1,3,0,0,0,0,12,18,12,18,157892,2018-2019
+2/23/2019,SP1,Barcelona,Barcelona,Sevilla,FALSE,4,2,Win,13,17,17,13,6,1,1,6,0,0,0,0,15,11,11,15,158147,2018-2019
+3/2/2019,SP1,Barcelona,Barcelona,Real Madrid,FALSE,1,0,Win,17,10,10,17,3,2,2,3,0,0,0,0,16,13,13,16,158429,2018-2019
+3/9/2019,SP1,Barcelona,Barcelona,Vallecano,TRUE,3,1,Win,12,8,12,8,1,2,1,2,0,0,0,0,12,17,12,17,158774,2018-2019
+3/17/2019,SP1,Barcelona,Barcelona,Betis,FALSE,4,1,Win,13,16,16,13,1,2,2,1,0,0,0,0,10,11,11,10,159200,2018-2019
+3/30/2019,SP1,Barcelona,Barcelona,Espanol,TRUE,2,0,Win,13,4,13,4,0,4,0,4,0,0,0,0,15,14,15,14,159392,2018-2019
+4/2/2019,SP1,Barcelona,Barcelona,Villarreal,FALSE,4,4,Draw,16,15,15,16,4,7,7,4,1,0,0,1,10,10,10,10,159658,2018-2019
+4/6/2019,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,2,0,Win,21,9,21,9,3,4,3,4,0,1,0,1,14,12,14,12,159800,2018-2019
+4/13/2019,SP1,Barcelona,Barcelona,Huesca,FALSE,0,0,Draw,6,10,10,6,1,2,2,1,0,0,0,0,18,13,13,18,160108,2018-2019
+4/20/2019,SP1,Barcelona,Barcelona,Sociedad,TRUE,2,1,Win,11,9,11,9,0,1,0,1,0,0,0,0,10,12,10,12,160455,2018-2019
+4/23/2019,SP1,Barcelona,Barcelona,Alaves,FALSE,2,0,Win,6,17,17,6,3,1,1,3,0,0,0,0,19,9,9,19,160711,2018-2019
+4/27/2019,SP1,Barcelona,Barcelona,Levante,TRUE,1,0,Win,23,7,23,7,4,3,4,3,0,0,0,0,17,12,17,12,160824,2018-2019
+5/4/2019,SP1,Barcelona,Barcelona,Celta,FALSE,0,2,Loss,14,8,8,14,1,5,5,1,0,0,0,0,11,13,13,11,161123,2018-2019
+5/12/2019,SP1,Barcelona,Barcelona,Getafe,TRUE,2,0,Win,13,11,13,11,1,3,1,3,0,0,0,0,9,13,9,13,161490,2018-2019
+5/19/2019,SP1,Barcelona,Barcelona,Eibar,FALSE,2,2,Draw,15,6,6,15,4,2,2,4,0,0,0,0,11,3,3,11,161696,2018-2019
+8/16/2019,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,0,1,Loss,11,11,11,11,1,1,1,1,0,0,0,0,14,9,9,14,163107,2019-2020
+8/25/2019,SP1,Barcelona,Barcelona,Betis,TRUE,5,2,Win,20,4,20,4,1,1,1,1,0,0,0,0,14,12,14,12,163667,2019-2020
+8/31/2019,SP1,Barcelona,Barcelona,Osasuna,FALSE,2,2,Draw,15,8,8,15,3,4,4,3,0,0,0,0,16,9,9,16,163864,2019-2020
+9/14/2019,SP1,Barcelona,Barcelona,Valencia,TRUE,5,2,Win,17,9,17,9,1,4,1,4,0,0,0,0,11,11,11,11,164325,2019-2020
+9/21/2019,SP1,Barcelona,Barcelona,Granada,FALSE,0,2,Loss,9,8,8,9,3,2,2,3,0,0,0,0,22,12,12,22,164679,2019-2020
+9/24/2019,SP1,Barcelona,Barcelona,Villarreal,TRUE,2,1,Win,8,11,8,11,4,2,4,2,0,0,0,0,4,13,4,13,164831,2019-2020
+9/28/2019,SP1,Barcelona,Barcelona,Getafe,FALSE,2,0,Win,8,10,10,8,4,4,4,4,0,1,1,0,23,17,17,23,165036,2019-2020
+10/6/2019,SP1,Barcelona,Barcelona,Sevilla,TRUE,4,0,Win,15,16,15,16,5,3,5,3,2,0,2,0,10,12,10,12,165508,2019-2020
+10/19/2019,SP1,Barcelona,Barcelona,Eibar,FALSE,3,0,Win,5,9,9,5,5,0,0,5,0,0,0,0,16,14,14,16,165729,2019-2020
+10/29/2019,SP1,Barcelona,Barcelona,Valladolid,TRUE,5,1,Win,18,9,18,9,0,3,0,3,0,0,0,0,9,14,9,14,166336,2019-2020
+11/2/2019,SP1,Barcelona,Barcelona,Levante,FALSE,1,3,Loss,9,9,9,9,1,6,6,1,0,0,0,0,9,13,13,9,166507,2019-2020
+11/9/2019,SP1,Barcelona,Barcelona,Celta,TRUE,4,1,Win,10,6,10,6,4,1,4,1,0,0,0,0,18,14,18,14,166803,2019-2020
+11/23/2019,SP1,Barcelona,Barcelona,Leganes,FALSE,2,1,Win,9,11,11,9,1,2,2,1,0,0,0,0,11,10,10,11,166974,2019-2020
+12/1/2019,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,1,0,Win,17,13,13,17,4,4,4,4,0,0,0,0,12,11,11,12,167450,2019-2020
+12/7/2019,SP1,Barcelona,Barcelona,Mallorca,TRUE,5,2,Win,25,9,25,9,3,0,3,0,0,0,0,0,15,10,15,10,167707,2019-2020
+12/14/2019,SP1,Barcelona,Barcelona,Sociedad,FALSE,2,2,Draw,19,9,9,19,0,1,1,0,0,0,0,0,7,8,8,7,167901,2019-2020
+12/18/2019,SP1,Barcelona,Barcelona,Real Madrid,TRUE,0,0,Draw,9,17,9,17,3,5,3,5,0,0,0,0,5,17,5,17,168028,2019-2020
+12/21/2019,SP1,Barcelona,Barcelona,Alaves,TRUE,4,1,Win,8,5,8,5,2,4,2,4,0,0,0,0,10,11,10,11,168153,2019-2020
+1/4/2020,SP1,Barcelona,Barcelona,Espanol,FALSE,2,2,Draw,8,14,14,8,2,2,2,2,0,1,1,0,17,11,11,17,168566,2019-2020
+1/19/2020,SP1,Barcelona,Barcelona,Granada,TRUE,1,0,Win,18,5,18,5,0,4,0,4,0,1,0,1,11,17,11,17,168981,2019-2020
+1/25/2020,SP1,Barcelona,Barcelona,Valencia,FALSE,0,2,Loss,8,14,14,8,1,3,3,1,0,0,0,0,13,16,16,13,169107,2019-2020
+2/2/2020,SP1,Barcelona,Barcelona,Levante,TRUE,2,1,Win,23,10,23,10,2,0,2,0,0,0,0,0,6,10,6,10,169462,2019-2020
+2/9/2020,SP1,Barcelona,Barcelona,Betis,FALSE,3,2,Win,7,10,10,7,5,5,5,5,1,1,1,1,21,17,17,21,169701,2019-2020
+2/15/2020,SP1,Barcelona,Barcelona,Getafe,TRUE,2,1,Win,12,7,12,7,3,2,3,2,0,0,0,0,12,30,12,30,169903,2019-2020
+2/22/2020,SP1,Barcelona,Barcelona,Eibar,TRUE,5,0,Win,13,12,13,12,0,2,0,2,0,0,0,0,8,19,8,19,170162,2019-2020
+3/1/2020,SP1,Barcelona,Barcelona,Real Madrid,FALSE,0,2,Loss,13,9,9,13,2,2,2,2,0,0,0,0,13,10,10,13,170524,2019-2020
+3/7/2020,SP1,Barcelona,Barcelona,Sociedad,TRUE,1,0,Win,13,9,13,9,4,3,4,3,0,0,0,0,12,10,12,10,170701,2019-2020
+6/13/2020,SP1,Barcelona,Barcelona,Mallorca,FALSE,4,0,Win,13,12,12,13,1,2,2,1,0,0,0,0,16,5,5,16,171381,2019-2020
+6/16/2020,SP1,Barcelona,Barcelona,Leganes,TRUE,2,0,Win,10,6,10,6,5,3,5,3,0,0,0,0,16,16,16,16,171459,2019-2020
+6/19/2020,SP1,Barcelona,Barcelona,Sevilla,FALSE,0,0,Draw,8,10,10,8,3,2,2,3,0,0,0,0,17,8,8,17,171525,2019-2020
+6/23/2020,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,1,0,Win,18,6,18,6,2,1,2,1,0,0,0,0,10,16,10,16,171689,2019-2020
+6/27/2020,SP1,Barcelona,Barcelona,Celta,FALSE,2,2,Draw,10,18,18,10,3,4,4,3,0,0,0,0,19,10,10,19,171786,2019-2020
+6/30/2020,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,2,2,Draw,12,10,12,10,3,5,3,5,0,0,0,0,11,15,11,15,171923,2019-2020
+7/5/2020,SP1,Barcelona,Barcelona,Villarreal,FALSE,4,1,Win,11,18,18,11,1,0,0,1,0,0,0,0,11,11,11,11,172071,2019-2020
+7/8/2020,SP1,Barcelona,Barcelona,Espanol,TRUE,1,0,Win,9,11,9,11,0,2,0,2,1,1,1,1,8,12,8,12,172156,2019-2020
+7/11/2020,SP1,Barcelona,Barcelona,Valladolid,FALSE,1,0,Win,13,9,9,13,2,2,2,2,0,0,0,0,15,13,13,15,172254,2019-2020
+7/16/2020,SP1,Barcelona,Barcelona,Osasuna,TRUE,1,2,Loss,19,9,19,9,4,1,4,1,0,1,0,1,7,14,7,14,172428,2019-2020
+7/19/2020,SP1,Barcelona,Barcelona,Alaves,FALSE,5,0,Win,8,16,16,8,0,0,0,0,0,0,0,0,17,15,15,17,172527,2019-2020
+9/27/2020,SP1,Barcelona,Barcelona,Villarreal,TRUE,4,0,Win,17,5,17,5,0,1,0,1,0,0,0,0,9,10,9,10,174340,2020-2021
+10/1/2020,SP1,Barcelona,Barcelona,Celta,FALSE,3,0,Win,10,6,6,10,5,5,5,5,0,1,1,0,22,10,10,22,174398,2020-2021
+10/4/2020,SP1,Barcelona,Barcelona,Sevilla,TRUE,1,1,Draw,12,13,12,13,1,1,1,1,0,0,0,0,11,18,11,18,174579,2020-2021
+10/17/2020,SP1,Barcelona,Barcelona,Getafe,FALSE,0,1,Loss,9,7,7,9,4,3,3,4,0,0,0,0,20,10,10,20,174905,2020-2021
+10/24/2020,SP1,Barcelona,Barcelona,Real Madrid,TRUE,1,3,Loss,10,15,10,15,3,2,3,2,0,0,0,0,11,13,11,13,175231,2020-2021
+10/31/2020,SP1,Barcelona,Barcelona,Alaves,FALSE,1,1,Draw,4,25,25,4,4,3,3,4,1,0,0,1,16,4,4,16,175640,2020-2021
+11/7/2020,SP1,Barcelona,Barcelona,Betis,TRUE,5,2,Win,18,12,18,12,2,2,2,2,0,1,0,1,8,10,8,10,175841,2020-2021
+11/21/2020,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,0,1,Loss,9,13,13,9,4,0,0,4,0,0,0,0,12,6,6,12,176226,2020-2021
+11/29/2020,SP1,Barcelona,Barcelona,Osasuna,TRUE,4,0,Win,20,10,20,10,1,0,1,0,0,0,0,0,8,12,8,12,176579,2020-2021
+12/5/2020,SP1,Barcelona,Barcelona,Cadiz,FALSE,1,2,Loss,7,21,21,7,0,2,2,0,0,0,0,0,10,7,7,10,176873,2020-2021
+12/13/2020,SP1,Barcelona,Barcelona,Levante,TRUE,1,0,Win,24,7,24,7,2,1,2,1,0,0,0,0,4,15,4,15,177291,2020-2021
+12/16/2020,SP1,Barcelona,Barcelona,Sociedad,TRUE,2,1,Win,14,12,14,12,3,3,3,3,0,0,0,0,18,14,18,14,177433,2020-2021
+12/19/2020,SP1,Barcelona,Barcelona,Valencia,TRUE,2,2,Draw,25,12,25,12,4,2,4,2,0,0,0,0,10,14,10,14,177561,2020-2021
+12/22/2020,SP1,Barcelona,Barcelona,Valladolid,FALSE,3,0,Win,12,21,21,12,1,2,2,1,0,0,0,0,12,10,10,12,177741,2020-2021
+12/29/2020,SP1,Barcelona,Barcelona,Eibar,TRUE,1,1,Draw,16,9,16,9,0,2,0,2,0,0,0,0,6,15,6,15,177917,2020-2021
+1/3/2021,SP1,Barcelona,Barcelona,Huesca,FALSE,1,0,Win,4,20,20,4,1,0,0,1,0,0,0,0,12,11,11,12,178096,2020-2021
+1/6/2021,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,3,2,Win,8,13,13,8,2,1,1,2,0,0,0,0,10,6,6,10,178195,2020-2021
+1/9/2021,SP1,Barcelona,Barcelona,Granada,FALSE,4,0,Win,8,13,13,8,2,3,3,2,1,0,0,1,16,3,3,16,178303,2020-2021
+1/24/2021,SP1,Barcelona,Barcelona,Elche,FALSE,2,0,Win,4,15,15,4,0,2,2,0,0,0,0,0,15,9,9,15,178853,2020-2021
+1/31/2021,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,2,1,Win,12,7,12,7,2,3,2,3,0,0,0,0,12,20,12,20,179215,2020-2021
+2/7/2021,SP1,Barcelona,Barcelona,Betis,FALSE,3,2,Win,8,12,12,8,1,3,3,1,0,0,0,0,21,7,7,21,179524,2020-2021
+2/13/2021,SP1,Barcelona,Barcelona,Alaves,TRUE,5,1,Win,17,6,17,6,0,2,0,2,0,0,0,0,10,14,10,14,179752,2020-2021
+2/21/2021,SP1,Barcelona,Barcelona,Cadiz,TRUE,1,1,Draw,20,3,20,3,0,2,0,2,0,0,0,0,13,12,13,12,180091,2020-2021
+2/24/2021,SP1,Barcelona,Barcelona,Elche,TRUE,3,0,Win,9,6,9,6,0,0,0,0,0,0,0,0,8,8,8,8,180223,2020-2021
+2/27/2021,SP1,Barcelona,Barcelona,Sevilla,FALSE,2,0,Win,4,9,9,4,5,2,2,5,0,0,0,0,20,9,9,20,180360,2020-2021
+3/6/2021,SP1,Barcelona,Barcelona,Osasuna,FALSE,2,0,Win,10,13,13,10,0,2,2,0,0,0,0,0,4,12,12,4,180780,2020-2021
+3/15/2021,SP1,Barcelona,Barcelona,Huesca,TRUE,4,1,Win,12,8,12,8,0,2,0,2,0,0,0,0,8,13,8,13,181225,2020-2021
+3/21/2021,SP1,Barcelona,Barcelona,Sociedad,FALSE,6,1,Win,10,14,14,10,3,2,2,3,0,0,0,0,11,12,12,11,181547,2020-2021
+4/5/2021,SP1,Barcelona,Barcelona,Valladolid,TRUE,1,0,Win,25,7,25,7,3,3,3,3,0,1,0,1,12,13,12,13,181952,2020-2021
+4/10/2021,SP1,Barcelona,Barcelona,Real Madrid,FALSE,1,2,Loss,14,18,18,14,3,4,4,3,1,0,0,1,16,10,10,16,182162,2020-2021
+4/22/2021,SP1,Barcelona,Barcelona,Getafe,TRUE,5,2,Win,9,5,9,5,2,0,2,0,0,0,0,0,8,15,8,15,182771,2020-2021
+4/25/2021,SP1,Barcelona,Barcelona,Villarreal,FALSE,2,1,Win,10,15,15,10,2,3,3,2,1,0,0,1,16,10,10,16,182987,2020-2021
+4/29/2021,SP1,Barcelona,Barcelona,Granada,TRUE,1,2,Loss,16,6,16,6,0,4,0,4,0,0,0,0,10,22,10,22,183112,2020-2021
+5/2/2021,SP1,Barcelona,Barcelona,Valencia,FALSE,3,2,Win,9,14,14,9,2,1,1,2,0,0,0,0,12,14,14,12,183294,2020-2021
+5/8/2021,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,0,0,Draw,12,11,12,11,3,3,3,3,0,0,0,0,13,26,13,26,183473,2020-2021
+5/11/2021,SP1,Barcelona,Barcelona,Levante,FALSE,3,3,Draw,16,17,17,16,2,2,2,2,0,0,0,0,12,4,4,12,183637,2020-2021
+5/16/2021,SP1,Barcelona,Barcelona,Celta,TRUE,1,2,Loss,20,4,20,4,3,2,3,2,1,0,1,0,9,14,9,14,183915,2020-2021
+5/22/2021,SP1,Barcelona,Barcelona,Eibar,FALSE,1,0,Win,17,7,7,17,0,3,3,0,0,0,0,0,11,15,15,11,184070,2020-2021
+8/15/2021,SP1,Barcelona,Barcelona,Sociedad,TRUE,4,2,Win,13,11,13,11,2,4,2,4,0,0,0,0,11,18,11,18,185587,2021-2022
+8/21/2021,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,1,1,Draw,16,9,9,16,1,2,2,1,0,1,1,0,15,10,10,15,185866,2021-2022
+8/29/2021,SP1,Barcelona,Barcelona,Getafe,TRUE,2,1,Win,7,8,7,8,3,1,3,1,0,0,0,0,16,22,16,22,186255,2021-2022
+9/20/2021,SP1,Barcelona,Barcelona,Granada,TRUE,1,1,Draw,17,5,17,5,3,6,3,6,0,0,0,0,15,20,15,20,187073,2021-2022
+9/23/2021,SP1,Barcelona,Barcelona,Cadiz,FALSE,0,0,Draw,13,6,6,13,3,4,4,3,0,1,1,0,16,8,8,16,187188,2021-2022
+9/26/2021,SP1,Barcelona,Barcelona,Levante,TRUE,3,0,Win,20,6,20,6,1,3,1,3,0,0,0,0,11,16,11,16,187428,2021-2022
+10/2/2021,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,0,2,Loss,6,9,9,6,2,1,1,2,0,0,0,0,13,10,10,13,187720,2021-2022
+10/17/2021,SP1,Barcelona,Barcelona,Valencia,TRUE,3,1,Win,12,9,12,9,2,3,2,3,0,0,0,0,16,13,16,13,188229,2021-2022
+10/24/2021,SP1,Barcelona,Barcelona,Real Madrid,TRUE,1,2,Loss,12,10,12,10,1,1,1,1,0,0,0,0,17,13,17,13,188584,2021-2022
+10/27/2021,SP1,Barcelona,Barcelona,Vallecano,FALSE,0,1,Loss,13,16,16,13,2,2,2,2,0,0,0,0,17,12,12,17,188704,2021-2022
+10/30/2021,SP1,Barcelona,Barcelona,Alaves,TRUE,1,1,Draw,16,3,16,3,0,2,0,2,0,0,0,0,11,11,11,11,188913,2021-2022
+11/6/2021,SP1,Barcelona,Barcelona,Celta,FALSE,3,3,Draw,18,10,10,18,3,6,6,3,0,0,0,0,18,18,18,18,189204,2021-2022
+11/20/2021,SP1,Barcelona,Barcelona,Espanol,TRUE,1,0,Win,16,12,16,12,4,2,4,2,0,0,0,0,17,9,17,9,189646,2021-2022
+11/27/2021,SP1,Barcelona,Barcelona,Villarreal,FALSE,3,1,Win,14,12,12,14,2,2,2,2,0,0,0,0,19,14,14,19,189979,2021-2022
+12/4/2021,SP1,Barcelona,Barcelona,Betis,TRUE,0,1,Loss,12,8,12,8,1,2,1,2,0,0,0,0,17,12,17,12,190251,2021-2022
+12/12/2021,SP1,Barcelona,Barcelona,Osasuna,FALSE,2,2,Draw,8,10,10,8,5,4,4,5,0,0,0,0,16,16,16,16,190636,2021-2022
+12/18/2021,SP1,Barcelona,Barcelona,Elche,TRUE,3,2,Win,19,5,19,5,1,3,1,3,0,0,0,0,13,17,13,17,190839,2021-2022
+12/21/2021,SP1,Barcelona,Barcelona,Sevilla,FALSE,1,1,Draw,5,23,23,5,2,3,3,2,1,0,0,1,15,13,13,15,190942,2021-2022
+1/2/2022,SP1,Barcelona,Barcelona,Mallorca,FALSE,1,0,Win,13,13,13,13,5,2,2,5,0,0,0,0,22,24,24,22,191160,2021-2022
+1/8/2022,SP1,Barcelona,Barcelona,Granada,FALSE,1,1,Draw,14,13,13,14,2,5,5,2,0,1,1,0,9,21,21,9,191309,2021-2022
+1/23/2022,SP1,Barcelona,Barcelona,Alaves,FALSE,1,0,Win,6,10,10,6,0,0,0,0,0,0,0,0,16,8,8,16,191844,2021-2022
+2/6/2022,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,4,2,Win,9,10,9,10,2,2,2,2,1,0,1,0,15,13,15,13,192274,2021-2022
+2/13/2022,SP1,Barcelona,Barcelona,Espanol,FALSE,2,2,Draw,10,12,12,10,5,4,4,5,1,1,1,1,14,13,13,14,192656,2021-2022
+2/20/2022,SP1,Barcelona,Barcelona,Valencia,FALSE,4,1,Win,11,6,6,11,3,4,4,3,0,0,0,0,22,16,16,22,192921,2021-2022
+2/27/2022,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,4,0,Win,17,6,17,6,2,1,2,1,0,0,0,0,8,10,8,10,193301,2021-2022
+3/6/2022,SP1,Barcelona,Barcelona,Elche,FALSE,2,1,Win,13,20,20,13,2,6,6,2,1,0,0,1,10,8,8,10,193600,2021-2022
+3/13/2022,SP1,Barcelona,Barcelona,Osasuna,TRUE,4,0,Win,24,4,24,4,0,4,0,4,0,0,0,0,7,4,7,4,193973,2021-2022
+3/20/2022,SP1,Barcelona,Barcelona,Real Madrid,FALSE,4,0,Win,14,18,18,14,4,4,4,4,0,0,0,0,9,12,12,9,194334,2021-2022
+4/3/2022,SP1,Barcelona,Barcelona,Sevilla,TRUE,1,0,Win,19,8,19,8,3,3,3,3,0,0,0,0,12,8,12,8,194630,2021-2022
+4/10/2022,SP1,Barcelona,Barcelona,Levante,FALSE,3,2,Win,11,14,14,11,1,1,1,1,0,0,0,0,8,7,7,8,194975,2021-2022
+4/18/2022,SP1,Barcelona,Barcelona,Cadiz,TRUE,0,1,Loss,18,6,18,6,4,1,4,1,0,0,0,0,16,9,16,9,195351,2021-2022
+4/21/2022,SP1,Barcelona,Barcelona,Sociedad,FALSE,1,0,Win,8,11,11,8,1,2,2,1,0,0,0,0,12,9,9,12,195433,2021-2022
+4/24/2022,SP1,Barcelona,Barcelona,Vallecano,TRUE,0,1,Loss,18,3,18,3,4,6,4,6,0,0,0,0,10,1,10,1,195677,2021-2022
+5/1/2022,SP1,Barcelona,Barcelona,Mallorca,TRUE,2,1,Win,17,6,17,6,2,3,2,3,0,0,0,0,13,12,13,12,195984,2021-2022
+5/7/2022,SP1,Barcelona,Barcelona,Betis,FALSE,2,1,Win,14,11,11,14,1,2,2,1,0,0,0,0,16,18,18,16,196187,2021-2022
+5/10/2022,SP1,Barcelona,Barcelona,Celta,TRUE,3,1,Win,10,13,10,13,3,0,3,0,0,1,0,1,18,6,18,6,196284,2021-2022
+5/15/2022,SP1,Barcelona,Barcelona,Getafe,FALSE,0,0,Draw,9,5,5,9,1,2,2,1,0,0,0,0,9,8,8,9,196555,2021-2022
+5/22/2022,SP1,Barcelona,Barcelona,Villarreal,TRUE,0,2,Loss,14,4,14,4,3,1,3,1,0,0,0,0,12,7,12,7,196767,2021-2022
+8/13/2022,SP1,Barcelona,Barcelona,Vallecano,TRUE,0,0,Draw,21,4,21,4,3,6,3,6,1,0,1,0,16,14,16,14,198362,2022-2023
+8/21/2022,SP1,Barcelona,Barcelona,Sociedad,FALSE,4,1,Win,10,15,15,10,2,1,1,2,0,0,0,0,16,9,9,16,198846,2022-2023
+8/28/2022,SP1,Barcelona,Barcelona,Valladolid,TRUE,4,0,Win,24,8,24,8,0,3,0,3,0,0,0,0,9,8,9,8,199172,2022-2023
+9/3/2022,SP1,Barcelona,Barcelona,Sevilla,FALSE,3,0,Win,9,18,18,9,2,4,4,2,0,0,0,0,15,14,14,15,199444,2022-2023
+9/10/2022,SP1,Barcelona,Barcelona,Cadiz,FALSE,4,0,Win,6,16,16,6,1,2,2,1,0,0,0,0,12,13,13,12,199682,2022-2023
+9/17/2022,SP1,Barcelona,Barcelona,Elche,TRUE,3,0,Win,25,1,25,1,2,2,2,2,0,1,0,1,11,9,11,9,200001,2022-2023
+10/1/2022,SP1,Barcelona,Barcelona,Mallorca,FALSE,1,0,Win,13,11,11,13,2,4,4,2,0,0,0,0,9,13,13,9,200427,2022-2023
+10/9/2022,SP1,Barcelona,Barcelona,Celta,TRUE,1,0,Win,13,14,13,14,2,4,2,4,0,0,0,0,16,9,16,9,200864,2022-2023
+10/16/2022,SP1,Barcelona,Barcelona,Real Madrid,FALSE,1,3,Loss,8,18,18,8,2,2,2,2,0,0,0,0,11,14,14,11,201144,2022-2023
+10/20/2022,SP1,Barcelona,Barcelona,Villarreal,TRUE,3,0,Win,16,5,16,5,0,1,0,1,0,0,0,0,18,11,18,11,201280,2022-2023
+10/23/2022,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,4,0,Win,10,5,10,5,2,2,2,2,0,0,0,0,7,13,7,13,201531,2022-2023
+10/29/2022,SP1,Barcelona,Barcelona,Valencia,FALSE,1,0,Win,3,13,13,3,4,5,5,4,0,0,0,0,13,7,7,13,201800,2022-2023
+11/5/2022,SP1,Barcelona,Barcelona,Almeria,TRUE,2,0,Win,27,4,27,4,2,1,2,1,0,0,0,0,14,13,14,13,202077,2022-2023
+11/8/2022,SP1,Barcelona,Barcelona,Osasuna,FALSE,2,1,Win,15,9,9,15,4,4,4,4,0,2,2,0,15,6,6,15,202197,2022-2023
+12/31/2022,SP1,Barcelona,Barcelona,Espanol,TRUE,1,1,Draw,21,4,21,4,6,7,6,7,1,1,1,1,11,15,11,15,203260,2022-2023
+1/8/2023,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,1,0,Win,20,10,10,20,2,3,3,2,1,1,1,1,8,16,16,8,203560,2022-2023
+1/22/2023,SP1,Barcelona,Barcelona,Getafe,TRUE,1,0,Win,8,7,8,7,1,2,1,2,0,0,0,0,11,6,11,6,203985,2022-2023
+1/28/2023,SP1,Barcelona,Barcelona,Girona,FALSE,1,0,Win,8,8,8,8,2,3,3,2,1,0,0,1,10,15,15,10,204136,2022-2023
+2/1/2023,SP1,Barcelona,Barcelona,Betis,FALSE,2,1,Win,5,13,13,5,3,0,0,3,1,0,0,1,17,9,9,17,204294,2022-2023
+2/5/2023,SP1,Barcelona,Barcelona,Sevilla,TRUE,3,0,Win,16,3,16,3,0,2,0,2,0,0,0,0,8,10,8,10,204529,2022-2023
+2/12/2023,SP1,Barcelona,Barcelona,Villarreal,FALSE,1,0,Win,11,7,7,11,4,4,4,4,0,0,0,0,22,18,18,22,204825,2022-2023
+2/19/2023,SP1,Barcelona,Barcelona,Cadiz,TRUE,2,0,Win,16,14,16,14,2,3,2,3,0,0,0,0,15,18,15,18,205134,2022-2023
+2/26/2023,SP1,Barcelona,Barcelona,Almeria,FALSE,0,1,Loss,7,14,14,7,3,3,3,3,0,0,0,0,13,11,11,13,205417,2022-2023
+3/5/2023,SP1,Barcelona,Barcelona,Valencia,TRUE,1,0,Win,13,13,13,13,0,0,0,0,1,0,1,0,11,13,11,13,205692,2022-2023
+3/12/2023,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,1,0,Win,15,10,10,15,2,1,1,2,0,0,0,0,13,7,7,13,206099,2022-2023
+3/19/2023,SP1,Barcelona,Barcelona,Real Madrid,TRUE,2,1,Win,17,11,17,11,4,3,4,3,0,0,0,0,12,13,12,13,206423,2022-2023
+4/1/2023,SP1,Barcelona,Barcelona,Elche,FALSE,4,0,Win,15,12,12,15,0,3,3,0,0,0,0,0,11,11,11,11,206672,2022-2023
+4/10/2023,SP1,Barcelona,Barcelona,Girona,TRUE,0,0,Draw,18,5,18,5,0,2,0,2,0,0,0,0,14,14,14,14,207099,2022-2023
+4/16/2023,SP1,Barcelona,Barcelona,Getafe,FALSE,0,0,Draw,5,15,15,5,2,1,1,2,0,0,0,0,13,12,12,13,207409,2022-2023
+4/23/2023,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,1,0,Win,13,13,13,13,4,7,4,7,0,0,0,0,15,16,15,16,207783,2022-2023
+4/26/2023,SP1,Barcelona,Barcelona,Vallecano,FALSE,1,2,Loss,9,10,10,9,1,4,4,1,0,0,0,0,10,14,14,10,207902,2022-2023
+4/29/2023,SP1,Barcelona,Barcelona,Betis,TRUE,4,0,Win,15,4,15,4,0,2,0,2,0,1,0,1,10,9,10,9,208070,2022-2023
+5/2/2023,SP1,Barcelona,Barcelona,Osasuna,TRUE,1,0,Win,21,7,21,7,0,0,0,0,0,1,0,1,7,10,7,10,208204,2022-2023
+5/14/2023,SP1,Barcelona,Barcelona,Espanol,FALSE,4,2,Win,15,15,15,15,1,3,3,1,0,0,0,0,12,9,9,12,208781,2022-2023
+5/20/2023,SP1,Barcelona,Barcelona,Sociedad,TRUE,1,2,Loss,13,13,13,13,4,4,4,4,0,0,0,0,8,16,8,16,208961,2022-2023
+5/23/2023,SP1,Barcelona,Barcelona,Valladolid,FALSE,1,3,Loss,8,16,16,8,1,0,0,1,0,0,0,0,13,9,9,13,209085,2022-2023
+5/28/2023,SP1,Barcelona,Barcelona,Mallorca,TRUE,3,0,Win,28,3,28,3,0,0,0,0,0,1,0,1,4,9,4,9,209289,2022-2023
+6/4/2023,SP1,Barcelona,Barcelona,Celta,FALSE,1,2,Loss,12,9,9,12,2,2,2,2,0,0,0,0,13,9,9,13,209412,2022-2023
+8/13/2023,SP1,Barcelona,Barcelona,Getafe,FALSE,0,0,Draw,5,14,14,5,8,2,2,8,1,1,1,1,20,11,11,20,210547,2023-2024
+8/20/2023,SP1,Barcelona,Barcelona,Cadiz,TRUE,2,0,Win,23,10,23,10,4,3,4,3,0,0,0,0,9,22,9,22,210847,2023-2024
+8/27/2023,SP1,Barcelona,Barcelona,Villarreal,FALSE,4,3,Win,13,21,21,13,3,3,3,3,0,0,0,0,12,14,14,12,211156,2023-2024
+9/3/2023,SP1,Barcelona,Barcelona,Osasuna,FALSE,2,1,Win,11,9,9,11,1,3,3,1,1,0,0,1,6,16,16,6,211443,2023-2024
+9/16/2023,SP1,Barcelona,Barcelona,Betis,TRUE,5,0,Win,17,11,17,11,1,2,1,2,0,0,0,0,9,10,9,10,211825,2023-2024
+9/23/2023,SP1,Barcelona,Barcelona,Celta,TRUE,3,2,Win,15,13,15,13,2,1,2,1,0,0,0,0,10,11,10,11,212165,2023-2024
+9/26/2023,SP1,Barcelona,Barcelona,Mallorca,FALSE,2,2,Draw,10,10,10,10,4,1,1,4,1,0,0,1,19,7,7,19,212363,2023-2024
+9/29/2023,SP1,Barcelona,Barcelona,Sevilla,TRUE,1,0,Win,18,12,18,12,2,3,2,3,0,0,0,0,11,15,11,15,212435,2023-2024
+10/8/2023,SP1,Barcelona,Barcelona,Granada,FALSE,2,2,Draw,7,22,22,7,4,1,1,4,0,0,0,0,12,7,7,12,212982,2023-2024
+10/22/2023,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,1,0,Win,12,10,12,10,3,3,3,3,0,0,0,0,11,18,11,18,213343,2023-2024
+10/28/2023,SP1,Barcelona,Barcelona,Real Madrid,TRUE,1,2,Loss,15,13,15,13,2,1,2,1,0,0,0,0,15,15,15,15,213571,2023-2024
+11/4/2023,SP1,Barcelona,Barcelona,Sociedad,FALSE,1,0,Win,13,12,12,13,3,3,3,3,0,0,0,0,16,8,8,16,213908,2023-2024
+11/12/2023,SP1,Barcelona,Barcelona,Alaves,TRUE,2,1,Win,11,8,11,8,2,1,2,1,0,0,0,0,11,10,11,10,214256,2023-2024
+11/25/2023,SP1,Barcelona,Barcelona,Vallecano,FALSE,1,1,Draw,10,15,15,10,3,4,4,3,0,0,0,0,23,13,13,23,214394,2023-2024
+12/3/2023,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,1,0,Win,13,9,13,9,5,4,5,4,0,0,0,0,17,12,17,12,214875,2023-2024
+12/10/2023,SP1,Barcelona,Barcelona,Girona,TRUE,2,4,Loss,31,15,31,15,1,2,1,2,0,0,0,0,7,10,7,10,215131,2023-2024
+12/16/2023,SP1,Barcelona,Barcelona,Valencia,FALSE,1,1,Draw,11,16,16,11,1,2,2,1,0,0,0,0,9,11,11,9,215360,2023-2024
+12/20/2023,SP1,Barcelona,Barcelona,Almeria,TRUE,3,2,Win,30,10,30,10,3,3,3,3,0,0,0,0,16,9,16,9,215456,2023-2024
+1/4/2024,SP1,Barcelona,Barcelona,Las Palmas,FALSE,2,1,Win,12,15,15,12,5,2,2,5,1,0,0,1,14,5,5,14,215886,2023-2024
+1/21/2024,SP1,Barcelona,Barcelona,Betis,FALSE,4,2,Win,14,11,11,14,1,2,2,1,0,0,0,0,12,9,9,12,216353,2023-2024
+1/27/2024,SP1,Barcelona,Barcelona,Villarreal,TRUE,3,5,Loss,22,9,22,9,3,4,3,4,0,0,0,0,8,13,8,13,216530,2023-2024
+1/31/2024,SP1,Barcelona,Barcelona,Osasuna,TRUE,1,0,Win,16,9,16,9,1,2,1,2,0,1,0,1,9,12,9,12,216659,2023-2024
+2/3/2024,SP1,Barcelona,Barcelona,Alaves,FALSE,3,1,Win,13,8,8,13,2,2,2,2,0,1,1,0,15,10,10,15,216826,2023-2024
+2/11/2024,SP1,Barcelona,Barcelona,Granada,TRUE,3,3,Draw,11,11,11,11,1,2,1,2,0,0,0,0,13,9,13,9,217156,2023-2024
+2/17/2024,SP1,Barcelona,Barcelona,Celta,FALSE,2,1,Win,13,14,14,13,2,4,4,2,0,0,0,0,11,13,13,11,217363,2023-2024
+2/24/2024,SP1,Barcelona,Barcelona,Getafe,TRUE,4,0,Win,17,10,17,10,1,4,1,4,0,0,0,0,12,18,12,18,217639,2023-2024
+3/3/2024,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,0,0,Draw,8,8,8,8,3,3,3,3,0,0,0,0,14,11,11,14,218073,2023-2024
+3/8/2024,SP1,Barcelona,Barcelona,Mallorca,TRUE,1,0,Win,20,9,20,9,1,1,1,1,0,0,0,0,9,14,9,14,218201,2023-2024
+3/17/2024,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,3,0,Win,12,9,9,12,3,1,1,3,1,0,0,1,15,9,9,15,218684,2023-2024
+3/30/2024,SP1,Barcelona,Barcelona,Las Palmas,TRUE,1,0,Win,14,8,14,8,5,1,5,1,0,1,0,1,11,9,11,9,218950,2023-2024
+4/13/2024,SP1,Barcelona,Barcelona,Cadiz,FALSE,1,0,Win,14,12,12,14,3,3,3,3,0,0,0,0,17,15,15,17,219618,2023-2024
+4/21/2024,SP1,Barcelona,Barcelona,Real Madrid,FALSE,2,3,Loss,14,14,14,14,3,2,2,3,0,0,0,0,11,12,12,11,220071,2023-2024
+4/29/2024,SP1,Barcelona,Barcelona,Valencia,TRUE,4,2,Win,27,5,27,5,1,0,1,0,0,1,0,1,12,5,12,5,220449,2023-2024
+5/4/2024,SP1,Barcelona,Barcelona,Girona,FALSE,2,4,Loss,9,16,16,9,0,3,3,0,0,0,0,0,11,8,8,11,220568,2023-2024
+5/13/2024,SP1,Barcelona,Barcelona,Sociedad,TRUE,2,0,Win,14,10,14,10,2,3,2,3,0,0,0,0,12,14,12,14,220906,2023-2024
+5/16/2024,SP1,Barcelona,Barcelona,Almeria,FALSE,2,0,Win,12,16,16,12,0,1,1,0,0,0,0,0,9,11,11,9,220984,2023-2024
+5/19/2024,SP1,Barcelona,Barcelona,Vallecano,TRUE,3,0,Win,14,15,14,15,4,2,4,2,0,0,0,0,10,7,10,7,221161,2023-2024
+5/26/2024,SP1,Barcelona,Barcelona,Sevilla,FALSE,2,1,Win,15,11,11,15,2,1,1,2,0,0,0,0,11,9,9,11,221375,2023-2024
+8/17/2024,SP1,Barcelona,Barcelona,Valencia,FALSE,2,1,Win,6,18,18,6,2,3,3,2,0,0,0,0,11,13,13,11,222620,2024-2025
+8/24/2024,SP1,Barcelona,Barcelona,Ath Bilbao,TRUE,2,1,Win,13,9,13,9,4,5,4,5,0,0,0,0,11,16,11,16,222882,2024-2025
+8/27/2024,SP1,Barcelona,Barcelona,Vallecano,FALSE,2,1,Win,8,22,22,8,3,1,1,3,0,0,0,0,17,11,11,17,223063,2024-2025
+8/31/2024,SP1,Barcelona,Barcelona,Valladolid,TRUE,7,0,Win,23,5,23,5,0,3,0,3,0,0,0,0,6,12,6,12,223198,2024-2025
+9/15/2024,SP1,Barcelona,Barcelona,Girona,FALSE,4,1,Win,9,20,20,9,3,2,2,3,0,1,1,0,13,4,4,13,223677,2024-2025
+9/22/2024,SP1,Barcelona,Barcelona,Villarreal,FALSE,5,1,Win,13,17,17,13,6,1,1,6,0,0,0,0,12,12,12,12,224051,2024-2025
+9/25/2024,SP1,Barcelona,Barcelona,Getafe,TRUE,1,0,Win,16,7,16,7,1,1,1,1,0,0,0,0,4,14,4,14,224133,2024-2025
+9/28/2024,SP1,Barcelona,Barcelona,Osasuna,FALSE,2,4,Loss,11,12,12,11,2,2,2,2,0,0,0,0,13,3,3,13,224329,2024-2025
+10/6/2024,SP1,Barcelona,Barcelona,Alaves,FALSE,3,0,Win,11,14,14,11,2,2,2,2,0,0,0,0,13,8,8,13,224750,2024-2025
+10/20/2024,SP1,Barcelona,Barcelona,Sevilla,TRUE,5,1,Win,21,7,21,7,1,2,1,2,0,0,0,0,6,14,6,14,225019,2024-2025
+10/26/2024,SP1,Barcelona,Barcelona,Real Madrid,FALSE,4,0,Win,9,15,15,9,2,5,5,2,0,0,0,0,15,17,17,15,225182,2024-2025
+11/3/2024,SP1,Barcelona,Barcelona,Espanol,TRUE,3,1,Win,14,10,14,10,0,3,0,3,0,0,0,0,13,14,13,14,225381,2024-2025
+11/10/2024,SP1,Barcelona,Barcelona,Sociedad,FALSE,0,1,Loss,14,11,11,14,3,1,1,3,0,0,0,0,17,6,6,17,225665,2024-2025
+11/23/2024,SP1,Barcelona,Barcelona,Celta,FALSE,2,2,Draw,15,9,9,15,5,5,5,5,0,1,1,0,13,9,9,13,225819,2024-2025
+11/30/2024,SP1,Barcelona,Barcelona,Las Palmas,TRUE,1,2,Loss,27,5,27,5,0,0,0,0,0,0,0,0,7,11,7,11,225922,2024-2025
+12/3/2024,SP1,Barcelona,Barcelona,Mallorca,FALSE,5,1,Win,6,20,20,6,4,3,3,4,0,0,0,0,13,13,13,13,226046,2024-2025
+12/7/2024,SP1,Barcelona,Barcelona,Betis,FALSE,2,2,Draw,12,9,9,12,1,2,2,1,0,0,0,0,15,14,14,15,226270,2024-2025
+12/15/2024,SP1,Barcelona,Barcelona,Leganes,TRUE,0,1,Loss,20,6,20,6,0,2,0,2,0,0,0,0,5,13,5,13,226558,2024-2025
+12/21/2024,SP1,Barcelona,Barcelona,Ath Madrid,TRUE,1,2,Loss,19,5,19,5,0,3,0,3,0,0,0,0,11,8,11,8,226695,2024-2025
+1/18/2025,SP1,Barcelona,Barcelona,Getafe,FALSE,1,1,Draw,10,21,21,10,3,2,2,3,0,0,0,0,9,9,9,9,227322,2024-2025
+1/26/2025,SP1,Barcelona,Barcelona,Valencia,TRUE,7,1,Win,22,7,22,7,0,1,0,1,0,0,0,0,10,12,10,12,227577,2024-2025
+2/2/2025,SP1,Barcelona,Barcelona,Alaves,TRUE,1,0,Win,11,3,11,3,5,2,5,2,0,0,0,0,8,20,8,20,227748,2024-2025
+2/9/2025,SP1,Barcelona,Barcelona,Sevilla,FALSE,4,1,Win,8,10,10,8,5,2,2,5,0,1,1,0,14,6,6,14,227952,2024-2025
+2/17/2025,SP1,Barcelona,Barcelona,Vallecano,TRUE,1,0,Win,14,9,14,9,2,3,2,3,0,0,0,0,11,9,11,9,228172,2024-2025
+2/22/2025,SP1,Barcelona,Barcelona,Las Palmas,FALSE,2,0,Win,10,15,15,10,1,1,1,1,0,0,0,0,13,4,4,13,228308,2024-2025
+3/2/2025,SP1,Barcelona,Barcelona,Sociedad,TRUE,4,0,Win,33,0,33,0,0,0,0,0,0,1,0,1,15,6,15,6,228516,2024-2025
+3/16/2025,SP1,Barcelona,Barcelona,Ath Madrid,FALSE,4,2,Win,7,13,13,7,1,3,3,1,0,0,0,0,10,11,11,10,228958,2024-2025
+3/27/2025,SP1,Barcelona,Barcelona,Osasuna,TRUE,3,0,Win,19,4,19,4,1,3,1,3,0,0,0,0,7,14,7,14,229010,2024-2025
+3/30/2025,SP1,Barcelona,Barcelona,Girona,TRUE,4,1,Win,21,4,21,4,0,1,0,1,0,0,0,0,8,11,8,11,229152,2024-2025
+4/5/2025,SP1,Barcelona,Barcelona,Betis,TRUE,1,1,Draw,13,6,13,6,2,1,2,1,0,0,0,0,16,12,16,12,229344,2024-2025
+4/12/2025,SP1,Barcelona,Barcelona,Leganes,FALSE,1,0,Win,6,12,12,6,2,1,1,2,0,0,0,0,10,4,4,10,229548,2024-2025
+4/19/2025,SP1,Barcelona,Barcelona,Celta,TRUE,4,3,Win,18,11,18,11,2,2,2,2,0,0,0,0,10,13,10,13,229699,2024-2025
+4/22/2025,SP1,Barcelona,Barcelona,Mallorca,TRUE,1,0,Win,40,4,40,4,0,1,0,1,0,0,0,0,10,7,10,7,229805,2024-2025
+5/3/2025,SP1,Barcelona,Barcelona,Valladolid,FALSE,2,1,Win,5,24,24,5,3,2,2,3,0,0,0,0,12,15,15,12,230133,2024-2025
+5/11/2025,SP1,Barcelona,Barcelona,Real Madrid,TRUE,4,3,Win,23,9,23,9,4,3,4,3,0,0,0,0,17,15,17,15,230306,2024-2025
+5/15/2025,SP1,Barcelona,Barcelona,Espanol,FALSE,2,0,Win,9,12,12,9,2,2,2,2,1,0,0,1,8,10,10,8,230369,2024-2025
+5/18/2025,SP1,Barcelona,Barcelona,Villarreal,TRUE,2,3,Loss,24,7,24,7,2,0,2,0,0,0,0,0,14,9,14,9,230458,2024-2025
+5/25/2025,SP1,Barcelona,Barcelona,Ath Bilbao,FALSE,3,0,Win,10,13,13,10,1,0,0,1,0,0,0,0,21,10,10,21,230535,2024-2025
